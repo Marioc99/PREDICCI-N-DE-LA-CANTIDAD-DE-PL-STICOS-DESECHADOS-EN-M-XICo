@@ -1,0 +1,2503 @@
+estado,municipio,cve_inegi,id_estado,id_municipio,pea,Año
+Estados Unidos Mexicanos,Total Nacional,0,0,0,62281634,2020
+Aguascalientes,Total del estado Aguascalientes,1000,1,0,706930,2020
+Aguascalientes,Aguascalientes,1001,1,1,486675,2020
+Aguascalientes,Asientos,1002,1,2,21440,2020
+Aguascalientes,Calvillo,1003,1,3,25976,2020
+Aguascalientes,Cosío,1004,1,4,7010,2020
+Aguascalientes,Jesús María,1005,1,5,65839,2020
+Aguascalientes,Pabellón de Arteaga,1006,1,6,22097,2020
+Aguascalientes,Rincón de Romos,1007,1,7,26694,2020
+Aguascalientes,San José de Gracia,1008,1,8,3834,2020
+Aguascalientes,Tepezalá,1009,1,9,9185,2020
+Aguascalientes,El Llano,1010,1,10,8668,2020
+Aguascalientes,San Francisco de los Romo,1011,1,11,29512,2020
+Baja California,Total del estado Baja California,2000,2,0,2010898,2020
+Baja California,Ensenada,2001,2,1,231560,2020
+Baja California,Mexicali,2002,2,2,548784,2020
+Baja California,Tecate,2003,2,3,52804,2020
+Baja California,Tijuana,2004,2,4,1051417,2020
+Baja California,Playas de Rosarito,2005,2,5,67128,2020
+Baja California,San Quintín,2006,2,6,59205,2020
+Baja California Sur,Total del estado Baja California Sur,3000,3,0,427280,2020
+Baja California Sur,Comondú,3001,3,1,35847,2020
+Baja California Sur,Mulegé,3002,3,2,33050,2020
+Baja California Sur,La Paz,3003,3,3,154830,2020
+Baja California Sur,Los Cabos,3008,3,8,194484,2020
+Baja California Sur,Loreto,3009,3,9,9069,2020
+Campeche,Total del estado Campeche,4000,4,0,462607,2020
+Campeche,Calkiní,4001,4,1,30100,2020
+Campeche,Campeche,4002,4,2,149442,2020
+Campeche,Carmen,4003,4,3,125297,2020
+Campeche,Champotón,4004,4,4,37660,2020
+Campeche,Hecelchakán,4005,4,5,15272,2020
+Campeche,Hopelchén,4006,4,6,20160,2020
+Campeche,Palizada,4007,4,7,3919,2020
+Campeche,Tenabo,4008,4,8,5825,2020
+Campeche,Escárcega,4009,4,9,29123,2020
+Campeche,Calakmul,4010,4,10,15391,2020
+Campeche,Candelaria,4011,4,11,23643,2020
+Campeche,Seybaplaya,4012,4,12,6775,2020
+Coahuila de Zaragoza,Total del estado Coahuila de Zaragoza,5000,5,0,1484935,2020
+Coahuila de Zaragoza,Abasolo,5001,5,1,437,2020
+Coahuila de Zaragoza,Acuña,5002,5,2,82890,2020
+Coahuila de Zaragoza,Allende,5003,5,3,9716,2020
+Coahuila de Zaragoza,Arteaga,5004,5,4,13734,2020
+Coahuila de Zaragoza,Candela,5005,5,5,523,2020
+Coahuila de Zaragoza,Castaños,5006,5,6,11732,2020
+Coahuila de Zaragoza,Cuatro Ciénegas,5007,5,7,5305,2020
+Coahuila de Zaragoza,Escobedo,5008,5,8,1029,2020
+Coahuila de Zaragoza,Francisco I. Madero,5009,5,9,26513,2020
+Coahuila de Zaragoza,Frontera,5010,5,10,36013,2020
+Coahuila de Zaragoza,General Cepeda,5011,5,11,4896,2020
+Coahuila de Zaragoza,Guerrero,5012,5,12,642,2020
+Coahuila de Zaragoza,Hidalgo,5013,5,13,592,2020
+Coahuila de Zaragoza,Jiménez,5014,5,14,3943,2020
+Coahuila de Zaragoza,Juárez,5015,5,15,603,2020
+Coahuila de Zaragoza,Lamadrid,5016,5,16,563,2020
+Coahuila de Zaragoza,Matamoros,5017,5,17,54126,2020
+Coahuila de Zaragoza,Monclova,5018,5,18,108553,2020
+Coahuila de Zaragoza,Morelos,5019,5,19,3319,2020
+Coahuila de Zaragoza,Múzquiz,5020,5,20,28901,2020
+Coahuila de Zaragoza,Nadadores,5021,5,21,2701,2020
+Coahuila de Zaragoza,Nava,5022,5,22,13071,2020
+Coahuila de Zaragoza,Ocampo,5023,5,23,3741,2020
+Coahuila de Zaragoza,Parras,5024,5,24,21437,2020
+Coahuila de Zaragoza,Piedras Negras,5025,5,25,84748,2020
+Coahuila de Zaragoza,Progreso,5026,5,26,1028,2020
+Coahuila de Zaragoza,Ramos Arizpe,5027,5,27,60248,2020
+Coahuila de Zaragoza,Sabinas,5028,5,28,29991,2020
+Coahuila de Zaragoza,Sacramento,5029,5,29,898,2020
+Coahuila de Zaragoza,Saltillo,5030,5,30,424011,2020
+Coahuila de Zaragoza,San Buenaventura,5031,5,31,10637,2020
+Coahuila de Zaragoza,San Juan de Sabinas,5032,5,32,18526,2020
+Coahuila de Zaragoza,San Pedro,5033,5,33,42920,2020
+Coahuila de Zaragoza,Sierra Mojada,5034,5,34,2606,2020
+Coahuila de Zaragoza,Torreón,5035,5,35,358256,2020
+Coahuila de Zaragoza,Viesca,5036,5,36,7991,2020
+Coahuila de Zaragoza,Villa Unión,5037,5,37,2391,2020
+Coahuila de Zaragoza,Zaragoza,5038,5,38,5704,2020
+Colima,Total del estado Colima,6000,6,0,386642,2020
+Colima,Armería,6001,6,1,14643,2020
+Colima,Colima,6002,6,2,82323,2020
+Colima,Comala,6003,6,3,11501,2020
+Colima,Coquimatlán,6004,6,4,10648,2020
+Colima,Cuauhtémoc,6005,6,5,15471,2020
+Colima,Ixtlahuacán,6006,6,6,2725,2020
+Colima,Manzanillo,6007,6,7,101496,2020
+Colima,Minatitlán,6008,6,8,4816,2020
+Colima,Tecomán,6009,6,9,60928,2020
+Colima,Villa de Álvarez,6010,6,10,82091,2020
+Chiapas,Total del estado Chiapas,7000,7,0,2501341,2020
+Chiapas,Acacoyagua,7001,7,1,7954,2020
+Chiapas,Acala,7002,7,2,9515,2020
+Chiapas,Acapetahua,7003,7,3,12479,2020
+Chiapas,Altamirano,7004,7,4,15018,2020
+Chiapas,Amatán,7005,7,5,10610,2020
+Chiapas,Amatenango de la Frontera,7006,7,6,12578,2020
+Chiapas,Amatenango del Valle,7007,7,7,4453,2020
+Chiapas,Ángel Albino Corzo,7008,7,8,14689,2020
+Chiapas,Arriaga,7009,7,9,20978,2020
+Chiapas,Bejucal de Ocampo,7010,7,10,2897,2020
+Chiapas,Bella Vista,7011,7,11,9362,2020
+Chiapas,Berriozábal,7012,7,12,30644,2020
+Chiapas,Bochil,7013,7,13,14619,2020
+Chiapas,El Bosque,7014,7,14,6205,2020
+Chiapas,Cacahoatán,7015,7,15,22344,2020
+Chiapas,Catazajá,7016,7,16,7650,2020
+Chiapas,Cintalapa,7017,7,17,39985,2020
+Chiapas,Coapilla,7018,7,18,4194,2020
+Chiapas,Comitán de Domínguez,7019,7,19,83914,2020
+Chiapas,La Concordia,7020,7,20,22331,2020
+Chiapas,Copainalá,7021,7,21,9640,2020
+Chiapas,Chalchihuitán,7022,7,22,5969,2020
+Chiapas,Chamula,7023,7,23,31150,2020
+Chiapas,Chanal,7024,7,24,3156,2020
+Chiapas,Chapultenango,7025,7,25,2520,2020
+Chiapas,Chenalhó,7026,7,26,12290,2020
+Chiapas,Chiapa de Corzo,7027,7,27,52079,2020
+Chiapas,Chiapilla,7028,7,28,2457,2020
+Chiapas,Chicoasén,7029,7,29,1836,2020
+Chiapas,Chicomuselo,7030,7,30,14768,2020
+Chiapas,Chilón,7031,7,31,71133,2020
+Chiapas,Escuintla,7032,7,32,13425,2020
+Chiapas,Francisco León,7033,7,33,1942,2020
+Chiapas,Frontera Comalapa,7034,7,34,36868,2020
+Chiapas,Frontera Hidalgo,7035,7,35,6869,2020
+Chiapas,La Grandeza,7036,7,36,2683,2020
+Chiapas,Huehuetán,7037,7,37,17574,2020
+Chiapas,Huixtán,7038,7,38,10230,2020
+Chiapas,Huitiupán,7039,7,39,11693,2020
+Chiapas,Huixtla,7040,7,40,24409,2020
+Chiapas,La Independencia,7041,7,41,24018,2020
+Chiapas,Ixhuatán,7042,7,42,4315,2020
+Chiapas,Ixtacomitán,7043,7,43,5417,2020
+Chiapas,Ixtapa,7044,7,44,11690,2020
+Chiapas,Ixtapangajoya,7045,7,45,2146,2020
+Chiapas,Jiquipilas,7046,7,46,19817,2020
+Chiapas,Jitotol,7047,7,47,10057,2020
+Chiapas,Juárez,7048,7,48,9578,2020
+Chiapas,Larráinzar,7049,7,49,9512,2020
+Chiapas,La Libertad,7050,7,50,2586,2020
+Chiapas,Mapastepec,7051,7,51,22343,2020
+Chiapas,Las Margaritas,7052,7,52,76315,2020
+Chiapas,Mazapa de Madero,7053,7,53,2648,2020
+Chiapas,Mazatán,7054,7,54,13647,2020
+Chiapas,Metapa,7055,7,55,2361,2020
+Chiapas,Mitontic,7056,7,56,2119,2020
+Chiapas,Motozintla,7057,7,57,33379,2020
+Chiapas,Nicolás Ruíz,7058,7,58,1333,2020
+Chiapas,Ocosingo,7059,7,59,102761,2020
+Chiapas,Ocotepec,7060,7,60,3898,2020
+Chiapas,Ocozocoautla de Espinosa,7061,7,61,45789,2020
+Chiapas,Ostuacán,7062,7,62,7747,2020
+Chiapas,Osumacinta,7063,7,63,1296,2020
+Chiapas,Oxchuc,7064,7,64,13965,2020
+Chiapas,Palenque,7065,7,65,67435,2020
+Chiapas,Pantelhó,7066,7,66,7715,2020
+Chiapas,Pantepec,7067,7,67,5472,2020
+Chiapas,Pichucalco,7068,7,68,15331,2020
+Chiapas,Pijijiapan,7069,7,69,25205,2020
+Chiapas,El Porvenir,7070,7,70,4915,2020
+Chiapas,Villa Comaltitlán,7071,7,71,13026,2020
+Chiapas,Pueblo Nuevo Solistahuacán,7072,7,72,12055,2020
+Chiapas,Rayón,7073,7,73,5072,2020
+Chiapas,Reforma,7074,7,74,20015,2020
+Chiapas,Las Rosas,7075,7,75,14010,2020
+Chiapas,Sabanilla,7076,7,76,13545,2020
+Chiapas,Salto de Agua,7077,7,77,33844,2020
+Chiapas,San Cristóbal de las Casas,7078,7,78,114942,2020
+Chiapas,San Fernando,7079,7,79,19479,2020
+Chiapas,Siltepec,7080,7,80,9303,2020
+Chiapas,Simojovel,7081,7,81,20972,2020
+Chiapas,Sitalá,7082,7,82,3872,2020
+Chiapas,Socoltenango,7083,7,83,7889,2020
+Chiapas,Solosuchiapa,7084,7,84,3524,2020
+Chiapas,Soyaló,7085,7,85,4272,2020
+Chiapas,Suchiapa,7086,7,86,10831,2020
+Chiapas,Suchiate,7087,7,87,20748,2020
+Chiapas,Sunuapa,7088,7,88,843,2020
+Chiapas,Tapachula,7089,7,89,166216,2020
+Chiapas,Tapalapa,7090,7,90,1427,2020
+Chiapas,Tapilula,7091,7,91,5455,2020
+Chiapas,Tecpatán,7092,7,92,8937,2020
+Chiapas,Tenejapa,7093,7,93,14850,2020
+Chiapas,Teopisca,7094,7,94,22553,2020
+Chiapas,Tila,7096,7,96,38008,2020
+Chiapas,Tonalá,7097,7,97,45033,2020
+Chiapas,Totolapa,7098,7,98,2452,2020
+Chiapas,La Trinitaria,7099,7,99,39389,2020
+Chiapas,Tumbalá,7100,7,100,11747,2020
+Chiapas,Tuxtla Gutiérrez,7101,7,101,308596,2020
+Chiapas,Tuxtla Chico,7102,7,102,18042,2020
+Chiapas,Tuzantán,7103,7,103,13653,2020
+Chiapas,Tzimol,7104,7,104,7649,2020
+Chiapas,Unión Juárez,7105,7,105,6318,2020
+Chiapas,Venustiano Carranza,7106,7,106,33289,2020
+Chiapas,Villa Corzo,7107,7,107,30995,2020
+Chiapas,Villaflores,7108,7,108,53176,2020
+Chiapas,Yajalón,7109,7,109,19131,2020
+Chiapas,San Lucas,7110,7,110,3057,2020
+Chiapas,Zinacantán,7111,7,111,14989,2020
+Chiapas,San Juan Cancuc,7112,7,112,8783,2020
+Chiapas,Aldama,7113,7,113,2368,2020
+Chiapas,Benemérito de las Américas,7114,7,114,10269,2020
+Chiapas,Maravilla Tenejapa,7115,7,115,4318,2020
+Chiapas,Marqués de Comillas,7116,7,116,4835,2020
+Chiapas,Montecristo de Guerrero,7117,7,117,3148,2020
+Chiapas,San Andrés Duraznal,7118,7,118,1688,2020
+Chiapas,Santiago el Pinar,7119,7,119,1327,2020
+Chiapas,Capitán Luis Ángel Vidal,7120,7,120,1516,2020
+Chiapas,Rincón Chamula San Pedro,7121,7,121,2900,2020
+Chiapas,El Parral,7122,7,122,6764,2020
+Chiapas,Emiliano Zapata,7123,7,123,4908,2020
+Chiapas,Mezcalapa,7124,7,124,10079,2020
+Chiapas,Honduras de la Sierra,7125,7,125,5314,2020
+Chihuahua,Total del estado Chihuahua,8000,8,0,1863623,2020
+Chihuahua,Ahumada,8001,8,1,6829,2020
+Chihuahua,Aldama,8002,8,2,12536,2020
+Chihuahua,Allende,8003,8,3,3756,2020
+Chihuahua,Aquiles Serdán,8004,8,4,12133,2020
+Chihuahua,Ascensión,8005,8,5,11861,2020
+Chihuahua,Bachíniva,8006,8,6,2749,2020
+Chihuahua,Balleza,8007,8,7,4720,2020
+Chihuahua,Batopilas de Manuel Gómez Morín,8008,8,8,2889,2020
+Chihuahua,Bocoyna,8009,8,9,10988,2020
+Chihuahua,Buenaventura,8010,8,10,11360,2020
+Chihuahua,Camargo,8011,8,11,24371,2020
+Chihuahua,Carichí,8012,8,12,2333,2020
+Chihuahua,Casas Grandes,8013,8,13,5100,2020
+Chihuahua,Coronado,8014,8,14,814,2020
+Chihuahua,Coyame del Sotol,8015,8,15,491,2020
+Chihuahua,La Cruz,8016,8,16,1243,2020
+Chihuahua,Cuauhtémoc,8017,8,17,88194,2020
+Chihuahua,Cusihuiriachi,8018,8,18,2014,2020
+Chihuahua,Chihuahua,8019,8,19,489840,2020
+Chihuahua,Chínipas,8020,8,20,2366,2020
+Chihuahua,Delicias,8021,8,21,74743,2020
+Chihuahua,Dr. Belisario Domínguez,8022,8,22,888,2020
+Chihuahua,Galeana,8023,8,23,2627,2020
+Chihuahua,Santa Isabel,8024,8,24,1576,2020
+Chihuahua,Gómez Farías,8025,8,25,3072,2020
+Chihuahua,Gran Morelos,8026,8,26,892,2020
+Chihuahua,Guachochi,8027,8,27,25762,2020
+Chihuahua,Guadalupe,8028,8,28,1750,2020
+Chihuahua,Guadalupe y Calvo,8029,8,29,22218,2020
+Chihuahua,Guazapares,8030,8,30,3141,2020
+Chihuahua,Guerrero,8031,8,31,16940,2020
+Chihuahua,Hidalgo del Parral,8032,8,32,54427,2020
+Chihuahua,Huejotitán,8033,8,33,294,2020
+Chihuahua,Ignacio Zaragoza,8034,8,34,2510,2020
+Chihuahua,Janos,8035,8,35,4610,2020
+Chihuahua,Jiménez,8036,8,36,18215,2020
+Chihuahua,Juárez,8037,8,37,785054,2020
+Chihuahua,Julimes,8038,8,38,2288,2020
+Chihuahua,López,8039,8,39,1563,2020
+Chihuahua,Madera,8040,8,40,10957,2020
+Chihuahua,Maguarichi,8041,8,41,364,2020
+Chihuahua,Manuel Benavides,8042,8,42,473,2020
+Chihuahua,Matachí,8043,8,43,1061,2020
+Chihuahua,Matamoros,8044,8,44,1679,2020
+Chihuahua,Meoqui,8045,8,45,21211,2020
+Chihuahua,Morelos,8046,8,46,2325,2020
+Chihuahua,Moris,8047,8,47,1631,2020
+Chihuahua,Namiquipa,8048,8,48,10778,2020
+Chihuahua,Nonoava,8049,8,49,1003,2020
+Chihuahua,Nuevo Casas Grandes,8050,8,50,31427,2020
+Chihuahua,Ocampo,8051,8,51,3265,2020
+Chihuahua,Ojinaga,8052,8,52,11289,2020
+Chihuahua,Praxedis G. Guerrero,8053,8,53,2028,2020
+Chihuahua,Riva Palacio,8054,8,54,3417,2020
+Chihuahua,Rosales,8055,8,55,7910,2020
+Chihuahua,Rosario,8056,8,56,661,2020
+Chihuahua,San Francisco de Borja,8057,8,57,882,2020
+Chihuahua,San Francisco de Conchos,8058,8,58,970,2020
+Chihuahua,San Francisco del Oro,8059,8,59,1838,2020
+Chihuahua,Santa Bárbara,8060,8,60,4782,2020
+Chihuahua,Satevó,8061,8,61,1356,2020
+Chihuahua,Saucillo,8062,8,62,12706,2020
+Chihuahua,Temósachic,8063,8,63,2078,2020
+Chihuahua,El Tule,8064,8,64,405,2020
+Chihuahua,Urique,8065,8,65,4617,2020
+Chihuahua,Uruachi,8066,8,66,1255,2020
+Chihuahua,Valle de Zaragoza,8067,8,67,2098,2020
+CDMX,Total del estado Distrito Federal,9000,9,0,5099957,2020
+CDMX,Azcapotzalco,9002,9,2,239069,2020
+CDMX,Coyoacán,9003,9,3,340527,2020
+CDMX,Cuajimalpa de Morelos,9004,9,4,119508,2020
+CDMX,Gustavo A. Madero,9005,9,5,618184,2020
+CDMX,Iztacalco,9006,9,6,224915,2020
+CDMX,Iztapalapa,9007,9,7,984791,2020
+CDMX,La Magdalena Contreras,9008,9,8,132898,2020
+CDMX,Milpa Alta,9009,9,9,83292,2020
+CDMX,Álvaro Obregón,9010,9,10,422861,2020
+CDMX,Tláhuac,9011,9,11,206502,2020
+CDMX,Tlalpan,9012,9,12,385373,2020
+CDMX,Xochimilco,9013,9,13,235784,2020
+CDMX,Benito Juárez,9014,9,14,276919,2020
+CDMX,Cuauhtémoc,9015,9,15,337364,2020
+CDMX,Miguel Hidalgo,9016,9,16,244498,2020
+CDMX,Venustiano Carranza,9017,9,17,247472,2020
+Durango,Total del estado Durango,10000,10,0,818279,2020
+Durango,Canatlán,10001,10,1,13069,2020
+Durango,Canelas,10002,10,2,1198,2020
+Durango,Coneto de Comonfort,10003,10,3,1230,2020
+Durango,Cuencamé,10004,10,4,15372,2020
+Durango,Durango,10005,10,5,335483,2020
+Durango,General Simón Bolívar,10006,10,6,3298,2020
+Durango,Gómez Palacio,10007,10,7,171745,2020
+Durango,Guadalupe Victoria,10008,10,8,15872,2020
+Durango,Guanaceví,10009,10,9,3876,2020
+Durango,Hidalgo,10010,10,10,1097,2020
+Durango,Indé,10011,10,11,1893,2020
+Durango,Lerdo,10012,10,12,75634,2020
+Durango,Mapimí,10013,10,13,10403,2020
+Durango,Mezquital,10014,10,14,7131,2020
+Durango,Nazas,10015,10,15,4951,2020
+Durango,Nombre de Dios,10016,10,16,8033,2020
+Durango,Ocampo,10017,10,17,3139,2020
+Durango,El Oro,10018,10,18,4718,2020
+Durango,Otáez,10019,10,19,1502,2020
+Durango,Pánuco de Coronado,10020,10,20,5308,2020
+Durango,Peñón Blanco,10021,10,21,4283,2020
+Durango,Poanas,10022,10,22,11035,2020
+Durango,Pueblo Nuevo,10023,10,23,19823,2020
+Durango,Rodeo,10024,10,24,4788,2020
+Durango,San Bernardo,10025,10,25,964,2020
+Durango,San Dimas,10026,10,26,6701,2020
+Durango,San Juan de Guadalupe,10027,10,27,1995,2020
+Durango,San Juan del Río,10028,10,28,4798,2020
+Durango,San Luis del Cordero,10029,10,29,767,2020
+Durango,San Pedro del Gallo,10030,10,30,616,2020
+Durango,Santa Clara,10031,10,31,2410,2020
+Durango,Santiago Papasquiaro,10032,10,32,21895,2020
+Durango,Súchil,10033,10,33,2471,2020
+Durango,Tamazula,10034,10,34,10852,2020
+Durango,Tepehuanes,10035,10,35,5162,2020
+Durango,Tlahualilo,10036,10,36,8489,2020
+Durango,Topia,10037,10,37,3492,2020
+Durango,Vicente Guerrero,10038,10,38,10609,2020
+Durango,Nuevo Ideal,10039,10,39,12177,2020
+Guanajuato,Total del estado Guanajuato,11000,11,0,2997139,2020
+Guanajuato,Abasolo,11001,11,1,42110,2020
+Guanajuato,Acámbaro,11002,11,2,51121,2020
+Guanajuato,San Miguel de Allende,11003,11,3,87924,2020
+Guanajuato,Apaseo el Alto,11004,11,4,29864,2020
+Guanajuato,Apaseo el Grande,11005,11,5,54766,2020
+Guanajuato,Atarjea,11006,11,6,1903,2020
+Guanajuato,Celaya,11007,11,7,262642,2020
+Guanajuato,Manuel Doblado,11008,11,8,18933,2020
+Guanajuato,Comonfort,11009,11,9,37053,2020
+Guanajuato,Coroneo,11010,11,10,4976,2020
+Guanajuato,Cortazar,11011,11,11,47608,2020
+Guanajuato,Cuerámaro,11012,11,12,13379,2020
+Guanajuato,Doctor Mora,11013,11,13,11632,2020
+Guanajuato,Dolores Hidalgo Cuna de la Independencia Nacional,11014,11,14,76217,2020
+Guanajuato,Guanajuato,11015,11,15,95753,2020
+Guanajuato,Huanímaro,11016,11,16,8775,2020
+Guanajuato,Irapuato,11017,11,17,285598,2020
+Guanajuato,Jaral del Progreso,11018,11,18,17395,2020
+Guanajuato,Jerécuaro,11019,11,19,21799,2020
+Guanajuato,León,11020,11,20,900923,2020
+Guanajuato,Moroleón,11021,11,21,25507,2020
+Guanajuato,Ocampo,11022,11,22,11790,2020
+Guanajuato,Pénjamo,11023,11,23,69059,2020
+Guanajuato,Pueblo Nuevo,11024,11,24,5185,2020
+Guanajuato,Purísima del Rincón,11025,11,25,43493,2020
+Guanajuato,Romita,11026,11,26,27889,2020
+Guanajuato,Salamanca,11027,11,27,125419,2020
+Guanajuato,Salvatierra,11028,11,28,43209,2020
+Guanajuato,San Diego de la Unión,11029,11,29,17030,2020
+Guanajuato,San Felipe,11030,11,30,51773,2020
+Guanajuato,San Francisco del Rincón,11031,11,31,68824,2020
+Guanajuato,San José Iturbide,11032,11,32,42361,2020
+Guanajuato,San Luis de la Paz,11033,11,33,56086,2020
+Guanajuato,Santa Catarina,11034,11,34,2219,2020
+Guanajuato,Santa Cruz de Juventino Rosas,11035,11,35,36296,2020
+Guanajuato,Santiago Maravatío,11036,11,36,2850,2020
+Guanajuato,Silao de la Victoria,11037,11,37,93113,2020
+Guanajuato,Tarandacuao,11038,11,38,4809,2020
+Guanajuato,Tarimoro,11039,11,39,16362,2020
+Guanajuato,Tierra Blanca,11040,11,40,8364,2020
+Guanajuato,Uriangato,11041,11,41,33124,2020
+Guanajuato,Valle de Santiago,11042,11,42,67924,2020
+Guanajuato,Victoria,11043,11,43,9048,2020
+Guanajuato,Villagrán,11044,11,44,29425,2020
+Guanajuato,Xichú,11045,11,45,3664,2020
+Guanajuato,Yuriria,11046,11,46,31945,2020
+Guerrero,Total del estado Guerrero,12000,12,0,1635187,2020
+Guerrero,Acapulco de Juárez,12001,12,1,384977,2020
+Guerrero,Ahuacuotzingo,12002,12,2,9210,2020
+Guerrero,Ajuchitlán del Progreso,12003,12,3,16213,2020
+Guerrero,Alcozauca de Guerrero,12004,12,4,2817,2020
+Guerrero,Alpoyeca,12005,12,5,3354,2020
+Guerrero,Apaxtla,12006,12,6,4655,2020
+Guerrero,Arcelia,12007,12,7,15821,2020
+Guerrero,Atenango del Río,12008,12,8,3711,2020
+Guerrero,Atlamajalcingo del Monte,12009,12,9,1452,2020
+Guerrero,Atlixtac,12010,12,10,7767,2020
+Guerrero,Atoyac de Álvarez,12011,12,11,31233,2020
+Guerrero,Ayutla de los Libres,12012,12,12,33692,2020
+Guerrero,Azoyú,12013,12,13,7029,2020
+Guerrero,Benito Juárez,12014,12,14,7685,2020
+Guerrero,Buenavista de Cuéllar,12015,12,15,6402,2020
+Guerrero,Coahuayutla de José María Izazaga,12016,12,16,4530,2020
+Guerrero,Cocula,12017,12,17,6739,2020
+Guerrero,Copala,12018,12,18,6773,2020
+Guerrero,Copalillo,12019,12,19,5304,2020
+Guerrero,Copanatoyac,12020,12,20,5833,2020
+Guerrero,Coyuca de Benítez,12021,12,21,35715,2020
+Guerrero,Coyuca de Catalán,12022,12,22,16098,2020
+Guerrero,Cuajinicuilapa,12023,12,23,9355,2020
+Guerrero,Cualác,12024,12,24,3038,2020
+Guerrero,Cuautepec,12025,12,25,6340,2020
+Guerrero,Cuetzala del Progreso,12026,12,26,3135,2020
+Guerrero,Cutzamala de Pinzón,12027,12,27,8225,2020
+Guerrero,Chilapa de Álvarez,12028,12,28,67037,2020
+Guerrero,Chilpancingo de los Bravo,12029,12,29,144998,2020
+Guerrero,Florencio Villarreal,12030,12,30,9805,2020
+Guerrero,General Canuto A. Neri,12031,12,31,2723,2020
+Guerrero,General Heliodoro Castillo,12032,12,32,15213,2020
+Guerrero,Huamuxtitlán,12033,12,33,7469,2020
+Guerrero,Huitzuco de los Figueroa,12034,12,34,16177,2020
+Guerrero,Iguala de la Independencia,12035,12,35,77619,2020
+Guerrero,Igualapa,12036,12,36,4942,2020
+Guerrero,Ixcateopan de Cuauhtémoc,12037,12,37,2757,2020
+Guerrero,Zihuatanejo de Azueta,12038,12,38,64981,2020
+Guerrero,Juan R. Escudero,12039,12,39,11784,2020
+Guerrero,Leonardo Bravo,12040,12,40,11528,2020
+Guerrero,Malinaltepec,12041,12,41,12406,2020
+Guerrero,Mártir de Cuilapan,12042,12,42,9542,2020
+Guerrero,Metlatónoc,12043,12,43,3518,2020
+Guerrero,Mochitlán,12044,12,44,5525,2020
+Guerrero,Olinalá,12045,12,45,12602,2020
+Guerrero,Ometepec,12046,12,46,35525,2020
+Guerrero,Pedro Ascencio Alquisiras,12047,12,47,1739,2020
+Guerrero,Petatlán,12048,12,48,20924,2020
+Guerrero,Pilcaya,12049,12,49,5781,2020
+Guerrero,Pungarabato,12050,12,50,18174,2020
+Guerrero,Quechultenango,12051,12,51,14694,2020
+Guerrero,San Luis Acatlán,12052,12,52,21934,2020
+Guerrero,San Marcos,12053,12,53,22181,2020
+Guerrero,San Miguel Totolapan,12054,12,54,6188,2020
+Guerrero,Taxco de Alarcón,12055,12,55,54286,2020
+Guerrero,Tecoanapa,12056,12,56,21602,2020
+Guerrero,Técpan de Galeana,12057,12,57,33202,2020
+Guerrero,Teloloapan,12058,12,58,26304,2020
+Guerrero,Tepecoacuilco de Trujano,12059,12,59,14195,2020
+Guerrero,Tetipac,12060,12,60,5644,2020
+Guerrero,Tixtla de Guerrero,12061,12,61,22142,2020
+Guerrero,Tlacoachistlahuaca,12062,12,62,6638,2020
+Guerrero,Tlacoapa,12063,12,63,3176,2020
+Guerrero,Tlalchapa,12064,12,64,4510,2020
+Guerrero,Tlalixtaquilla de Maldonado,12065,12,65,2896,2020
+Guerrero,Tlapa de Comonfort,12066,12,66,44159,2020
+Guerrero,Tlapehuala,12067,12,67,9244,2020
+Guerrero,La Unión de Isidoro Montes de Oca,12068,12,68,11346,2020
+Guerrero,Xalpatláhuac,12069,12,69,2872,2020
+Guerrero,Xochihuehuetlán,12070,12,70,2849,2020
+Guerrero,Xochistlahuaca,12071,12,71,14871,2020
+Guerrero,Zapotitlán Tablas,12072,12,72,4134,2020
+Guerrero,Zirándaro,12073,12,73,7296,2020
+Guerrero,Zitlala,12074,12,74,8769,2020
+Guerrero,Eduardo Neri,12075,12,75,24264,2020
+Guerrero,Acatepec,12076,12,76,13054,2020
+Guerrero,Marquelia,12077,12,77,6817,2020
+Guerrero,Cochoapa el Grande,12078,12,78,3212,2020
+Guerrero,José Joaquín de Herrera,12079,12,79,4800,2020
+Guerrero,Juchitán,12080,12,80,2666,2020
+Guerrero,Iliatenco,12081,12,81,5370,2020
+Hidalgo,Total del estado Hidalgo,13000,13,0,1502364,2020
+Hidalgo,Acatlán,13001,13,1,11462,2020
+Hidalgo,Acaxochitlán,13002,13,2,22006,2020
+Hidalgo,Actopan,13003,13,3,32853,2020
+Hidalgo,Agua Blanca de Iturbide,13004,13,4,4636,2020
+Hidalgo,Ajacuba,13005,13,5,9003,2020
+Hidalgo,Alfajayucan,13006,13,6,9859,2020
+Hidalgo,Almoloya,13007,13,7,5597,2020
+Hidalgo,Apan,13008,13,8,22470,2020
+Hidalgo,El Arenal,13009,13,9,10161,2020
+Hidalgo,Atitalaquia,13010,13,10,14660,2020
+Hidalgo,Atlapexco,13011,13,11,7697,2020
+Hidalgo,Atotonilco el Grande,13012,13,12,15469,2020
+Hidalgo,Atotonilco de Tula,13013,13,13,29567,2020
+Hidalgo,Calnali,13014,13,14,6683,2020
+Hidalgo,Cardonal,13015,13,15,9179,2020
+Hidalgo,Cuautepec de Hinojosa,13016,13,16,28789,2020
+Hidalgo,Chapantongo,13017,13,17,5733,2020
+Hidalgo,Chapulhuacán,13018,13,18,9655,2020
+Hidalgo,Chilcuautla,13019,13,19,9800,2020
+Hidalgo,Eloxochitlán,13020,13,20,786,2020
+Hidalgo,Emiliano Zapata,13021,13,21,7465,2020
+Hidalgo,Epazoyucan,13022,13,22,7913,2020
+Hidalgo,Francisco I. Madero,13023,13,23,17991,2020
+Hidalgo,Huasca de Ocampo,13024,13,24,8417,2020
+Hidalgo,Huautla,13025,13,25,9002,2020
+Hidalgo,Huazalingo,13026,13,26,4728,2020
+Hidalgo,Huehuetla,13027,13,27,10253,2020
+Hidalgo,Huejutla de Reyes,13028,13,28,56215,2020
+Hidalgo,Huichapan,13029,13,29,22479,2020
+Hidalgo,Ixmiquilpan,13030,13,30,53552,2020
+Hidalgo,Jacala de Ledezma,13031,13,31,5382,2020
+Hidalgo,Jaltocán,13032,13,32,4575,2020
+Hidalgo,Juárez Hidalgo,13033,13,33,858,2020
+Hidalgo,Lolotla,13034,13,34,3506,2020
+Hidalgo,Metepec,13035,13,35,5914,2020
+Hidalgo,San Agustín Metzquititlán,13036,13,36,4105,2020
+Hidalgo,Metztitlán,13037,13,37,9658,2020
+Hidalgo,Mineral del Chico,13038,13,38,4521,2020
+Hidalgo,Mineral del Monte,13039,13,39,6976,2020
+Hidalgo,La Misión,13040,13,40,3969,2020
+Hidalgo,Mixquiahuala de Juárez,13041,13,41,24493,2020
+Hidalgo,Molango de Escamilla,13042,13,42,5139,2020
+Hidalgo,Nicolás Flores,13043,13,43,2401,2020
+Hidalgo,Nopala de Villagrán,13044,13,44,8329,2020
+Hidalgo,Omitlán de Juárez,13045,13,45,4301,2020
+Hidalgo,San Felipe Orizatlán,13046,13,46,16688,2020
+Hidalgo,Pacula,13047,13,47,1486,2020
+Hidalgo,Pachuca de Soto,13048,13,48,166559,2020
+Hidalgo,Pisaflores,13049,13,49,7394,2020
+Hidalgo,Progreso de Obregón,13050,13,50,11663,2020
+Hidalgo,Mineral de la Reforma,13051,13,51,109231,2020
+Hidalgo,San Agustín Tlaxiaca,13052,13,52,20095,2020
+Hidalgo,San Bartolo Tutotepec,13053,13,53,8456,2020
+Hidalgo,San Salvador,13054,13,54,18739,2020
+Hidalgo,Santiago de Anaya,13055,13,55,9234,2020
+Hidalgo,Santiago Tulantepec de Lugo Guerrero,13056,13,56,19449,2020
+Hidalgo,Singuilucan,13057,13,57,6486,2020
+Hidalgo,Tasquillo,13058,13,58,7886,2020
+Hidalgo,Tecozautla,13059,13,59,18159,2020
+Hidalgo,Tenango de Doria,13060,13,60,8211,2020
+Hidalgo,Tepeapulco,13061,13,61,27296,2020
+Hidalgo,Tepehuacán de Guerrero,13062,13,62,11153,2020
+Hidalgo,Tepeji del Río de Ocampo,13063,13,63,44815,2020
+Hidalgo,Tepetitlán,13064,13,64,5151,2020
+Hidalgo,Tetepango,13065,13,65,5263,2020
+Hidalgo,Villa de Tezontepec,13066,13,66,6645,2020
+Hidalgo,Tezontepec de Aldama,13067,13,67,28468,2020
+Hidalgo,Tianguistengo,13068,13,68,5354,2020
+Hidalgo,Tizayuca,13069,13,69,82520,2020
+Hidalgo,Tlahuelilpan,13070,13,70,9431,2020
+Hidalgo,Tlahuiltepa,13071,13,71,3584,2020
+Hidalgo,Tlanalapa,13072,13,72,5098,2020
+Hidalgo,Tlanchinol,13073,13,73,14108,2020
+Hidalgo,Tlaxcoapan,13074,13,74,14109,2020
+Hidalgo,Tolcayuca,13075,13,75,10196,2020
+Hidalgo,Tula de Allende,13076,13,76,57244,2020
+Hidalgo,Tulancingo de Bravo,13077,13,77,87974,2020
+Hidalgo,Xochiatipan,13078,13,78,7455,2020
+Hidalgo,Xochicoatlán,13079,13,79,2844,2020
+Hidalgo,Yahualica,13080,13,80,9380,2020
+Hidalgo,Zacualtipán de Ángeles,13081,13,81,18912,2020
+Hidalgo,Zapotlán de Juárez,13082,13,82,11181,2020
+Hidalgo,Zempoala,13083,13,83,29180,2020
+Hidalgo,Zimapán,13084,13,84,17060,2020
+Jalisco,Total del estado Jalisco,14000,14,0,4244054,2020
+Jalisco,Acatic,14001,14,1,11515,2020
+Jalisco,Acatlán de Juárez,14002,14,2,10912,2020
+Jalisco,Ahualulco de Mercado,14003,14,3,11710,2020
+Jalisco,Amacueca,14004,14,4,2480,2020
+Jalisco,Amatitán,14005,14,5,7625,2020
+Jalisco,Ameca,14006,14,6,29067,2020
+Jalisco,San Juanito de Escobedo,14007,14,7,4092,2020
+Jalisco,Arandas,14008,14,8,41838,2020
+Jalisco,El Arenal,14009,14,9,9586,2020
+Jalisco,Atemajac de Brizuela,14010,14,10,2904,2020
+Jalisco,Atengo,14011,14,11,1961,2020
+Jalisco,Atenguillo,14012,14,12,1746,2020
+Jalisco,Atotonilco el Alto,14013,14,13,31024,2020
+Jalisco,Atoyac,14014,14,14,3989,2020
+Jalisco,Autlán de Navarro,14015,14,15,32845,2020
+Jalisco,Ayotlán,14016,14,16,18996,2020
+Jalisco,Ayutla,14017,14,17,5795,2020
+Jalisco,La Barca,14018,14,18,31182,2020
+Jalisco,Bolaños,14019,14,19,1447,2020
+Jalisco,Cabo Corrientes,14020,14,20,5456,2020
+Jalisco,Casimiro Castillo,14021,14,21,9608,2020
+Jalisco,Cihuatlán,14022,14,22,20220,2020
+Jalisco,Zapotlán el Grande,14023,14,23,60735,2020
+Jalisco,Cocula,14024,14,24,13750,2020
+Jalisco,Colotlán,14025,14,25,9230,2020
+Jalisco,Concepción de Buenos Aires,14026,14,26,2889,2020
+Jalisco,Cuautitlán de García Barragán,14027,14,27,8417,2020
+Jalisco,Cuautla,14028,14,28,852,2020
+Jalisco,Cuquío,14029,14,29,7156,2020
+Jalisco,Chapala,14030,14,30,26183,2020
+Jalisco,Chimaltitán,14031,14,31,910,2020
+Jalisco,Chiquilistlán,14032,14,32,2355,2020
+Jalisco,Degollado,14033,14,33,9264,2020
+Jalisco,Ejutla,14034,14,34,786,2020
+Jalisco,Encarnación de Díaz,14035,14,35,25385,2020
+Jalisco,Etzatlán,14036,14,36,9762,2020
+Jalisco,El Grullo,14037,14,37,13194,2020
+Jalisco,Guachinango,14038,14,38,1505,2020
+Jalisco,Guadalajara,14039,14,39,747410,2020
+Jalisco,Hostotipaquillo,14040,14,40,3561,2020
+Jalisco,Huejúcar,14041,14,41,2278,2020
+Jalisco,Huejuquilla el Alto,14042,14,42,3895,2020
+Jalisco,La Huerta,14043,14,43,11643,2020
+Jalisco,Ixtlahuacán de los Membrillos,14044,14,44,33290,2020
+Jalisco,Ixtlahuacán del Río,14045,14,45,9239,2020
+Jalisco,Jalostotitlán,14046,14,46,15728,2020
+Jalisco,Jamay,14047,14,47,11223,2020
+Jalisco,Jesús María,14048,14,48,8773,2020
+Jalisco,Jilotlán de los Dolores,14049,14,49,4427,2020
+Jalisco,Jocotepec,14050,14,50,23572,2020
+Jalisco,Juanacatlán,14051,14,51,14290,2020
+Jalisco,Juchitlán,14052,14,52,2204,2020
+Jalisco,Lagos de Moreno,14053,14,53,86038,2020
+Jalisco,El Limón,14054,14,54,2446,2020
+Jalisco,Magdalena,14055,14,55,9655,2020
+Jalisco,Santa María del Oro,14056,14,56,663,2020
+Jalisco,La Manzanilla de la Paz,14057,14,57,1722,2020
+Jalisco,Mascota,14058,14,58,7015,2020
+Jalisco,Mazamitla,14059,14,59,6929,2020
+Jalisco,Mexticacán,14060,14,60,2000,2020
+Jalisco,Mezquitic,14061,14,61,3484,2020
+Jalisco,Mixtlán,14062,14,62,1502,2020
+Jalisco,Ocotlán,14063,14,63,52863,2020
+Jalisco,Ojuelos de Jalisco,14064,14,64,14670,2020
+Jalisco,Pihuamo,14065,14,65,5070,2020
+Jalisco,Poncitlán,14066,14,66,24287,2020
+Jalisco,Puerto Vallarta,14067,14,67,163237,2020
+Jalisco,Villa Purificación,14068,14,68,5412,2020
+Jalisco,Quitupan,14069,14,69,3263,2020
+Jalisco,El Salto,14070,14,70,111997,2020
+Jalisco,San Cristóbal de la Barranca,14071,14,71,995,2020
+Jalisco,San Diego de Alejandría,14072,14,72,3499,2020
+Jalisco,San Juan de los Lagos,14073,14,73,36700,2020
+Jalisco,San Julián,14074,14,74,7856,2020
+Jalisco,San Marcos,14075,14,75,1483,2020
+Jalisco,San Martín de Bolaños,14076,14,76,999,2020
+Jalisco,San Martín Hidalgo,14077,14,77,12475,2020
+Jalisco,San Miguel el Alto,14078,14,78,16246,2020
+Jalisco,Gómez Farías,14079,14,79,7954,2020
+Jalisco,San Sebastián del Oeste,14080,14,80,2250,2020
+Jalisco,Santa María de los Ángeles,14081,14,81,1191,2020
+Jalisco,Sayula,14082,14,82,18078,2020
+Jalisco,Tala,14083,14,83,44064,2020
+Jalisco,Talpa de Allende,14084,14,84,7640,2020
+Jalisco,Tamazula de Gordiano,14085,14,85,18006,2020
+Jalisco,Tapalpa,14086,14,86,9664,2020
+Jalisco,Tecalitlán,14087,14,87,7938,2020
+Jalisco,Tecolotlán,14088,14,88,7807,2020
+Jalisco,Techaluta de Montenegro,14089,14,89,1427,2020
+Jalisco,Tenamaxtlán,14090,14,90,3330,2020
+Jalisco,Teocaltiche,14091,14,91,18412,2020
+Jalisco,Teocuitatlán de Corona,14092,14,92,4970,2020
+Jalisco,Tepatitlán de Morelos,14093,14,93,78547,2020
+Jalisco,Tequila,14094,14,94,21120,2020
+Jalisco,Teuchitlán,14095,14,95,4083,2020
+Jalisco,Tizapán el Alto,14096,14,96,10427,2020
+Jalisco,Tlajomulco de Zúñiga,14097,14,97,370745,2020
+Jalisco,San Pedro Tlaquepaque,14098,14,98,357168,2020
+Jalisco,Tolimán,14099,14,99,4783,2020
+Jalisco,Tomatlán,14100,14,100,18094,2020
+Jalisco,Tonalá,14101,14,101,294989,2020
+Jalisco,Tonaya,14102,14,102,2832,2020
+Jalisco,Tonila,14103,14,103,3285,2020
+Jalisco,Totatiche,14104,14,104,1576,2020
+Jalisco,Tototlán,14105,14,105,10899,2020
+Jalisco,Tuxcacuesco,14106,14,106,2230,2020
+Jalisco,Tuxcueca,14107,14,107,3002,2020
+Jalisco,Tuxpan,14108,14,108,17885,2020
+Jalisco,Unión de San Antonio,14109,14,109,9233,2020
+Jalisco,Unión de Tula,14110,14,110,6139,2020
+Jalisco,Valle de Guadalupe,14111,14,111,3125,2020
+Jalisco,Valle de Juárez,14112,14,112,2843,2020
+Jalisco,San Gabriel,14113,14,113,7375,2020
+Jalisco,Villa Corona,14114,14,114,8279,2020
+Jalisco,Villa Guerrero,14115,14,115,2284,2020
+Jalisco,Villa Hidalgo,14116,14,116,9523,2020
+Jalisco,Cañadas de Obregón,14117,14,117,1707,2020
+Jalisco,Yahualica de González Gallo,14118,14,118,10609,2020
+Jalisco,Zacoalco de Torres,14119,14,119,14388,2020
+Jalisco,Zapopan,14120,14,120,781705,2020
+Jalisco,Zapotiltic,14121,14,121,16157,2020
+Jalisco,Zapotitlán de Vadillo,14122,14,122,3142,2020
+Jalisco,Zapotlán del Rey,14123,14,123,8632,2020
+Jalisco,Zapotlanejo,14124,14,124,33842,2020
+Jalisco,San Ignacio Cerro Gordo,14125,14,125,8265,2020
+México,Total del estado México,15000,15,0,8544416,2020
+México,Acambay de Ruíz Castañeda,15001,15,1,35834,2020
+México,Acolman,15002,15,2,86655,2020
+México,Aculco,15003,15,3,26010,2020
+México,Almoloya de Alquisiras,15004,15,4,7196,2020
+México,Almoloya de Juárez,15005,15,5,81444,2020
+México,Almoloya del Río,15006,15,6,6535,2020
+México,Amanalco,15007,15,7,10106,2020
+México,Amatepec,15008,15,8,10692,2020
+México,Amecameca,15009,15,9,25321,2020
+México,Apaxco,15010,15,10,15512,2020
+México,Atenco,15011,15,11,36696,2020
+México,Atizapán,15012,15,12,6511,2020
+México,Atizapán de Zaragoza,15013,15,13,272478,2020
+México,Atlacomulco,15014,15,14,56126,2020
+México,Atlautla,15015,15,15,15328,2020
+México,Axapusco,15016,15,16,13375,2020
+México,Ayapango,15017,15,17,4521,2020
+México,Calimaya,15018,15,18,33184,2020
+México,Capulhuac,15019,15,19,19533,2020
+México,Coacalco de Berriozábal,15020,15,20,151717,2020
+México,Coatepec Harinas,15021,15,21,17983,2020
+México,Cocotitlán,15022,15,22,6918,2020
+México,Coyotepec,15023,15,23,19916,2020
+México,Cuautitlán,15024,15,24,96131,2020
+México,Chalco,15025,15,25,193295,2020
+México,Chapa de Mota,15026,15,26,16009,2020
+México,Chapultepec,15027,15,27,6119,2020
+México,Chiautla,15028,15,28,15768,2020
+México,Chicoloapan,15029,15,29,100995,2020
+México,Chiconcuac,15030,15,30,14298,2020
+México,Chimalhuacán,15031,15,31,343963,2020
+México,Donato Guerra,15032,15,32,17349,2020
+México,Ecatepec de Morelos,15033,15,33,839729,2020
+México,Ecatzingo,15034,15,34,4740,2020
+México,Huehuetoca,15035,15,35,78748,2020
+México,Hueypoxtla,15036,15,36,21493,2020
+México,Huixquilucan,15037,15,37,150325,2020
+México,Isidro Fabela,15038,15,38,5362,2020
+México,Ixtapaluca,15039,15,39,272440,2020
+México,Ixtapan de la Sal,15040,15,40,18814,2020
+México,Ixtapan del Oro,15041,15,41,2372,2020
+México,Ixtlahuaca,15042,15,42,85920,2020
+México,Xalatlaco,15043,15,43,15718,2020
+México,Jaltenco,15044,15,44,14001,2020
+México,Jilotepec,15045,15,45,43330,2020
+México,Jilotzingo,15046,15,46,9137,2020
+México,Jiquipilco,15047,15,47,34985,2020
+México,Jocotitlán,15048,15,48,35107,2020
+México,Joquicingo,15049,15,49,6631,2020
+México,Juchitepec,15050,15,50,13169,2020
+México,Lerma,15051,15,51,83786,2020
+México,Malinalco,15052,15,52,13723,2020
+México,Melchor Ocampo,15053,15,53,30206,2020
+México,Metepec,15054,15,54,124411,2020
+México,Mexicaltzingo,15055,15,55,6184,2020
+México,Morelos,15056,15,56,16186,2020
+México,Naucalpan de Juárez,15057,15,57,430951,2020
+México,Nezahualcóyotl,15058,15,58,561269,2020
+México,Nextlalpan,15059,15,59,28067,2020
+México,Nicolás Romero,15060,15,60,214225,2020
+México,Nopaltepec,15061,15,61,4894,2020
+México,Ocoyoacac,15062,15,62,36894,2020
+México,Ocuilan,15063,15,63,17655,2020
+México,El Oro,15064,15,64,16736,2020
+México,Otumba,15065,15,65,17525,2020
+México,Otzoloapan,15066,15,66,1315,2020
+México,Otzolotepec,15067,15,67,42385,2020
+México,Ozumba,15068,15,68,15389,2020
+México,Papalotla,15069,15,69,2268,2020
+México,La Paz,15070,15,70,152620,2020
+México,Polotitlán,15071,15,71,6980,2020
+México,Rayón,15072,15,72,6925,2020
+México,San Antonio la Isla,15073,15,73,15809,2020
+México,San Felipe del Progreso,15074,15,74,77832,2020
+México,San Martín de las Pirámides,15075,15,75,14388,2020
+México,San Mateo Atenco,15076,15,76,49230,2020
+México,San Simón de Guerrero,15077,15,77,2476,2020
+México,Santo Tomás,15078,15,78,3578,2020
+México,Soyaniquilpan de Juárez,15079,15,79,6662,2020
+México,Sultepec,15080,15,80,11471,2020
+México,Tecámac,15081,15,81,278755,2020
+México,Tejupilco,15082,15,82,33896,2020
+México,Temamatla,15083,15,83,5911,2020
+México,Temascalapa,15084,15,84,20477,2020
+México,Temascalcingo,15085,15,85,33514,2020
+México,Temascaltepec,15086,15,86,16007,2020
+México,Temoaya,15087,15,87,50412,2020
+México,Tenancingo,15088,15,88,50588,2020
+México,Tenango del Aire,15089,15,89,4184,2020
+México,Tenango del Valle,15090,15,90,43227,2020
+México,Teoloyucan,15091,15,91,31316,2020
+México,Teotihuacán,15092,15,92,29026,2020
+México,Tepetlaoxtoc,15093,15,93,15293,2020
+México,Tepetlixpa,15094,15,94,10301,2020
+México,Tepotzotlán,15095,15,95,52690,2020
+México,Tequixquiac,15096,15,96,20147,2020
+México,Texcaltitlán,15097,15,97,7213,2020
+México,Texcalyacac,15098,15,98,2594,2020
+México,Texcoco,15099,15,99,137862,2020
+México,Tezoyuca,15100,15,100,23455,2020
+México,Tianguistenco,15101,15,101,43567,2020
+México,Timilpan,15102,15,102,7595,2020
+México,Tlalmanalco,15103,15,103,23328,2020
+México,Tlalnepantla de Baz,15104,15,104,352840,2020
+México,Tlatlaya,15105,15,105,15941,2020
+México,Toluca,15106,15,106,458305,2020
+México,Tonatico,15107,15,107,6295,2020
+México,Tultepec,15108,15,108,81775,2020
+México,Tultitlán,15109,15,109,261203,2020
+México,Valle de Bravo,15110,15,110,30671,2020
+México,Villa de Allende,15111,15,111,25698,2020
+México,Villa del Carbón,15112,15,112,25981,2020
+México,Villa Guerrero,15113,15,113,36150,2020
+México,Villa Victoria,15114,15,114,50584,2020
+México,Xonacatlán,15115,15,115,26341,2020
+México,Zacazonapan,15116,15,116,1683,2020
+México,Zacualpan,15117,15,117,5886,2020
+México,Zinacantepec,15118,15,118,97689,2020
+México,Zumpahuacán,15119,15,119,7827,2020
+México,Zumpango,15120,15,120,136904,2020
+México,Cuautitlán Izcalli,15121,15,121,288311,2020
+México,Valle de Chalco Solidaridad,15122,15,122,197529,2020
+México,Luvianos,15123,15,123,12645,2020
+México,San José del Rincón,15124,15,124,47990,2020
+México,Tonanitla,15125,15,125,7231,2020
+Michoacán de Ocampo,Total del estado Michoacán de Ocampo,16000,16,0,2296059,2020
+Michoacán de Ocampo,Acuitzio,16001,16,1,5253,2020
+Michoacán de Ocampo,Aguililla,16002,16,2,6482,2020
+Michoacán de Ocampo,Álvaro Obregón,16003,16,3,9544,2020
+Michoacán de Ocampo,Angamacutiro,16004,16,4,6864,2020
+Michoacán de Ocampo,Angangueo,16005,16,5,3994,2020
+Michoacán de Ocampo,Apatzingán,16006,16,6,63356,2020
+Michoacán de Ocampo,Aporo,16007,16,7,1298,2020
+Michoacán de Ocampo,Aquila,16008,16,8,11035,2020
+Michoacán de Ocampo,Ario,16009,16,9,17038,2020
+Michoacán de Ocampo,Arteaga,16010,16,10,9151,2020
+Michoacán de Ocampo,Briseñas,16011,16,11,4578,2020
+Michoacán de Ocampo,Buenavista,16012,16,12,24974,2020
+Michoacán de Ocampo,Carácuaro,16013,16,13,3760,2020
+Michoacán de Ocampo,Coahuayana,16014,16,14,8034,2020
+Michoacán de Ocampo,Coalcomán de Vázquez Pallares,16015,16,15,8896,2020
+Michoacán de Ocampo,Coeneo,16016,16,16,9114,2020
+Michoacán de Ocampo,Contepec,16017,16,17,16913,2020
+Michoacán de Ocampo,Copándaro,16018,16,18,3527,2020
+Michoacán de Ocampo,Cotija,16019,16,19,8913,2020
+Michoacán de Ocampo,Cuitzeo,16020,16,20,13338,2020
+Michoacán de Ocampo,Charapan,16021,16,21,6300,2020
+Michoacán de Ocampo,Charo,16022,16,22,12332,2020
+Michoacán de Ocampo,Chavinda,16023,16,23,4730,2020
+Michoacán de Ocampo,Cherán,16024,16,24,9550,2020
+Michoacán de Ocampo,Chilchota,16025,16,25,20519,2020
+Michoacán de Ocampo,Chinicuila,16026,16,26,1692,2020
+Michoacán de Ocampo,Chucándiro,16027,16,27,1942,2020
+Michoacán de Ocampo,Churintzio,16028,16,28,2182,2020
+Michoacán de Ocampo,Churumuco,16029,16,29,4904,2020
+Michoacán de Ocampo,Ecuandureo,16030,16,30,4917,2020
+Michoacán de Ocampo,Epitacio Huerta,16031,16,31,7006,2020
+Michoacán de Ocampo,Erongarícuaro,16032,16,32,7799,2020
+Michoacán de Ocampo,Gabriel Zamora,16033,16,33,9489,2020
+Michoacán de Ocampo,Hidalgo,16034,16,34,58909,2020
+Michoacán de Ocampo,La Huacana,16035,16,35,13275,2020
+Michoacán de Ocampo,Huandacareo,16036,16,36,4813,2020
+Michoacán de Ocampo,Huaniqueo,16037,16,37,2985,2020
+Michoacán de Ocampo,Huetamo,16038,16,38,19842,2020
+Michoacán de Ocampo,Huiramba,16039,16,39,3778,2020
+Michoacán de Ocampo,Indaparapeo,16040,16,40,7770,2020
+Michoacán de Ocampo,Irimbo,16041,16,41,7310,2020
+Michoacán de Ocampo,Ixtlán,16042,16,42,6296,2020
+Michoacán de Ocampo,Jacona,16043,16,43,35013,2020
+Michoacán de Ocampo,Jiménez,16044,16,44,5568,2020
+Michoacán de Ocampo,Jiquilpan,16045,16,45,17041,2020
+Michoacán de Ocampo,Juárez,16046,16,46,6716,2020
+Michoacán de Ocampo,Jungapeo,16047,16,47,8827,2020
+Michoacán de Ocampo,Lagunillas,16048,16,48,2240,2020
+Michoacán de Ocampo,Madero,16049,16,49,8611,2020
+Michoacán de Ocampo,Maravatío,16050,16,50,42934,2020
+Michoacán de Ocampo,Marcos Castellanos,16051,16,51,6969,2020
+Michoacán de Ocampo,Lázaro Cárdenas,16052,16,52,96704,2020
+Michoacán de Ocampo,Morelia,16053,16,53,443435,2020
+Michoacán de Ocampo,Morelos,16054,16,54,3102,2020
+Michoacán de Ocampo,Múgica,16055,16,55,21799,2020
+Michoacán de Ocampo,Nahuatzen,16056,16,56,14158,2020
+Michoacán de Ocampo,Nocupétaro,16057,16,57,3643,2020
+Michoacán de Ocampo,Nuevo Parangaricutiro,16058,16,58,10711,2020
+Michoacán de Ocampo,Nuevo Urecho,16059,16,59,3932,2020
+Michoacán de Ocampo,Numarán,16060,16,60,3784,2020
+Michoacán de Ocampo,Ocampo,16061,16,61,9953,2020
+Michoacán de Ocampo,Pajacuarán,16062,16,62,8713,2020
+Michoacán de Ocampo,Panindícuaro,16063,16,63,6431,2020
+Michoacán de Ocampo,Parácuaro,16064,16,64,13067,2020
+Michoacán de Ocampo,Paracho,16065,16,65,19577,2020
+Michoacán de Ocampo,Pátzcuaro,16066,16,66,49236,2020
+Michoacán de Ocampo,Penjamillo,16067,16,67,6591,2020
+Michoacán de Ocampo,Peribán,16068,16,68,14233,2020
+Michoacán de Ocampo,La Piedad,16069,16,69,53172,2020
+Michoacán de Ocampo,Purépero,16070,16,70,7312,2020
+Michoacán de Ocampo,Puruándiro,16071,16,71,31344,2020
+Michoacán de Ocampo,Queréndaro,16072,16,72,5952,2020
+Michoacán de Ocampo,Quiroga,16073,16,73,14270,2020
+Michoacán de Ocampo,Cojumatlán de Régules,16074,16,74,4670,2020
+Michoacán de Ocampo,Los Reyes,16075,16,75,40094,2020
+Michoacán de Ocampo,Sahuayo,16076,16,76,42279,2020
+Michoacán de Ocampo,San Lucas,16077,16,77,7822,2020
+Michoacán de Ocampo,Santa Ana Maya,16078,16,78,5182,2020
+Michoacán de Ocampo,Salvador Escalante,16079,16,79,21790,2020
+Michoacán de Ocampo,Senguio,16080,16,80,8187,2020
+Michoacán de Ocampo,Susupuato,16081,16,81,3697,2020
+Michoacán de Ocampo,Tacámbaro,16082,16,82,37251,2020
+Michoacán de Ocampo,Tancítaro,16083,16,83,15005,2020
+Michoacán de Ocampo,Tangamandapio,16084,16,84,14135,2020
+Michoacán de Ocampo,Tangancícuaro,16085,16,85,16930,2020
+Michoacán de Ocampo,Tanhuato,16086,16,86,6421,2020
+Michoacán de Ocampo,Taretan,16087,16,87,6692,2020
+Michoacán de Ocampo,Tarímbaro,16088,16,88,57604,2020
+Michoacán de Ocampo,Tepalcatepec,16089,16,89,12105,2020
+Michoacán de Ocampo,Tingambato,16090,16,90,7178,2020
+Michoacán de Ocampo,Tingüindín,16091,16,91,6946,2020
+Michoacán de Ocampo,Tiquicheo de Nicolás Romero,16092,16,92,5503,2020
+Michoacán de Ocampo,Tlalpujahua,16093,16,93,12372,2020
+Michoacán de Ocampo,Tlazazalca,16094,16,94,2615,2020
+Michoacán de Ocampo,Tocumbo,16095,16,95,5612,2020
+Michoacán de Ocampo,Tumbiscatío,16096,16,96,2357,2020
+Michoacán de Ocampo,Turicato,16097,16,97,11734,2020
+Michoacán de Ocampo,Tuxpan,16098,16,98,11741,2020
+Michoacán de Ocampo,Tuzantla,16099,16,99,5835,2020
+Michoacán de Ocampo,Tzintzuntzan,16100,16,100,7436,2020
+Michoacán de Ocampo,Tzitzio,16101,16,101,3453,2020
+Michoacán de Ocampo,Uruapan,16102,16,102,178576,2020
+Michoacán de Ocampo,Venustiano Carranza,16103,16,103,10872,2020
+Michoacán de Ocampo,Villamar,16104,16,104,6573,2020
+Michoacán de Ocampo,Vista Hermosa,16105,16,105,8881,2020
+Michoacán de Ocampo,Yurécuaro,16106,16,106,15706,2020
+Michoacán de Ocampo,Zacapu,16107,16,107,36476,2020
+Michoacán de Ocampo,Zamora,16108,16,108,104811,2020
+Michoacán de Ocampo,Zináparo,16109,16,109,1252,2020
+Michoacán de Ocampo,Zinapécuaro,16110,16,110,21781,2020
+Michoacán de Ocampo,Ziracuaretiro,16111,16,111,8059,2020
+Michoacán de Ocampo,Zitácuaro,16112,16,112,79956,2020
+Michoacán de Ocampo,José Sixto Verduzco,16113,16,113,11030,2020
+Morelos,Total del estado Morelos,17000,17,0,1017989,2020
+Morelos,Amacuzac,17001,17,1,7649,2020
+Morelos,Atlatlahucan,17002,17,2,12052,2020
+Morelos,Axochiapan,17003,17,3,19038,2020
+Morelos,Ayala,17004,17,4,44704,2020
+Morelos,Coatlán del Río,17005,17,5,4200,2020
+Morelos,Cuautla,17006,17,6,97870,2020
+Morelos,Cuernavaca,17007,17,7,203425,2020
+Morelos,Emiliano Zapata,17008,17,8,56063,2020
+Morelos,Huitzilac,17009,17,9,13254,2020
+Morelos,Jantetelco,17010,17,10,9120,2020
+Morelos,Jiutepec,17011,17,11,113477,2020
+Morelos,Jojutla,17012,17,12,28621,2020
+Morelos,Jonacatepec de Leandro Valle,17013,17,13,8023,2020
+Morelos,Mazatepec,17014,17,14,4165,2020
+Morelos,Miacatlán,17015,17,15,7765,2020
+Morelos,Ocuituco,17016,17,16,9685,2020
+Morelos,Puente de Ixtla,17017,17,17,19489,2020
+Morelos,Temixco,17018,17,18,63365,2020
+Morelos,Tepalcingo,17019,17,19,14041,2020
+Morelos,Tepoztlán,17020,17,20,30288,2020
+Morelos,Tetecala,17021,17,21,3637,2020
+Morelos,Tetela del Volcán,17022,17,22,7227,2020
+Morelos,Tlalnepantla,17023,17,23,4040,2020
+Morelos,Tlaltizapán de Zapata,17024,17,24,25999,2020
+Morelos,Tlaquiltenango,17025,17,25,16737,2020
+Morelos,Tlayacapan,17026,17,26,10308,2020
+Morelos,Totolapan,17027,17,27,6619,2020
+Morelos,Xochitepec,17028,17,28,38704,2020
+Morelos,Yautepec,17029,17,29,55086,2020
+Morelos,Yecapixtla,17030,17,30,29417,2020
+Morelos,Zacatepec,17031,17,31,17045,2020
+Morelos,Zacualpan de Amilpas,17032,17,32,4824,2020
+Morelos,Temoac,17033,17,33,8583,2020
+Morelos,Coatetelco,17034,17,34,5430,2020
+Morelos,Xoxocotla,17035,17,35,14251,2020
+Morelos,Hueyapan,17036,17,36,3788,2020
+Nayarit,Total del estado Nayarit,18000,18,0,609556,2020
+Nayarit,Acaponeta,18001,18,1,17414,2020
+Nayarit,Ahuacatlán,18002,18,2,7341,2020
+Nayarit,Amatlán de Cañas,18003,18,3,5440,2020
+Nayarit,Compostela,18004,18,4,40674,2020
+Nayarit,Huajicori,18005,18,5,3481,2020
+Nayarit,Ixtlán del Río,18006,18,6,14061,2020
+Nayarit,Jala,18007,18,7,8565,2020
+Nayarit,Xalisco,18008,18,8,32653,2020
+Nayarit,Del Nayar,18009,18,9,10609,2020
+Nayarit,Rosamorada,18010,18,10,15723,2020
+Nayarit,Ruíz,18011,18,11,11173,2020
+Nayarit,San Blas,18012,18,12,20866,2020
+Nayarit,San Pedro Lagunillas,18013,18,13,3359,2020
+Nayarit,Santa María del Oro,18014,18,14,11635,2020
+Nayarit,Santiago Ixcuintla,18015,18,15,46015,2020
+Nayarit,Tecuala,18016,18,16,17991,2020
+Nayarit,Tepic,18017,18,17,220949,2020
+Nayarit,Tuxpan,18018,18,18,15014,2020
+Nayarit,La Yesca,18019,18,19,3758,2020
+Nayarit,Bahía de Banderas,18020,18,20,102835,2020
+Nuevo León,Total del estado Nuevo León,19000,19,0,2862003,2020
+Nuevo León,Abasolo,19001,19,1,1130,2020
+Nuevo León,Agualeguas,19002,19,2,1322,2020
+Nuevo León,Los Aldamas,19003,19,3,535,2020
+Nuevo León,Allende,19004,19,4,17028,2020
+Nuevo León,Anáhuac,19005,19,5,7824,2020
+Nuevo León,Apodaca,19006,19,6,338246,2020
+Nuevo León,Aramberri,19007,19,7,6217,2020
+Nuevo León,Bustamante,19008,19,8,1395,2020
+Nuevo León,Cadereyta Jiménez,19009,19,9,58878,2020
+Nuevo León,El Carmen,19010,19,10,48276,2020
+Nuevo León,Cerralvo,19011,19,11,3186,2020
+Nuevo León,Ciénega de Flores,19012,19,12,33220,2020
+Nuevo León,China,19013,19,13,4433,2020
+Nuevo León,Doctor Arroyo,19014,19,14,15087,2020
+Nuevo León,Doctor Coss,19015,19,15,447,2020
+Nuevo León,Doctor González,19016,19,16,1136,2020
+Nuevo León,Galeana,19017,19,17,16469,2020
+Nuevo León,García,19018,19,18,193318,2020
+Nuevo León,San Pedro Garza García,19019,19,19,66561,2020
+Nuevo León,General Bravo,19020,19,20,2367,2020
+Nuevo León,General Escobedo,19021,19,21,240759,2020
+Nuevo León,General Terán,19022,19,22,5948,2020
+Nuevo León,General Treviño,19023,19,23,519,2020
+Nuevo León,General Zaragoza,19024,19,24,2293,2020
+Nuevo León,General Zuazua,19025,19,25,50278,2020
+Nuevo León,Guadalupe,19026,19,26,321854,2020
+Nuevo León,Los Herreras,19027,19,27,666,2020
+Nuevo León,Higueras,19028,19,28,559,2020
+Nuevo León,Hualahuises,19029,19,29,2734,2020
+Nuevo León,Iturbide,19030,19,30,1197,2020
+Nuevo León,Juárez,19031,19,31,231559,2020
+Nuevo León,Lampazos de Naranjo,19032,19,32,2258,2020
+Nuevo León,Linares,19033,19,33,38712,2020
+Nuevo León,Marín,19034,19,34,2230,2020
+Nuevo León,Melchor Ocampo,19035,19,35,576,2020
+Nuevo León,Mier y Noriega,19036,19,36,2356,2020
+Nuevo León,Mina,19037,19,37,2491,2020
+Nuevo León,Montemorelos,19038,19,38,32734,2020
+Nuevo León,Monterrey,19039,19,39,575178,2020
+Nuevo León,Parás,19040,19,40,331,2020
+Nuevo León,Pesquería,19041,19,41,75016,2020
+Nuevo León,Los Ramones,19042,19,42,2213,2020
+Nuevo León,Rayones,19043,19,43,912,2020
+Nuevo León,Sabinas Hidalgo,19044,19,44,16396,2020
+Nuevo León,Salinas Victoria,19045,19,45,43084,2020
+Nuevo León,San Nicolás de los Garza,19046,19,46,204861,2020
+Nuevo León,Hidalgo,19047,19,47,7470,2020
+Nuevo León,Santa Catarina,19048,19,48,155536,2020
+Nuevo León,Santiago,19049,19,49,22133,2020
+Nuevo León,Vallecillo,19050,19,50,652,2020
+Nuevo León,Villaldama,19051,19,51,1423,2020
+Oaxaca,Total del estado Oaxaca,20000,20,0,1825593,2020
+Oaxaca,Abejones,20001,20,1,95,2020
+Oaxaca,Acatlán de Pérez Figueroa,20002,20,2,19139,2020
+Oaxaca,Asunción Cacalotepec,20003,20,3,872,2020
+Oaxaca,Asunción Cuyotepeji,20004,20,4,422,2020
+Oaxaca,Asunción Ixtaltepec,20005,20,5,7545,2020
+Oaxaca,Asunción Nochixtlán,20006,20,6,9934,2020
+Oaxaca,Asunción Ocotlán,20007,20,7,939,2020
+Oaxaca,Asunción Tlacolulita,20008,20,8,255,2020
+Oaxaca,Ayotzintepec,20009,20,9,2494,2020
+Oaxaca,El Barrio de la Soledad,20010,20,10,6003,2020
+Oaxaca,Calihualá,20011,20,11,349,2020
+Oaxaca,Candelaria Loxicha,20012,20,12,3464,2020
+Oaxaca,Ciénega de Zimatlán,20013,20,13,1368,2020
+Oaxaca,Ciudad Ixtepec,20014,20,14,13601,2020
+Oaxaca,Coatecas Altas,20015,20,15,1357,2020
+Oaxaca,Coicoyán de las Flores,20016,20,16,1707,2020
+Oaxaca,La Compañía,20017,20,17,1213,2020
+Oaxaca,Concepción Buenavista,20018,20,18,298,2020
+Oaxaca,Concepción Pápalo,20019,20,19,891,2020
+Oaxaca,Constancia del Rosario,20020,20,20,1147,2020
+Oaxaca,Cosolapa,20021,20,21,6457,2020
+Oaxaca,Cosoltepec,20022,20,22,232,2020
+Oaxaca,Cuilápam de Guerrero,20023,20,23,13509,2020
+Oaxaca,Cuyamecalco Villa de Zaragoza,20024,20,24,1291,2020
+Oaxaca,Chahuites,20025,20,25,5863,2020
+Oaxaca,Chalcatongo de Hidalgo,20026,20,26,4957,2020
+Oaxaca,Chiquihuitlán de Benito Juárez,20027,20,27,780,2020
+Oaxaca,Heroica Ciudad de Ejutla de Crespo,20028,20,28,10955,2020
+Oaxaca,Eloxochitlán de Flores Magón,20029,20,29,1554,2020
+Oaxaca,El Espinal,20030,20,30,4110,2020
+Oaxaca,Tamazulápam del Espíritu Santo,20031,20,31,3419,2020
+Oaxaca,Fresnillo de Trujano,20032,20,32,255,2020
+Oaxaca,Guadalupe Etla,20033,20,33,1357,2020
+Oaxaca,Guadalupe de Ramírez,20034,20,34,349,2020
+Oaxaca,Guelatao de Juárez,20035,20,35,312,2020
+Oaxaca,Guevea de Humboldt,20036,20,36,2076,2020
+Oaxaca,Mesones Hidalgo,20037,20,37,1227,2020
+Oaxaca,Villa Hidalgo,20038,20,38,878,2020
+Oaxaca,Heroica Ciudad de Huajuapan de León,20039,20,39,38997,2020
+Oaxaca,Huautepec,20040,20,40,2019,2020
+Oaxaca,Huautla de Jiménez,20041,20,41,12058,2020
+Oaxaca,Ixtlán de Juárez,20042,20,42,3922,2020
+Oaxaca,Juchitán de Zaragoza,20043,20,43,58091,2020
+Oaxaca,Loma Bonita,20044,20,44,20341,2020
+Oaxaca,Magdalena Apasco,20045,20,45,4020,2020
+Oaxaca,Magdalena Jaltepec,20046,20,46,1055,2020
+Oaxaca,Santa Magdalena Jicotlán,20047,20,47,42,2020
+Oaxaca,Magdalena Mixtepec,20048,20,48,404,2020
+Oaxaca,Magdalena Ocotlán,20049,20,49,463,2020
+Oaxaca,Magdalena Peñasco,20050,20,50,1681,2020
+Oaxaca,Magdalena Teitipac,20051,20,51,2099,2020
+Oaxaca,Magdalena Tequisistlán,20052,20,52,2503,2020
+Oaxaca,Magdalena Tlacotepec,20053,20,53,451,2020
+Oaxaca,Magdalena Zahuatlán,20054,20,54,149,2020
+Oaxaca,Mariscala de Juárez,20055,20,55,1317,2020
+Oaxaca,Mártires de Tacubaya,20056,20,56,496,2020
+Oaxaca,Matías Romero Avendaño,20057,20,57,18384,2020
+Oaxaca,Mazatlán Villa de Flores,20058,20,58,3698,2020
+Oaxaca,Miahuatlán de Porfirio Díaz,20059,20,59,24014,2020
+Oaxaca,Mixistlán de la Reforma,20060,20,60,1008,2020
+Oaxaca,Monjas,20061,20,61,732,2020
+Oaxaca,Natividad,20062,20,62,214,2020
+Oaxaca,Nazareno Etla,20063,20,63,2022,2020
+Oaxaca,Nejapa de Madero,20064,20,64,4089,2020
+Oaxaca,Ixpantepec Nieves,20065,20,65,315,2020
+Oaxaca,Santiago Niltepec,20066,20,66,2365,2020
+Oaxaca,Oaxaca de Juárez,20067,20,67,144995,2020
+Oaxaca,Ocotlán de Morelos,20068,20,68,11929,2020
+Oaxaca,La Pe,20069,20,69,755,2020
+Oaxaca,Pinotepa de Don Luis,20070,20,70,2699,2020
+Oaxaca,Pluma Hidalgo,20071,20,71,1286,2020
+Oaxaca,San José del Progreso,20072,20,72,3121,2020
+Oaxaca,Putla Villa de Guerrero,20073,20,73,16083,2020
+Oaxaca,Santa Catarina Quioquitani,20074,20,74,122,2020
+Oaxaca,Reforma de Pineda,20075,20,75,1138,2020
+Oaxaca,La Reforma,20076,20,76,1131,2020
+Oaxaca,Reyes Etla,20077,20,77,2107,2020
+Oaxaca,Rojas de Cuauhtémoc,20078,20,78,640,2020
+Oaxaca,Salina Cruz,20079,20,79,39818,2020
+Oaxaca,San Agustín Amatengo,20080,20,80,634,2020
+Oaxaca,San Agustín Atenango,20081,20,81,570,2020
+Oaxaca,San Agustín Chayuco,20082,20,82,1307,2020
+Oaxaca,San Agustín de las Juntas,20083,20,83,5453,2020
+Oaxaca,San Agustín Etla,20084,20,84,1957,2020
+Oaxaca,San Agustín Loxicha,20085,20,85,6424,2020
+Oaxaca,San Agustín Tlacotepec,20086,20,86,495,2020
+Oaxaca,San Agustín Yatareni,20087,20,87,2678,2020
+Oaxaca,San Andrés Cabecera Nueva,20088,20,88,759,2020
+Oaxaca,San Andrés Dinicuiti,20089,20,89,796,2020
+Oaxaca,San Andrés Huaxpaltepec,20090,20,90,2602,2020
+Oaxaca,San Andrés Huayápam,20091,20,91,3306,2020
+Oaxaca,San Andrés Ixtlahuaca,20092,20,92,716,2020
+Oaxaca,San Andrés Lagunas,20093,20,93,283,2020
+Oaxaca,San Andrés Nuxiño,20094,20,94,620,2020
+Oaxaca,San Andrés Paxtlán,20095,20,95,1567,2020
+Oaxaca,San Andrés Sinaxtla,20096,20,96,329,2020
+Oaxaca,San Andrés Solaga,20097,20,97,679,2020
+Oaxaca,San Andrés Teotilálpam,20098,20,98,1356,2020
+Oaxaca,San Andrés Tepetlapa,20099,20,99,86,2020
+Oaxaca,San Andrés Yaá,20100,20,100,185,2020
+Oaxaca,San Andrés Zabache,20101,20,101,228,2020
+Oaxaca,San Andrés Zautla,20102,20,102,2255,2020
+Oaxaca,San Antonino Castillo Velasco,20103,20,103,3509,2020
+Oaxaca,San Antonino el Alto,20104,20,104,882,2020
+Oaxaca,San Antonino Monte Verde,20105,20,105,2586,2020
+Oaxaca,San Antonio Acutla,20106,20,106,102,2020
+Oaxaca,San Antonio de la Cal,20107,20,107,13729,2020
+Oaxaca,San Antonio Huitepec,20108,20,108,660,2020
+Oaxaca,San Antonio Nanahuatípam,20109,20,109,474,2020
+Oaxaca,San Antonio Sinicahua,20110,20,110,746,2020
+Oaxaca,San Antonio Tepetlapa,20111,20,111,1143,2020
+Oaxaca,San Baltazar Chichicápam,20112,20,112,748,2020
+Oaxaca,San Baltazar Loxicha,20113,20,113,1088,2020
+Oaxaca,San Baltazar Yatzachi el Bajo,20114,20,114,243,2020
+Oaxaca,San Bartolo Coyotepec,20115,20,115,5309,2020
+Oaxaca,San Bartolomé Ayautla,20116,20,116,970,2020
+Oaxaca,San Bartolomé Loxicha,20117,20,117,704,2020
+Oaxaca,San Bartolomé Quialana,20118,20,118,930,2020
+Oaxaca,San Bartolomé Yucuañe,20119,20,119,425,2020
+Oaxaca,San Bartolomé Zoogocho,20120,20,120,64,2020
+Oaxaca,San Bartolo Soyaltepec,20121,20,121,308,2020
+Oaxaca,San Bartolo Yautepec,20122,20,122,235,2020
+Oaxaca,San Bernardo Mixtepec,20123,20,123,865,2020
+Oaxaca,San Blas Atempa,20124,20,124,11499,2020
+Oaxaca,San Carlos Yautepec,20125,20,125,5303,2020
+Oaxaca,San Cristóbal Amatlán,20126,20,126,2218,2020
+Oaxaca,San Cristóbal Amoltepec,20127,20,127,359,2020
+Oaxaca,San Cristóbal Lachirioag,20128,20,128,503,2020
+Oaxaca,San Cristóbal Suchixtlahuaca,20129,20,129,164,2020
+Oaxaca,San Dionisio del Mar,20130,20,130,1764,2020
+Oaxaca,San Dionisio Ocotepec,20131,20,131,5185,2020
+Oaxaca,San Dionisio Ocotlán,20132,20,132,433,2020
+Oaxaca,San Esteban Atatlahuca,20133,20,133,1075,2020
+Oaxaca,San Felipe Jalapa de Díaz,20134,20,134,13735,2020
+Oaxaca,San Felipe Tejalápam,20135,20,135,3782,2020
+Oaxaca,San Felipe Usila,20136,20,136,5314,2020
+Oaxaca,San Francisco Cahuacuá,20137,20,137,782,2020
+Oaxaca,San Francisco Cajonos,20138,20,138,179,2020
+Oaxaca,San Francisco Chapulapa,20139,20,139,565,2020
+Oaxaca,San Francisco Chindúa,20140,20,140,287,2020
+Oaxaca,San Francisco del Mar,20141,20,141,3943,2020
+Oaxaca,San Francisco Huehuetlán,20142,20,142,277,2020
+Oaxaca,San Francisco Ixhuatán,20143,20,143,4176,2020
+Oaxaca,San Francisco Jaltepetongo,20144,20,144,343,2020
+Oaxaca,San Francisco Lachigoló,20145,20,145,2465,2020
+Oaxaca,San Francisco Logueche,20146,20,146,823,2020
+Oaxaca,San Francisco Nuxaño,20147,20,147,153,2020
+Oaxaca,San Francisco Ozolotepec,20148,20,148,649,2020
+Oaxaca,San Francisco Sola,20149,20,149,711,2020
+Oaxaca,San Francisco Telixtlahuaca,20150,20,150,6375,2020
+Oaxaca,San Francisco Teopan,20151,20,151,121,2020
+Oaxaca,San Francisco Tlapancingo,20152,20,152,611,2020
+Oaxaca,San Gabriel Mixtepec,20153,20,153,1899,2020
+Oaxaca,San Ildefonso Amatlán,20154,20,154,795,2020
+Oaxaca,San Ildefonso Sola,20155,20,155,364,2020
+Oaxaca,San Ildefonso Villa Alta,20156,20,156,1377,2020
+Oaxaca,San Jacinto Amilpas,20157,20,157,8869,2020
+Oaxaca,San Jacinto Tlacotepec,20158,20,158,380,2020
+Oaxaca,San Jerónimo Coatlán,20159,20,159,1837,2020
+Oaxaca,San Jerónimo Silacayoapilla,20160,20,160,563,2020
+Oaxaca,San Jerónimo Sosola,20161,20,161,1312,2020
+Oaxaca,San Jerónimo Taviche,20162,20,162,735,2020
+Oaxaca,San Jerónimo Tecóatl,20163,20,163,525,2020
+Oaxaca,San Jorge Nuchita,20164,20,164,711,2020
+Oaxaca,San José Ayuquila,20165,20,165,520,2020
+Oaxaca,San José Chiltepec,20166,20,166,4634,2020
+Oaxaca,San José del Peñasco,20167,20,167,782,2020
+Oaxaca,San José Estancia Grande,20168,20,168,395,2020
+Oaxaca,San José Independencia,20169,20,169,1166,2020
+Oaxaca,San José Lachiguiri,20170,20,170,806,2020
+Oaxaca,San José Tenango,20171,20,171,6097,2020
+Oaxaca,San Juan Achiutla,20172,20,172,179,2020
+Oaxaca,San Juan Atepec,20173,20,173,425,2020
+Oaxaca,Ánimas Trujano,20174,20,174,2168,2020
+Oaxaca,San Juan Bautista Atatlahuca,20175,20,175,457,2020
+Oaxaca,San Juan Bautista Coixtlahuaca,20176,20,176,1023,2020
+Oaxaca,San Juan Bautista Cuicatlán,20177,20,177,4625,2020
+Oaxaca,San Juan Bautista Guelache,20178,20,178,3112,2020
+Oaxaca,San Juan Bautista Jayacatlán,20179,20,179,532,2020
+Oaxaca,San Juan Bautista Lo de Soto,20180,20,180,711,2020
+Oaxaca,San Juan Bautista Suchitepec,20181,20,181,168,2020
+Oaxaca,San Juan Bautista Tlacoatzintepec,20182,20,182,603,2020
+Oaxaca,San Juan Bautista Tlachichilco,20183,20,183,555,2020
+Oaxaca,San Juan Bautista Tuxtepec,20184,20,184,80919,2020
+Oaxaca,San Juan Cacahuatepec,20185,20,185,3315,2020
+Oaxaca,San Juan Cieneguilla,20186,20,186,132,2020
+Oaxaca,San Juan Coatzóspam,20187,20,187,875,2020
+Oaxaca,San Juan Colorado,20188,20,188,3528,2020
+Oaxaca,San Juan Comaltepec,20189,20,189,820,2020
+Oaxaca,San Juan Cotzocón,20190,20,190,10187,2020
+Oaxaca,San Juan Chicomezúchil,20191,20,191,156,2020
+Oaxaca,San Juan Chilateca,20192,20,192,686,2020
+Oaxaca,San Juan del Estado,20193,20,193,1199,2020
+Oaxaca,San Juan del Río,20194,20,194,567,2020
+Oaxaca,San Juan Diuxi,20195,20,195,278,2020
+Oaxaca,San Juan Evangelista Analco,20196,20,196,112,2020
+Oaxaca,San Juan Guelavía,20197,20,197,1391,2020
+Oaxaca,San Juan Guichicovi,20198,20,198,14501,2020
+Oaxaca,San Juan Ihualtepec,20199,20,199,147,2020
+Oaxaca,San Juan Juquila Mixes,20200,20,200,1242,2020
+Oaxaca,San Juan Juquila Vijanos,20201,20,201,700,2020
+Oaxaca,San Juan Lachao,20202,20,202,1595,2020
+Oaxaca,San Juan Lachigalla,20203,20,203,971,2020
+Oaxaca,San Juan Lajarcia,20204,20,204,208,2020
+Oaxaca,San Juan Lalana,20205,20,205,7773,2020
+Oaxaca,San Juan de los Cués,20206,20,206,970,2020
+Oaxaca,San Juan Mazatlán,20207,20,207,8355,2020
+Oaxaca,San Juan Mixtepec,20208,20,208,2467,2020
+Oaxaca,San Juan Mixtepec.,20209,20,209,105,2020
+Oaxaca,San Juan Ñumí,20210,20,210,1881,2020
+Oaxaca,San Juan Ozolotepec,20211,20,211,1015,2020
+Oaxaca,San Juan Petlapa,20212,20,212,788,2020
+Oaxaca,San Juan Quiahije,20213,20,213,967,2020
+Oaxaca,San Juan Quiotepec,20214,20,214,510,2020
+Oaxaca,San Juan Sayultepec,20215,20,215,286,2020
+Oaxaca,San Juan Tabaá,20216,20,216,448,2020
+Oaxaca,San Juan Tamazola,20217,20,217,1182,2020
+Oaxaca,San Juan Teita,20218,20,218,101,2020
+Oaxaca,San Juan Teitipac,20219,20,219,1082,2020
+Oaxaca,San Juan Tepeuxila,20220,20,220,803,2020
+Oaxaca,San Juan Teposcolula,20221,20,221,637,2020
+Oaxaca,San Juan Yaeé,20222,20,222,601,2020
+Oaxaca,San Juan Yatzona,20223,20,223,160,2020
+Oaxaca,San Juan Yucuita,20224,20,224,254,2020
+Oaxaca,San Lorenzo,20225,20,225,2166,2020
+Oaxaca,San Lorenzo Albarradas,20226,20,226,1115,2020
+Oaxaca,San Lorenzo Cacaotepec,20227,20,227,9651,2020
+Oaxaca,San Lorenzo Cuaunecuiltitla,20228,20,228,263,2020
+Oaxaca,San Lorenzo Texmelúcan,20229,20,229,1191,2020
+Oaxaca,San Lorenzo Victoria,20230,20,230,219,2020
+Oaxaca,San Lucas Camotlán,20231,20,231,773,2020
+Oaxaca,San Lucas Ojitlán,20232,20,232,10808,2020
+Oaxaca,San Lucas Quiaviní,20233,20,233,661,2020
+Oaxaca,San Lucas Zoquiápam,20234,20,234,2590,2020
+Oaxaca,San Luis Amatlán,20235,20,235,1207,2020
+Oaxaca,San Marcial Ozolotepec,20236,20,236,409,2020
+Oaxaca,San Marcos Arteaga,20237,20,237,518,2020
+Oaxaca,San Martín de los Cansecos,20238,20,238,455,2020
+Oaxaca,San Martín Huamelúlpam,20239,20,239,426,2020
+Oaxaca,San Martín Itunyoso,20240,20,240,437,2020
+Oaxaca,San Martín Lachilá,20241,20,241,361,2020
+Oaxaca,San Martín Peras,20242,20,242,2245,2020
+Oaxaca,San Martín Tilcajete,20243,20,243,801,2020
+Oaxaca,San Martín Toxpalan,20244,20,244,1566,2020
+Oaxaca,San Martín Zacatepec,20245,20,245,381,2020
+Oaxaca,San Mateo Cajonos,20246,20,246,167,2020
+Oaxaca,Capulálpam de Méndez,20247,20,247,754,2020
+Oaxaca,San Mateo del Mar,20248,20,248,4754,2020
+Oaxaca,San Mateo Yoloxochitlán,20249,20,249,1264,2020
+Oaxaca,San Mateo Etlatongo,20250,20,250,517,2020
+Oaxaca,San Mateo Nejápam,20251,20,251,352,2020
+Oaxaca,San Mateo Peñasco,20252,20,252,995,2020
+Oaxaca,San Mateo Piñas,20253,20,253,743,2020
+Oaxaca,San Mateo Río Hondo,20254,20,254,1144,2020
+Oaxaca,San Mateo Sindihui,20255,20,255,446,2020
+Oaxaca,San Mateo Tlapiltepec,20256,20,256,114,2020
+Oaxaca,San Melchor Betaza,20257,20,257,399,2020
+Oaxaca,San Miguel Achiutla,20258,20,258,252,2020
+Oaxaca,San Miguel Ahuehuetitlán,20259,20,259,703,2020
+Oaxaca,San Miguel Aloápam,20260,20,260,529,2020
+Oaxaca,San Miguel Amatitlán,20261,20,261,2208,2020
+Oaxaca,San Miguel Amatlán,20262,20,262,375,2020
+Oaxaca,San Miguel Coatlán,20263,20,263,1126,2020
+Oaxaca,San Miguel Chicahua,20264,20,264,584,2020
+Oaxaca,San Miguel Chimalapa,20265,20,265,2876,2020
+Oaxaca,San Miguel del Puerto,20266,20,266,3791,2020
+Oaxaca,San Miguel del Río,20267,20,267,72,2020
+Oaxaca,San Miguel Ejutla,20268,20,268,554,2020
+Oaxaca,San Miguel el Grande,20269,20,269,1944,2020
+Oaxaca,San Miguel Huautla,20270,20,270,519,2020
+Oaxaca,San Miguel Mixtepec,20271,20,271,859,2020
+Oaxaca,San Miguel Panixtlahuaca,20272,20,272,1501,2020
+Oaxaca,San Miguel Peras,20273,20,273,1012,2020
+Oaxaca,San Miguel Piedras,20274,20,274,503,2020
+Oaxaca,San Miguel Quetzaltepec,20275,20,275,2309,2020
+Oaxaca,San Miguel Santa Flor,20276,20,276,268,2020
+Oaxaca,Villa Sola de Vega,20277,20,277,6307,2020
+Oaxaca,San Miguel Soyaltepec,20278,20,278,17028,2020
+Oaxaca,San Miguel Suchixtepec,20279,20,279,981,2020
+Oaxaca,Villa Talea de Castro,20280,20,280,1041,2020
+Oaxaca,San Miguel Tecomatlán,20281,20,281,129,2020
+Oaxaca,San Miguel Tenango,20282,20,282,201,2020
+Oaxaca,San Miguel Tequixtepec,20283,20,283,278,2020
+Oaxaca,San Miguel Tilquiápam,20284,20,284,1030,2020
+Oaxaca,San Miguel Tlacamama,20285,20,285,1215,2020
+Oaxaca,San Miguel Tlacotepec,20286,20,286,941,2020
+Oaxaca,San Miguel Tulancingo,20287,20,287,167,2020
+Oaxaca,San Miguel Yotao,20288,20,288,264,2020
+Oaxaca,San Nicolás,20289,20,289,423,2020
+Oaxaca,San Nicolás Hidalgo,20290,20,290,298,2020
+Oaxaca,San Pablo Coatlán,20291,20,291,1263,2020
+Oaxaca,San Pablo Cuatro Venados,20292,20,292,425,2020
+Oaxaca,San Pablo Etla,20293,20,293,9068,2020
+Oaxaca,San Pablo Huitzo,20294,20,294,3465,2020
+Oaxaca,San Pablo Huixtepec,20295,20,295,4904,2020
+Oaxaca,San Pablo Macuiltianguis,20296,20,296,218,2020
+Oaxaca,San Pablo Tijaltepec,20297,20,297,582,2020
+Oaxaca,San Pablo Villa de Mitla,20298,20,298,7700,2020
+Oaxaca,San Pablo Yaganiza,20299,20,299,477,2020
+Oaxaca,San Pedro Amuzgos,20300,20,300,3113,2020
+Oaxaca,San Pedro Apóstol,20301,20,301,668,2020
+Oaxaca,San Pedro Atoyac,20302,20,302,1040,2020
+Oaxaca,San Pedro Cajonos,20303,20,303,442,2020
+Oaxaca,San Pedro Coxcaltepec Cántaros,20304,20,304,273,2020
+Oaxaca,San Pedro Comitancillo,20305,20,305,1853,2020
+Oaxaca,San Pedro el Alto,20306,20,306,1454,2020
+Oaxaca,San Pedro Huamelula,20307,20,307,4623,2020
+Oaxaca,San Pedro Huilotepec,20308,20,308,1407,2020
+Oaxaca,San Pedro Ixcatlán,20309,20,309,2718,2020
+Oaxaca,San Pedro Ixtlahuaca,20310,20,310,7048,2020
+Oaxaca,San Pedro Jaltepetongo,20311,20,311,93,2020
+Oaxaca,San Pedro Jicayán,20312,20,312,3904,2020
+Oaxaca,San Pedro Jocotipac,20313,20,313,335,2020
+Oaxaca,San Pedro Juchatengo,20314,20,314,602,2020
+Oaxaca,San Pedro Mártir,20315,20,315,764,2020
+Oaxaca,San Pedro Mártir Quiechapa,20316,20,316,229,2020
+Oaxaca,San Pedro Mártir Yucuxaco,20317,20,317,448,2020
+Oaxaca,San Pedro Mixtepec,20318,20,318,26589,2020
+Oaxaca,San Pedro Mixtepec,20319,20,319,180,2020
+Oaxaca,San Pedro Molinos,20320,20,320,278,2020
+Oaxaca,San Pedro Nopala,20321,20,321,347,2020
+Oaxaca,San Pedro Ocopetatillo,20322,20,322,324,2020
+Oaxaca,San Pedro Ocotepec,20323,20,323,826,2020
+Oaxaca,San Pedro Pochutla,20324,20,324,23849,2020
+Oaxaca,San Pedro Quiatoni,20325,20,325,4074,2020
+Oaxaca,San Pedro Sochiápam,20326,20,326,1387,2020
+Oaxaca,San Pedro Tapanatepec,20327,20,327,7699,2020
+Oaxaca,San Pedro Taviche,20328,20,328,553,2020
+Oaxaca,San Pedro Teozacoalco,20329,20,329,382,2020
+Oaxaca,San Pedro Teutila,20330,20,330,1492,2020
+Oaxaca,San Pedro Tidaá,20331,20,331,428,2020
+Oaxaca,San Pedro Topiltepec,20332,20,332,154,2020
+Oaxaca,San Pedro Totolápam,20333,20,333,1306,2020
+Oaxaca,Villa de Tututepec,20334,20,334,20848,2020
+Oaxaca,San Pedro Yaneri,20335,20,335,292,2020
+Oaxaca,San Pedro Yólox,20336,20,336,478,2020
+Oaxaca,San Pedro y San Pablo Ayutla,20337,20,337,2180,2020
+Oaxaca,Villa de Etla,20338,20,338,5142,2020
+Oaxaca,San Pedro y San Pablo Teposcolula,20339,20,339,1825,2020
+Oaxaca,San Pedro y San Pablo Tequixtepec,20340,20,340,606,2020
+Oaxaca,San Pedro Yucunama,20341,20,341,101,2020
+Oaxaca,San Raymundo Jalpan,20342,20,342,2102,2020
+Oaxaca,San Sebastián Abasolo,20343,20,343,954,2020
+Oaxaca,San Sebastián Coatlán,20344,20,344,889,2020
+Oaxaca,San Sebastián Ixcapa,20345,20,345,1434,2020
+Oaxaca,San Sebastián Nicananduta,20346,20,346,490,2020
+Oaxaca,San Sebastián Río Hondo,20347,20,347,1571,2020
+Oaxaca,San Sebastián Tecomaxtlahuaca,20348,20,348,4259,2020
+Oaxaca,San Sebastián Teitipac,20349,20,349,835,2020
+Oaxaca,San Sebastián Tutla,20350,20,350,9226,2020
+Oaxaca,San Simón Almolongas,20351,20,351,964,2020
+Oaxaca,San Simón Zahuatlán,20352,20,352,848,2020
+Oaxaca,Santa Ana,20353,20,353,786,2020
+Oaxaca,Santa Ana Ateixtlahuaca,20354,20,354,170,2020
+Oaxaca,Santa Ana Cuauhtémoc,20355,20,355,234,2020
+Oaxaca,Santa Ana del Valle,20356,20,356,830,2020
+Oaxaca,Santa Ana Tavela,20357,20,357,275,2020
+Oaxaca,Santa Ana Tlapacoyan,20358,20,358,759,2020
+Oaxaca,Santa Ana Yareni,20359,20,359,177,2020
+Oaxaca,Santa Ana Zegache,20360,20,360,1451,2020
+Oaxaca,Santa Catalina Quierí,20361,20,361,270,2020
+Oaxaca,Santa Catarina Cuixtla,20362,20,362,645,2020
+Oaxaca,Santa Catarina Ixtepeji,20363,20,363,1071,2020
+Oaxaca,Santa Catarina Juquila,20364,20,364,8472,2020
+Oaxaca,Santa Catarina Lachatao,20365,20,365,437,2020
+Oaxaca,Santa Catarina Loxicha,20366,20,366,924,2020
+Oaxaca,Santa Catarina Mechoacán,20367,20,367,1755,2020
+Oaxaca,Santa Catarina Minas,20368,20,368,786,2020
+Oaxaca,Santa Catarina Quiané,20369,20,369,931,2020
+Oaxaca,Santa Catarina Tayata,20370,20,370,204,2020
+Oaxaca,Santa Catarina Ticuá,20371,20,371,367,2020
+Oaxaca,Santa Catarina Yosonotú,20372,20,372,388,2020
+Oaxaca,Santa Catarina Zapoquila,20373,20,373,136,2020
+Oaxaca,Santa Cruz Acatepec,20374,20,374,576,2020
+Oaxaca,Santa Cruz Amilpas,20375,20,375,6820,2020
+Oaxaca,Santa Cruz de Bravo,20376,20,376,123,2020
+Oaxaca,Santa Cruz Itundujia,20377,20,377,3303,2020
+Oaxaca,Santa Cruz Mixtepec,20378,20,378,1306,2020
+Oaxaca,Santa Cruz Nundaco,20379,20,379,639,2020
+Oaxaca,Santa Cruz Papalutla,20380,20,380,1093,2020
+Oaxaca,Santa Cruz Tacache de Mina,20381,20,381,931,2020
+Oaxaca,Santa Cruz Tacahua,20382,20,382,232,2020
+Oaxaca,Santa Cruz Tayata,20383,20,383,198,2020
+Oaxaca,Santa Cruz Xitla,20384,20,384,1744,2020
+Oaxaca,Santa Cruz Xoxocotlán,20385,20,385,54175,2020
+Oaxaca,Santa Cruz Zenzontepec,20386,20,386,3516,2020
+Oaxaca,Santa Gertrudis,20387,20,387,1022,2020
+Oaxaca,Santa Inés del Monte,20388,20,388,928,2020
+Oaxaca,Santa Inés Yatzeche,20389,20,389,528,2020
+Oaxaca,Santa Lucía del Camino,20390,20,390,26838,2020
+Oaxaca,Santa Lucía Miahuatlán,20391,20,391,726,2020
+Oaxaca,Santa Lucía Monteverde,20392,20,392,1690,2020
+Oaxaca,Santa Lucía Ocotlán,20393,20,393,1692,2020
+Oaxaca,Santa María Alotepec,20394,20,394,1007,2020
+Oaxaca,Santa María Apazco,20395,20,395,696,2020
+Oaxaca,Santa María la Asunción,20396,20,396,1134,2020
+Oaxaca,Heroica Ciudad de Tlaxiaco,20397,20,397,21561,2020
+Oaxaca,Ayoquezco de Aldama,20398,20,398,1954,2020
+Oaxaca,Santa María Atzompa,20399,20,399,22028,2020
+Oaxaca,Santa María Camotlán,20400,20,400,698,2020
+Oaxaca,Santa María Colotepec,20401,20,401,12582,2020
+Oaxaca,Santa María Cortijo,20402,20,402,375,2020
+Oaxaca,Santa María Coyotepec,20403,20,403,1748,2020
+Oaxaca,Santa María Chachoápam,20404,20,404,326,2020
+Oaxaca,Villa de Chilapa de Díaz,20405,20,405,546,2020
+Oaxaca,Santa María Chilchotla,20406,20,406,6813,2020
+Oaxaca,Santa María Chimalapa,20407,20,407,2564,2020
+Oaxaca,Santa María del Rosario,20408,20,408,257,2020
+Oaxaca,Santa María del Tule,20409,20,409,4548,2020
+Oaxaca,Santa María Ecatepec,20410,20,410,1149,2020
+Oaxaca,Santa María Guelacé,20411,20,411,462,2020
+Oaxaca,Santa María Guienagati,20412,20,412,999,2020
+Oaxaca,Santa María Huatulco,20413,20,413,28091,2020
+Oaxaca,Santa María Huazolotitlán,20414,20,414,4640,2020
+Oaxaca,Santa María Ipalapa,20415,20,415,1477,2020
+Oaxaca,Santa María Ixcatlán,20416,20,416,254,2020
+Oaxaca,Santa María Jacatepec,20417,20,417,3610,2020
+Oaxaca,Santa María Jalapa del Marqués,20418,20,418,5616,2020
+Oaxaca,Santa María Jaltianguis,20419,20,419,218,2020
+Oaxaca,Santa María Lachixío,20420,20,420,477,2020
+Oaxaca,Santa María Mixtequilla,20421,20,421,2099,2020
+Oaxaca,Santa María Nativitas,20422,20,422,209,2020
+Oaxaca,Santa María Nduayaco,20423,20,423,158,2020
+Oaxaca,Santa María Ozolotepec,20424,20,424,1244,2020
+Oaxaca,Santa María Pápalo,20425,20,425,747,2020
+Oaxaca,Santa María Peñoles,20426,20,426,2391,2020
+Oaxaca,Santa María Petapa,20427,20,427,7482,2020
+Oaxaca,Santa María Quiegolani,20428,20,428,590,2020
+Oaxaca,Santa María Sola,20429,20,429,517,2020
+Oaxaca,Santa María Tataltepec,20430,20,430,129,2020
+Oaxaca,Santa María Tecomavaca,20431,20,431,794,2020
+Oaxaca,Santa María Temaxcalapa,20432,20,432,412,2020
+Oaxaca,Santa María Temaxcaltepec,20433,20,433,676,2020
+Oaxaca,Santa María Teopoxco,20434,20,434,1086,2020
+Oaxaca,Santa María Tepantlali,20435,20,435,1091,2020
+Oaxaca,Santa María Texcatitlán,20436,20,436,370,2020
+Oaxaca,Santa María Tlahuitoltepec,20437,20,437,3365,2020
+Oaxaca,Santa María Tlalixtac,20438,20,438,536,2020
+Oaxaca,Santa María Tonameca,20439,20,439,11669,2020
+Oaxaca,Santa María Totolapilla,20440,20,440,255,2020
+Oaxaca,Santa María Xadani,20441,20,441,4514,2020
+Oaxaca,Santa María Yalina,20442,20,442,75,2020
+Oaxaca,Santa María Yavesía,20443,20,443,102,2020
+Oaxaca,Santa María Yolotepec,20444,20,444,187,2020
+Oaxaca,Santa María Yosoyúa,20445,20,445,772,2020
+Oaxaca,Santa María Yucuhiti,20446,20,446,1985,2020
+Oaxaca,Santa María Zacatepec,20447,20,447,7647,2020
+Oaxaca,Santa María Zaniza,20448,20,448,611,2020
+Oaxaca,Santa María Zoquitlán,20449,20,449,1113,2020
+Oaxaca,Santiago Amoltepec,20450,20,450,1928,2020
+Oaxaca,Santiago Apoala,20451,20,451,341,2020
+Oaxaca,Santiago Apóstol,20452,20,452,1847,2020
+Oaxaca,Santiago Astata,20453,20,453,1617,2020
+Oaxaca,Santiago Atitlán,20454,20,454,1483,2020
+Oaxaca,Santiago Ayuquililla,20455,20,455,939,2020
+Oaxaca,Santiago Cacaloxtepec,20456,20,456,686,2020
+Oaxaca,Santiago Camotlán,20457,20,457,1097,2020
+Oaxaca,Santiago Comaltepec,20458,20,458,368,2020
+Oaxaca,Villa de Santiago Chazumba,20459,20,459,1928,2020
+Oaxaca,Santiago Choápam,20460,20,460,1775,2020
+Oaxaca,Santiago del Río,20461,20,461,108,2020
+Oaxaca,Santiago Huajolotitlán,20462,20,462,2056,2020
+Oaxaca,Santiago Huauclilla,20463,20,463,174,2020
+Oaxaca,Santiago Ihuitlán Plumas,20464,20,464,137,2020
+Oaxaca,Santiago Ixcuintepec,20465,20,465,469,2020
+Oaxaca,Santiago Ixtayutla,20466,20,466,3199,2020
+Oaxaca,Santiago Jamiltepec,20467,20,467,8919,2020
+Oaxaca,Santiago Jocotepec,20468,20,468,5715,2020
+Oaxaca,Santiago Juxtlahuaca,20469,20,469,16189,2020
+Oaxaca,Santiago Lachiguiri,20470,20,470,1783,2020
+Oaxaca,Santiago Lalopa,20471,20,471,184,2020
+Oaxaca,Santiago Laollaga,20472,20,472,1412,2020
+Oaxaca,Santiago Laxopa,20473,20,473,318,2020
+Oaxaca,Santiago Llano Grande,20474,20,474,1212,2020
+Oaxaca,Santiago Matatlán,20475,20,475,4903,2020
+Oaxaca,Santiago Miltepec,20476,20,476,150,2020
+Oaxaca,Santiago Minas,20477,20,477,368,2020
+Oaxaca,Santiago Nacaltepec,20478,20,478,398,2020
+Oaxaca,Santiago Nejapilla,20479,20,479,77,2020
+Oaxaca,Santiago Nundiche,20480,20,480,524,2020
+Oaxaca,Santiago Nuyoó,20481,20,481,901,2020
+Oaxaca,Santiago Pinotepa Nacional,20482,20,482,27613,2020
+Oaxaca,Santiago Suchilquitongo,20483,20,483,5378,2020
+Oaxaca,Santiago Tamazola,20484,20,484,1381,2020
+Oaxaca,Santiago Tapextla,20485,20,485,823,2020
+Oaxaca,Villa Tejúpam de la Unión,20486,20,486,1071,2020
+Oaxaca,Santiago Tenango,20487,20,487,644,2020
+Oaxaca,Santiago Tepetlapa,20488,20,488,49,2020
+Oaxaca,Santiago Tetepec,20489,20,489,1535,2020
+Oaxaca,Santiago Texcalcingo,20490,20,490,800,2020
+Oaxaca,Santiago Textitlán,20491,20,491,1227,2020
+Oaxaca,Santiago Tilantongo,20492,20,492,943,2020
+Oaxaca,Santiago Tillo,20493,20,493,253,2020
+Oaxaca,Santiago Tlazoyaltepec,20494,20,494,1461,2020
+Oaxaca,Santiago Xanica,20495,20,495,986,2020
+Oaxaca,Santiago Xiacuí,20496,20,496,719,2020
+Oaxaca,Santiago Yaitepec,20497,20,497,1325,2020
+Oaxaca,Santiago Yaveo,20498,20,498,3009,2020
+Oaxaca,Santiago Yolomécatl,20499,20,499,811,2020
+Oaxaca,Santiago Yosondúa,20500,20,500,4167,2020
+Oaxaca,Santiago Yucuyachi,20501,20,501,257,2020
+Oaxaca,Santiago Zacatepec,20502,20,502,1692,2020
+Oaxaca,Santiago Zoochila,20503,20,503,181,2020
+Oaxaca,Nuevo Zoquiápam,20504,20,504,574,2020
+Oaxaca,Santo Domingo Ingenio,20505,20,505,3162,2020
+Oaxaca,Santo Domingo Albarradas,20506,20,506,308,2020
+Oaxaca,Santo Domingo Armenta,20507,20,507,1159,2020
+Oaxaca,Santo Domingo Chihuitán,20508,20,508,637,2020
+Oaxaca,Santo Domingo de Morelos,20509,20,509,2522,2020
+Oaxaca,Santo Domingo Ixcatlán,20510,20,510,296,2020
+Oaxaca,Santo Domingo Nuxaá,20511,20,511,881,2020
+Oaxaca,Santo Domingo Ozolotepec,20512,20,512,293,2020
+Oaxaca,Santo Domingo Petapa,20513,20,513,4191,2020
+Oaxaca,Santo Domingo Roayaga,20514,20,514,303,2020
+Oaxaca,Santo Domingo Tehuantepec,20515,20,515,33895,2020
+Oaxaca,Santo Domingo Teojomulco,20516,20,516,1307,2020
+Oaxaca,Santo Domingo Tepuxtepec,20517,20,517,1366,2020
+Oaxaca,Santo Domingo Tlatayápam,20518,20,518,47,2020
+Oaxaca,Santo Domingo Tomaltepec,20519,20,519,1586,2020
+Oaxaca,Santo Domingo Tonalá,20520,20,520,3751,2020
+Oaxaca,Santo Domingo Tonaltepec,20521,20,521,100,2020
+Oaxaca,Santo Domingo Xagacía,20522,20,522,484,2020
+Oaxaca,Santo Domingo Yanhuitlán,20523,20,523,653,2020
+Oaxaca,Santo Domingo Yodohino,20524,20,524,111,2020
+Oaxaca,Santo Domingo Zanatepec,20525,20,525,5815,2020
+Oaxaca,Santos Reyes Nopala,20526,20,526,8021,2020
+Oaxaca,Santos Reyes Pápalo,20527,20,527,655,2020
+Oaxaca,Santos Reyes Tepejillo,20528,20,528,290,2020
+Oaxaca,Santos Reyes Yucuná,20529,20,529,530,2020
+Oaxaca,Santo Tomás Jalieza,20530,20,530,1654,2020
+Oaxaca,Santo Tomás Mazaltepec,20531,20,531,1337,2020
+Oaxaca,Santo Tomás Ocotepec,20532,20,532,677,2020
+Oaxaca,Santo Tomás Tamazulapan,20533,20,533,1133,2020
+Oaxaca,San Vicente Coatlán,20534,20,534,809,2020
+Oaxaca,San Vicente Lachixío,20535,20,535,891,2020
+Oaxaca,San Vicente Nuñú,20536,20,536,229,2020
+Oaxaca,Silacayoápam,20537,20,537,2600,2020
+Oaxaca,Sitio de Xitlapehua,20538,20,538,297,2020
+Oaxaca,Soledad Etla,20539,20,539,3201,2020
+Oaxaca,Villa de Tamazulápam del Progreso,20540,20,540,4081,2020
+Oaxaca,Tanetze de Zaragoza,20541,20,541,728,2020
+Oaxaca,Taniche,20542,20,542,362,2020
+Oaxaca,Tataltepec de Valdés,20543,20,543,2372,2020
+Oaxaca,Teococuilco de Marcos Pérez,20544,20,544,401,2020
+Oaxaca,Teotitlán de Flores Magón,20545,20,545,4636,2020
+Oaxaca,Teotitlán del Valle,20546,20,546,3675,2020
+Oaxaca,Teotongo,20547,20,547,453,2020
+Oaxaca,Tepelmeme Villa de Morelos,20548,20,548,882,2020
+Oaxaca,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de ",20549,20,549,5720,2020
+Oaxaca,San Jerónimo Tlacochahuaya,20550,20,550,2957,2020
+Oaxaca,Tlacolula de Matamoros,20551,20,551,15241,2020
+Oaxaca,Tlacotepec Plumas,20552,20,552,185,2020
+Oaxaca,Tlalixtac de Cabrera,20553,20,553,6420,2020
+Oaxaca,Totontepec Villa de Morelos,20554,20,554,2029,2020
+Oaxaca,Trinidad Zaachila,20555,20,555,1416,2020
+Oaxaca,La Trinidad Vista Hermosa,20556,20,556,102,2020
+Oaxaca,Unión Hidalgo,20557,20,557,6587,2020
+Oaxaca,Valerio Trujano,20558,20,558,551,2020
+Oaxaca,San Juan Bautista Valle Nacional,20559,20,559,10551,2020
+Oaxaca,Villa Díaz Ordaz,20560,20,560,3265,2020
+Oaxaca,Yaxe,20561,20,561,1146,2020
+Oaxaca,Magdalena Yodocono de Porfirio Díaz,20562,20,562,733,2020
+Oaxaca,Yogana,20563,20,563,325,2020
+Oaxaca,Yutanduchi de Guerrero,20564,20,564,484,2020
+Oaxaca,Villa de Zaachila,20565,20,565,24058,2020
+Oaxaca,San Mateo Yucutindoo,20566,20,566,904,2020
+Oaxaca,Zapotitlán Lagunas,20567,20,567,1030,2020
+Oaxaca,Zapotitlán Palmas,20568,20,568,650,2020
+Oaxaca,Santa Inés de Zaragoza,20569,20,569,434,2020
+Oaxaca,Zimatlán de Álvarez,20570,20,570,11423,2020
+Puebla,Total del estado Puebla,21000,21,0,3198118,2020
+Puebla,Acajete,21001,21,1,31752,2020
+Puebla,Acateno,21002,21,2,4217,2020
+Puebla,Acatlán,21003,21,3,17806,2020
+Puebla,Acatzingo,21004,21,4,29520,2020
+Puebla,Acteopan,21005,21,5,1692,2020
+Puebla,Ahuacatlán,21006,21,6,6757,2020
+Puebla,Ahuatlán,21007,21,7,864,2020
+Puebla,Ahuazotepec,21008,21,8,4666,2020
+Puebla,Ahuehuetitla,21009,21,9,692,2020
+Puebla,Ajalpan,21010,21,10,40559,2020
+Puebla,Albino Zertuche,21011,21,11,410,2020
+Puebla,Aljojuca,21012,21,12,2662,2020
+Puebla,Altepexi,21013,21,13,12208,2020
+Puebla,Amixtlán,21014,21,14,1569,2020
+Puebla,Amozoc,21015,21,15,60200,2020
+Puebla,Aquixtla,21016,21,16,4157,2020
+Puebla,Atempan,21017,21,17,14335,2020
+Puebla,Atexcal,21018,21,18,1230,2020
+Puebla,Atlixco,21019,21,19,74319,2020
+Puebla,Atoyatempan,21020,21,20,3606,2020
+Puebla,Atzala,21021,21,21,596,2020
+Puebla,Atzitzihuacán,21022,21,22,5807,2020
+Puebla,Atzitzintla,21023,21,23,3737,2020
+Puebla,Axutla,21024,21,24,376,2020
+Puebla,Ayotoxco de Guerrero,21025,21,25,3916,2020
+Puebla,Calpan,21026,21,26,7530,2020
+Puebla,Caltepec,21027,21,27,1784,2020
+Puebla,Camocuautla,21028,21,28,946,2020
+Puebla,Caxhuacan,21029,21,29,1422,2020
+Puebla,Coatepec,21030,21,30,269,2020
+Puebla,Coatzingo,21031,21,31,895,2020
+Puebla,Cohetzala,21032,21,32,396,2020
+Puebla,Cohuecan,21033,21,33,2086,2020
+Puebla,Coronango,21034,21,34,22820,2020
+Puebla,Coxcatlán,21035,21,35,9316,2020
+Puebla,Coyomeapan,21036,21,36,4051,2020
+Puebla,Coyotepec,21037,21,37,849,2020
+Puebla,Cuapiaxtla de Madero,21038,21,38,4757,2020
+Puebla,Cuautempan,21039,21,39,4813,2020
+Puebla,Cuautinchán,21040,21,40,5902,2020
+Puebla,Cuautlancingo,21041,21,41,71338,2020
+Puebla,Cuayuca de Andrade,21042,21,42,692,2020
+Puebla,Cuetzalan del Progreso,21043,21,43,27007,2020
+Puebla,Cuyoaco,21044,21,44,7242,2020
+Puebla,Chalchicomula de Sesma,21045,21,45,21631,2020
+Puebla,Chapulco,21046,21,46,3700,2020
+Puebla,Chiautla,21047,21,47,9254,2020
+Puebla,Chiautzingo,21048,21,48,11328,2020
+Puebla,Chiconcuautla,21049,21,49,9359,2020
+Puebla,Chichiquila,21050,21,50,12417,2020
+Puebla,Chietla,21051,21,51,15833,2020
+Puebla,Chigmecatitlán,21052,21,52,529,2020
+Puebla,Chignahuapan,21053,21,53,32426,2020
+Puebla,Chignautla,21054,21,54,17400,2020
+Puebla,Chila,21055,21,55,1499,2020
+Puebla,Chila de la Sal,21056,21,56,441,2020
+Puebla,Honey,21057,21,57,2693,2020
+Puebla,Chilchotla,21058,21,58,7899,2020
+Puebla,Chinantla,21059,21,59,1042,2020
+Puebla,Domingo Arenas,21060,21,60,3727,2020
+Puebla,Eloxochitlán,21061,21,61,4801,2020
+Puebla,Epatlán,21062,21,62,1919,2020
+Puebla,Esperanza,21063,21,63,6433,2020
+Puebla,Francisco Z. Mena,21064,21,64,8916,2020
+Puebla,General Felipe Ángeles,21065,21,65,10955,2020
+Puebla,Guadalupe,21066,21,66,2176,2020
+Puebla,Guadalupe Victoria,21067,21,67,8773,2020
+Puebla,Hermenegildo Galeana,21068,21,68,2995,2020
+Puebla,Huaquechula,21069,21,69,14146,2020
+Puebla,Huatlatlauca,21070,21,70,2742,2020
+Puebla,Huauchinango,21071,21,71,50492,2020
+Puebla,Huehuetla,21072,21,72,6083,2020
+Puebla,Huehuetlán el Chico,21073,21,73,3489,2020
+Puebla,Huejotzingo,21074,21,74,47298,2020
+Puebla,Hueyapan,21075,21,75,6508,2020
+Puebla,Hueytamalco,21076,21,76,13869,2020
+Puebla,Hueytlalpan,21077,21,77,2055,2020
+Puebla,Huitzilan de Serdán,21078,21,78,6704,2020
+Puebla,Huitziltepec,21079,21,79,2555,2020
+Puebla,Atlequizayan,21080,21,80,849,2020
+Puebla,Ixcamilpa de Guerrero,21081,21,81,927,2020
+Puebla,Ixcaquixtla,21082,21,82,4239,2020
+Puebla,Ixtacamaxtitlán,21083,21,83,12492,2020
+Puebla,Ixtepec,21084,21,84,2729,2020
+Puebla,Izúcar de Matamoros,21085,21,85,39145,2020
+Puebla,Jalpan,21086,21,86,5057,2020
+Puebla,Jolalpan,21087,21,87,4848,2020
+Puebla,Jonotla,21088,21,88,1670,2020
+Puebla,Jopala,21089,21,89,4812,2020
+Puebla,Juan C. Bonilla,21090,21,90,11615,2020
+Puebla,Juan Galindo,21091,21,91,4399,2020
+Puebla,Juan N. Méndez,21092,21,92,1939,2020
+Puebla,Lafragua,21093,21,93,2808,2020
+Puebla,Libres,21094,21,94,17508,2020
+Puebla,La Magdalena Tlatlauquitepec,21095,21,95,222,2020
+Puebla,Mazapiltepec de Juárez,21096,21,96,1235,2020
+Puebla,Mixtla,21097,21,97,1008,2020
+Puebla,Molcaxac,21098,21,98,2664,2020
+Puebla,Cañada Morelos,21099,21,99,9413,2020
+Puebla,Naupan,21100,21,100,5136,2020
+Puebla,Nauzontla,21101,21,101,1155,2020
+Puebla,Nealtican,21102,21,102,6844,2020
+Puebla,Nicolás Bravo,21103,21,103,2830,2020
+Puebla,Nopalucan,21104,21,104,14119,2020
+Puebla,Ocotepec,21105,21,105,1839,2020
+Puebla,Ocoyucan,21106,21,106,19781,2020
+Puebla,Olintla,21107,21,107,3554,2020
+Puebla,Oriental,21108,21,108,8895,2020
+Puebla,Pahuatlán,21109,21,109,10314,2020
+Puebla,Palmar de Bravo,21110,21,110,24847,2020
+Puebla,Pantepec,21111,21,111,8531,2020
+Puebla,Petlalcingo,21112,21,112,3822,2020
+Puebla,Piaxtla,21113,21,113,1660,2020
+Puebla,Puebla,21114,21,114,869431,2020
+Puebla,Quecholac,21115,21,115,28890,2020
+Puebla,Quimixtlán,21116,21,116,10379,2020
+Puebla,Rafael Lara Grajales,21117,21,117,6532,2020
+Puebla,Los Reyes de Juárez,21118,21,118,14305,2020
+Puebla,San Andrés Cholula,21119,21,119,79467,2020
+Puebla,San Antonio Cañada,21120,21,120,2199,2020
+Puebla,San Diego la Mesa Tochimiltzingo,21121,21,121,433,2020
+Puebla,San Felipe Teotlalcingo,21122,21,122,4664,2020
+Puebla,San Felipe Tepatlán,21123,21,123,1263,2020
+Puebla,San Gabriel Chilac,21124,21,124,7647,2020
+Puebla,San Gregorio Atzompa,21125,21,125,4874,2020
+Puebla,San Jerónimo Tecuanipan,21126,21,126,3148,2020
+Puebla,San Jerónimo Xayacatlán,21127,21,127,1377,2020
+Puebla,San José Chiapa,21128,21,128,4379,2020
+Puebla,San José Miahuatlán,21129,21,129,6268,2020
+Puebla,San Juan Atenco,21130,21,130,1371,2020
+Puebla,San Juan Atzompa,21131,21,131,348,2020
+Puebla,San Martín Texmelucan,21132,21,132,77968,2020
+Puebla,San Martín Totoltepec,21133,21,133,254,2020
+Puebla,San Matías Tlalancaleca,21134,21,134,10001,2020
+Puebla,San Miguel Ixitlán,21135,21,135,220,2020
+Puebla,San Miguel Xoxtla,21136,21,136,5402,2020
+Puebla,San Nicolás Buenos Aires,21137,21,137,4244,2020
+Puebla,San Nicolás de los Ranchos,21138,21,138,5844,2020
+Puebla,San Pablo Anicano,21139,21,139,1353,2020
+Puebla,San Pedro Cholula,21140,21,140,71569,2020
+Puebla,San Pedro Yeloixtlahuaca,21141,21,141,1362,2020
+Puebla,San Salvador el Seco,21142,21,142,14443,2020
+Puebla,San Salvador el Verde,21143,21,143,15703,2020
+Puebla,San Salvador Huixcolotla,21144,21,144,8824,2020
+Puebla,San Sebastián Tlacotepec,21145,21,145,4533,2020
+Puebla,Santa Catarina Tlaltempan,21146,21,146,289,2020
+Puebla,Santa Inés Ahuatempan,21147,21,147,2506,2020
+Puebla,Santa Isabel Cholula,21148,21,148,5124,2020
+Puebla,Santiago Miahuatlán,21149,21,149,15202,2020
+Puebla,Huehuetlán el Grande,21150,21,150,2222,2020
+Puebla,Santo Tomás Hueyotlipan,21151,21,151,3999,2020
+Puebla,Soltepec,21152,21,152,5415,2020
+Puebla,Tecali de Herrera,21153,21,153,10829,2020
+Puebla,Tecamachalco,21154,21,154,38848,2020
+Puebla,Tecomatlán,21155,21,155,2619,2020
+Puebla,Tehuacán,21156,21,156,174568,2020
+Puebla,Tehuitzingo,21157,21,157,4777,2020
+Puebla,Tenampulco,21158,21,158,3156,2020
+Puebla,Teopantlán,21159,21,159,1230,2020
+Puebla,Teotlalco,21160,21,160,1181,2020
+Puebla,Tepanco de López,21161,21,161,10631,2020
+Puebla,Tepango de Rodríguez,21162,21,162,1417,2020
+Puebla,Tepatlaxco de Hidalgo,21163,21,163,8070,2020
+Puebla,Tepeaca,21164,21,164,40937,2020
+Puebla,Tepemaxalco,21165,21,165,310,2020
+Puebla,Tepeojuma,21166,21,166,4162,2020
+Puebla,Tepetzintla,21167,21,167,3280,2020
+Puebla,Tepexco,21168,21,168,2663,2020
+Puebla,Tepexi de Rodríguez,21169,21,169,11004,2020
+Puebla,Tepeyahualco,21170,21,170,8185,2020
+Puebla,Tepeyahualco de Cuauhtémoc,21171,21,171,1701,2020
+Puebla,Tetela de Ocampo,21172,21,172,13767,2020
+Puebla,Teteles de Ávila Castillo,21173,21,173,2976,2020
+Puebla,Teziutlán,21174,21,174,53927,2020
+Puebla,Tianguismanalco,21175,21,175,7859,2020
+Puebla,Tilapa,21176,21,176,4363,2020
+Puebla,Tlacotepec de Benito Juárez,21177,21,177,26789,2020
+Puebla,Tlacuilotepec,21178,21,178,7614,2020
+Puebla,Tlachichuca,21179,21,179,14244,2020
+Puebla,Tlahuapan,21180,21,180,18521,2020
+Puebla,Tlaltenango,21181,21,181,2838,2020
+Puebla,Tlanepantla,21182,21,182,2066,2020
+Puebla,Tlaola,21183,21,183,10264,2020
+Puebla,Tlapacoya,21184,21,184,2831,2020
+Puebla,Tlapanalá,21185,21,185,4516,2020
+Puebla,Tlatlauquitepec,21186,21,186,28028,2020
+Puebla,Tlaxco,21187,21,187,2441,2020
+Puebla,Tochimilco,21188,21,188,9660,2020
+Puebla,Tochtepec,21189,21,189,10381,2020
+Puebla,Totoltepec de Guerrero,21190,21,190,401,2020
+Puebla,Tulcingo,21191,21,191,4539,2020
+Puebla,Tuzamapan de Galeana,21192,21,192,2800,2020
+Puebla,Tzicatlacoyan,21193,21,193,2617,2020
+Puebla,Venustiano Carranza,21194,21,194,13605,2020
+Puebla,Vicente Guerrero,21195,21,195,8246,2020
+Puebla,Xayacatlán de Bravo,21196,21,196,504,2020
+Puebla,Xicotepec,21197,21,197,38919,2020
+Puebla,Xicotlán,21198,21,198,317,2020
+Puebla,Xiutetelco,21199,21,199,20513,2020
+Puebla,Xochiapulco,21200,21,200,1230,2020
+Puebla,Xochiltepec,21201,21,201,1063,2020
+Puebla,Xochitlán de Vicente Suárez,21202,21,202,6382,2020
+Puebla,Xochitlán Todos Santos,21203,21,203,2717,2020
+Puebla,Yaonáhuac,21204,21,204,3748,2020
+Puebla,Yehualtepec,21205,21,205,11907,2020
+Puebla,Zacapala,21206,21,206,1532,2020
+Puebla,Zacapoaxtla,21207,21,207,28785,2020
+Puebla,Zacatlán,21208,21,208,44607,2020
+Puebla,Zapotitlán,21209,21,209,4363,2020
+Puebla,Zapotitlán de Méndez,21210,21,210,2382,2020
+Puebla,Zaragoza,21211,21,211,7699,2020
+Puebla,Zautla,21212,21,212,9943,2020
+Puebla,Zihuateutla,21213,21,213,5491,2020
+Puebla,Zinacatepec,21214,21,214,9667,2020
+Puebla,Zongozotla,21215,21,215,1769,2020
+Puebla,Zoquiapan,21216,21,216,1004,2020
+Puebla,Zoquitlán,21217,21,217,6502,2020
+Querétaro,Total del estado Querétaro,22000,22,0,1233080,2020
+Querétaro,Amealco de Bonfil,22001,22,1,33329,2020
+Querétaro,Pinal de Amoles,22002,22,2,10569,2020
+Querétaro,Arroyo Seco,22003,22,3,5081,2020
+Querétaro,Cadereyta de Montes,22004,22,4,31676,2020
+Querétaro,Colón,22005,22,5,31513,2020
+Querétaro,Corregidora,22006,22,6,115170,2020
+Querétaro,Ezequiel Montes,22007,22,7,21896,2020
+Querétaro,Huimilpan,22008,22,8,15987,2020
+Querétaro,Jalpan de Serra,22009,22,9,12413,2020
+Querétaro,Landa de Matamoros,22010,22,10,7267,2020
+Querétaro,El Marqués,22011,22,11,126668,2020
+Querétaro,Pedro Escobedo,22012,22,12,37649,2020
+Querétaro,Peñamiller,22013,22,13,7456,2020
+Querétaro,Querétaro,22014,22,14,574917,2020
+Querétaro,San Joaquín,22015,22,15,2978,2020
+Querétaro,San Juan del Río,22016,22,16,150047,2020
+Querétaro,Tequisquiapan,22017,22,17,36743,2020
+Querétaro,Tolimán,22018,22,18,11721,2020
+Quintana Roo,Total del estado Quintana Roo,23000,23,0,1006817,2020
+Quintana Roo,Cozumel,23001,23,1,48447,2020
+Quintana Roo,Felipe Carrillo Puerto,23002,23,2,38705,2020
+Quintana Roo,Isla Mujeres,23003,23,3,12158,2020
+Quintana Roo,Othón P. Blanco,23004,23,4,122186,2020
+Quintana Roo,Benito Juárez,23005,23,5,502785,2020
+Quintana Roo,José María Morelos,23006,23,6,19708,2020
+Quintana Roo,Lázaro Cárdenas,23007,23,7,13916,2020
+Quintana Roo,Solidaridad,23008,23,8,188395,2020
+Quintana Roo,Tulum,23009,23,9,25969,2020
+Quintana Roo,Bacalar,23010,23,10,19519,2020
+Quintana Roo,Puerto Morelos,23011,23,11,15029,2020
+San Luis Potosí,Total del estado San Luis Potosí,24000,24,0,1361868,2020
+San Luis Potosí,Ahualulco,24001,24,1,8351,2020
+San Luis Potosí,Alaquines,24002,24,2,2951,2020
+San Luis Potosí,Aquismón,24003,24,3,21947,2020
+San Luis Potosí,Armadillo de los Infante,24004,24,4,1287,2020
+San Luis Potosí,Cárdenas,24005,24,5,8580,2020
+San Luis Potosí,Catorce,24006,24,6,3523,2020
+San Luis Potosí,Cedral,24007,24,7,8527,2020
+San Luis Potosí,Cerritos,24008,24,8,9838,2020
+San Luis Potosí,Cerro de San Pedro,24009,24,9,2259,2020
+San Luis Potosí,Ciudad del Maíz,24010,24,10,13115,2020
+San Luis Potosí,Ciudad Fernández,24011,24,11,22916,2020
+San Luis Potosí,Tancanhuitz,24012,24,12,9459,2020
+San Luis Potosí,Ciudad Valles,24013,24,13,88233,2020
+San Luis Potosí,Coxcatlán,24014,24,14,6650,2020
+San Luis Potosí,Charcas,24015,24,15,9536,2020
+San Luis Potosí,Ebano,24016,24,16,18686,2020
+San Luis Potosí,Guadalcázar,24017,24,17,10890,2020
+San Luis Potosí,Huehuetlán,24018,24,18,6650,2020
+San Luis Potosí,Lagunillas,24019,24,19,1974,2020
+San Luis Potosí,Matehuala,24020,24,20,49689,2020
+San Luis Potosí,Mexquitic de Carmona,24021,24,21,27784,2020
+San Luis Potosí,Moctezuma,24022,24,22,7142,2020
+San Luis Potosí,Rayón,24023,24,23,6507,2020
+San Luis Potosí,Rioverde,24024,24,24,47304,2020
+San Luis Potosí,Salinas,24025,24,25,13187,2020
+San Luis Potosí,San Antonio,24026,24,26,3779,2020
+San Luis Potosí,San Ciro de Acosta,24027,24,27,4554,2020
+San Luis Potosí,San Luis Potosí,24028,24,28,483905,2020
+San Luis Potosí,San Martín Chalchicuautla,24029,24,29,7333,2020
+San Luis Potosí,San Nicolás Tolentino,24030,24,30,1747,2020
+San Luis Potosí,Santa Catarina,24031,24,31,2691,2020
+San Luis Potosí,Santa María del Río,24032,24,32,18319,2020
+San Luis Potosí,Santo Domingo,24033,24,33,2961,2020
+San Luis Potosí,San Vicente Tancuayalab,24034,24,34,6532,2020
+San Luis Potosí,Soledad de Graciano Sánchez,24035,24,35,172682,2020
+San Luis Potosí,Tamasopo,24036,24,36,13153,2020
+San Luis Potosí,Tamazunchale,24037,24,37,43030,2020
+San Luis Potosí,Tampacán,24038,24,38,6078,2020
+San Luis Potosí,Tampamolón Corona,24039,24,39,5931,2020
+San Luis Potosí,Tamuín,24040,24,40,16972,2020
+San Luis Potosí,Tanlajás,24041,24,41,8213,2020
+San Luis Potosí,Tanquián de Escobedo,24042,24,42,6112,2020
+San Luis Potosí,Tierra Nueva,24043,24,43,3129,2020
+San Luis Potosí,Vanegas,24044,24,44,2569,2020
+San Luis Potosí,Venado,24045,24,45,6707,2020
+San Luis Potosí,Villa de Arriaga,24046,24,46,8293,2020
+San Luis Potosí,Villa de Guadalupe,24047,24,47,3500,2020
+San Luis Potosí,Villa de la Paz,24048,24,48,2070,2020
+San Luis Potosí,Villa de Ramos,24049,24,49,12992,2020
+San Luis Potosí,Villa de Reyes,24050,24,50,23018,2020
+San Luis Potosí,Villa Hidalgo,24051,24,51,6636,2020
+San Luis Potosí,Villa Juárez,24052,24,52,4341,2020
+San Luis Potosí,Axtla de Terrazas,24053,24,53,15355,2020
+San Luis Potosí,Xilitla,24054,24,54,22258,2020
+San Luis Potosí,Zaragoza,24055,24,55,11297,2020
+San Luis Potosí,Villa de Arista,24056,24,56,7214,2020
+San Luis Potosí,Matlapa,24057,24,57,12507,2020
+San Luis Potosí,El Naranjo,24058,24,58,9005,2020
+Sinaloa,Total del estado Sinaloa,25000,25,0,1475694,2020
+Sinaloa,Ahome,25001,25,1,222281,2020
+Sinaloa,Angostura,25002,25,2,19924,2020
+Sinaloa,Badiraguato,25003,25,3,11362,2020
+Sinaloa,Concordia,25004,25,4,11373,2020
+Sinaloa,Cosalá,25005,25,5,7327,2020
+Sinaloa,Culiacán,25006,25,6,504998,2020
+Sinaloa,Choix,25007,25,7,12383,2020
+Sinaloa,Elota,25008,25,8,24245,2020
+Sinaloa,Escuinapa,25009,25,9,30116,2020
+Sinaloa,El Fuerte,25010,25,10,45297,2020
+Sinaloa,Guasave,25011,25,11,133193,2020
+Sinaloa,Mazatlán,25012,25,12,256545,2020
+Sinaloa,Mocorito,25013,25,13,17736,2020
+Sinaloa,Rosario,25014,25,14,26046,2020
+Sinaloa,Salvador Alvarado,25015,25,15,37414,2020
+Sinaloa,San Ignacio,25016,25,16,8540,2020
+Sinaloa,Sinaloa,25017,25,17,33712,2020
+Sinaloa,Navolato,25018,25,18,73202,2020
+Sonora,Total del estado Sonora,26000,26,0,1448628,2020
+Sonora,Aconchi,26001,26,1,1032,2020
+Sonora,Agua Prieta,26002,26,2,43478,2020
+Sonora,Alamos,26003,26,3,11108,2020
+Sonora,Altar,26004,26,4,4114,2020
+Sonora,Arivechi,26005,26,5,464,2020
+Sonora,Arizpe,26006,26,6,1134,2020
+Sonora,Atil,26007,26,7,213,2020
+Sonora,Bacadéhuachi,26008,26,8,346,2020
+Sonora,Bacanora,26009,26,9,283,2020
+Sonora,Bacerac,26010,26,10,477,2020
+Sonora,Bacoachi,26011,26,11,540,2020
+Sonora,Bácum,26012,26,12,10635,2020
+Sonora,Banámichi,26013,26,13,766,2020
+Sonora,Baviácora,26014,26,14,1173,2020
+Sonora,Bavispe,26015,26,15,354,2020
+Sonora,Benjamín Hill,26016,26,16,1961,2020
+Sonora,Caborca,26017,26,17,43519,2020
+Sonora,Cajeme,26018,26,18,216262,2020
+Sonora,Cananea,26019,26,19,17145,2020
+Sonora,Carbó,26020,26,20,2201,2020
+Sonora,La Colorada,26021,26,21,781,2020
+Sonora,Cucurpe,26022,26,22,368,2020
+Sonora,Cumpas,26023,26,23,2599,2020
+Sonora,Divisaderos,26024,26,24,295,2020
+Sonora,Empalme,26025,26,25,24474,2020
+Sonora,Etchojoa,26026,26,26,28548,2020
+Sonora,Fronteras,26027,26,27,3497,2020
+Sonora,Granados,26028,26,28,422,2020
+Sonora,Guaymas,26029,26,29,75956,2020
+Sonora,Hermosillo,26030,26,30,480559,2020
+Sonora,Huachinera,26031,26,31,483,2020
+Sonora,Huásabas,26032,26,32,362,2020
+Sonora,Huatabampo,26033,26,33,34972,2020
+Sonora,Huépac,26034,26,34,312,2020
+Sonora,Imuris,26035,26,35,5695,2020
+Sonora,Magdalena,26036,26,36,15636,2020
+Sonora,Mazatán,26037,26,37,451,2020
+Sonora,Moctezuma,26038,26,38,2204,2020
+Sonora,Naco,26039,26,39,2351,2020
+Sonora,Nácori Chico,26040,26,40,513,2020
+Sonora,Nacozari de García,26041,26,41,6224,2020
+Sonora,Navojoa,26042,26,42,78847,2020
+Sonora,Nogales,26043,26,43,136116,2020
+Sonora,Ónavas,26044,26,44,160,2020
+Sonora,Opodepe,26045,26,45,1033,2020
+Sonora,Oquitoa,26046,26,46,207,2020
+Sonora,Pitiquito,26047,26,47,4413,2020
+Sonora,Puerto Peñasco,26048,26,48,32109,2020
+Sonora,Quiriego,26049,26,49,1064,2020
+Sonora,Rayón,26050,26,50,568,2020
+Sonora,Rosario,26051,26,51,1971,2020
+Sonora,Sahuaripa,26052,26,52,2184,2020
+Sonora,San Felipe de Jesús,26053,26,53,148,2020
+Sonora,San Javier,26054,26,54,184,2020
+Sonora,San Luis Río Colorado,26055,26,55,99224,2020
+Sonora,San Miguel de Horcasitas,26056,26,56,5300,2020
+Sonora,San Pedro de la Cueva,26057,26,57,557,2020
+Sonora,Santa Ana,26058,26,58,7178,2020
+Sonora,Santa Cruz,26059,26,59,689,2020
+Sonora,Sáric,26060,26,60,775,2020
+Sonora,Soyopa,26061,26,61,575,2020
+Sonora,Suaqui Grande,26062,26,62,472,2020
+Sonora,Tepache,26063,26,63,389,2020
+Sonora,Trincheras,26064,26,64,554,2020
+Sonora,Tubutama,26065,26,65,539,2020
+Sonora,Ures,26066,26,66,4063,2020
+Sonora,Villa Hidalgo,26067,26,67,527,2020
+Sonora,Villa Pesqueira,26068,26,68,506,2020
+Sonora,Yécora,26069,26,69,1651,2020
+Sonora,General Plutarco Elías Calles,26070,26,70,6293,2020
+Sonora,Benito Juárez,26071,26,71,10000,2020
+Sonora,San Ignacio Río Muerto,26072,26,72,6425,2020
+Tabasco,Total del estado Tabasco,27000,27,0,1172514,2020
+Tabasco,Balancán,27001,27,1,30295,2020
+Tabasco,Cárdenas,27002,27,2,111131,2020
+Tabasco,Centla,27003,27,3,52046,2020
+Tabasco,Centro,27004,27,4,350487,2020
+Tabasco,Comalcalco,27005,27,5,105632,2020
+Tabasco,Cunduacán,27006,27,6,65102,2020
+Tabasco,Emiliano Zapata,27007,27,7,16020,2020
+Tabasco,Huimanguillo,27008,27,8,88403,2020
+Tabasco,Jalapa,27009,27,9,19647,2020
+Tabasco,Jalpa de Méndez,27010,27,10,41261,2020
+Tabasco,Jonuta,27011,27,11,16432,2020
+Tabasco,Macuspana,27012,27,12,72686,2020
+Tabasco,Nacajuca,27013,27,13,75949,2020
+Tabasco,Paraíso,27014,27,14,45131,2020
+Tabasco,Tacotalpa,27015,27,15,21752,2020
+Tabasco,Teapa,27016,27,16,28304,2020
+Tabasco,Tenosique,27017,27,17,32236,2020
+Tamaulipas,Total del estado Tamaulipas,28000,28,0,1737175,2020
+Tamaulipas,Abasolo,28001,28,1,4134,2020
+Tamaulipas,Aldama,28002,28,2,13314,2020
+Tamaulipas,Altamira,28003,28,3,132690,2020
+Tamaulipas,Antiguo Morelos,28004,28,4,3837,2020
+Tamaulipas,Burgos,28005,28,5,1640,2020
+Tamaulipas,Bustamante,28006,28,6,2676,2020
+Tamaulipas,Camargo,28007,28,7,7870,2020
+Tamaulipas,Casas,28008,28,8,1277,2020
+Tamaulipas,Ciudad Madero,28009,28,9,98559,2020
+Tamaulipas,Cruillas,28010,28,10,609,2020
+Tamaulipas,Gómez Farías,28011,28,11,3580,2020
+Tamaulipas,González,28012,28,12,18443,2020
+Tamaulipas,Güémez,28013,28,13,6275,2020
+Tamaulipas,Guerrero,28014,28,14,2029,2020
+Tamaulipas,Gustavo Díaz Ordaz,28015,28,15,7196,2020
+Tamaulipas,Hidalgo,28016,28,16,7205,2020
+Tamaulipas,Jaumave,28017,28,17,6638,2020
+Tamaulipas,Jiménez,28018,28,18,2496,2020
+Tamaulipas,Llera,28019,28,19,6394,2020
+Tamaulipas,Mainero,28020,28,20,722,2020
+Tamaulipas,El Mante,28021,28,21,48928,2020
+Tamaulipas,Matamoros,28022,28,22,274021,2020
+Tamaulipas,Méndez,28023,28,23,1627,2020
+Tamaulipas,Mier,28024,28,24,3201,2020
+Tamaulipas,Miguel Alemán,28025,28,25,15305,2020
+Tamaulipas,Miquihuana,28026,28,26,1123,2020
+Tamaulipas,Nuevo Laredo,28027,28,27,208620,2020
+Tamaulipas,Nuevo Morelos,28028,28,28,1358,2020
+Tamaulipas,Ocampo,28029,28,29,5669,2020
+Tamaulipas,Padilla,28030,28,30,5598,2020
+Tamaulipas,Palmillas,28031,28,31,625,2020
+Tamaulipas,Reynosa,28032,28,32,367349,2020
+Tamaulipas,Río Bravo,28033,28,33,64975,2020
+Tamaulipas,San Carlos,28034,28,34,2772,2020
+Tamaulipas,San Fernando,28035,28,35,23166,2020
+Tamaulipas,San Nicolás,28036,28,36,142,2020
+Tamaulipas,Soto la Marina,28037,28,37,11087,2020
+Tamaulipas,Tampico,28038,28,38,148196,2020
+Tamaulipas,Tula,28039,28,39,11877,2020
+Tamaulipas,Valle Hermoso,28040,28,40,28511,2020
+Tamaulipas,Victoria,28041,28,41,174042,2020
+Tamaulipas,Villagrán,28042,28,42,2206,2020
+Tamaulipas,Xicoténcatl,28043,28,43,9193,2020
+Tlaxcala,Total del estado Tlaxcala,29000,29,0,638352,2020
+Tlaxcala,Amaxac de Guerrero,29001,29,1,5521,2020
+Tlaxcala,Apetatitlán de Antonio Carvajal,29002,29,2,7867,2020
+Tlaxcala,Atlangatepec,29003,29,3,3156,2020
+Tlaxcala,Atltzayanca,29004,29,4,9271,2020
+Tlaxcala,Apizaco,29005,29,5,40129,2020
+Tlaxcala,Calpulalpan,29006,29,6,24547,2020
+Tlaxcala,El Carmen Tequexquitla,29007,29,7,7241,2020
+Tlaxcala,Cuapiaxtla,29008,29,8,7285,2020
+Tlaxcala,Cuaxomulco,29009,29,9,2726,2020
+Tlaxcala,Chiautempan,29010,29,10,36973,2020
+Tlaxcala,Muñoz de Domingo Arenas,29011,29,11,1667,2020
+Tlaxcala,Españita,29012,29,12,3777,2020
+Tlaxcala,Huamantla,29013,29,13,47294,2020
+Tlaxcala,Hueyotlipan,29014,29,14,6606,2020
+Tlaxcala,Ixtacuixtla de Mariano Matamoros,29015,29,15,19616,2020
+Tlaxcala,Ixtenco,29016,29,16,3785,2020
+Tlaxcala,Mazatecochco de José María Morelos,29017,29,17,5561,2020
+Tlaxcala,Contla de Juan Cuamatzi,29018,29,18,19996,2020
+Tlaxcala,Tepetitla de Lardizábal,29019,29,19,10715,2020
+Tlaxcala,Sanctórum de Lázaro Cárdenas,29020,29,20,3737,2020
+Tlaxcala,Nanacamilpa de Mariano Arista,29021,29,21,8473,2020
+Tlaxcala,Acuamanala de Miguel Hidalgo,29022,29,22,3083,2020
+Tlaxcala,Natívitas,29023,29,23,13306,2020
+Tlaxcala,Panotla,29024,29,24,14180,2020
+Tlaxcala,San Pablo del Monte,29025,29,25,41028,2020
+Tlaxcala,Santa Cruz Tlaxcala,29026,29,26,11739,2020
+Tlaxcala,Tenancingo,29027,29,27,4802,2020
+Tlaxcala,Teolocholco,29028,29,28,11784,2020
+Tlaxcala,Tepeyanco,29029,29,29,6638,2020
+Tlaxcala,Terrenate,29030,29,30,6499,2020
+Tlaxcala,Tetla de la Solidaridad,29031,29,31,16748,2020
+Tlaxcala,Tetlatlahuca,29032,29,32,6655,2020
+Tlaxcala,Tlaxcala,29033,29,33,52928,2020
+Tlaxcala,Tlaxco,29034,29,34,21025,2020
+Tlaxcala,Tocatlán,29035,29,35,2711,2020
+Tlaxcala,Totolac,29036,29,36,11425,2020
+Tlaxcala,Ziltlaltépec de Trinidad Sánchez Santos,29037,29,37,3709,2020
+Tlaxcala,Tzompantepec,29038,29,38,9330,2020
+Tlaxcala,Xaloztoc,29039,29,39,11558,2020
+Tlaxcala,Xaltocan,29040,29,40,4602,2020
+Tlaxcala,Papalotla de Xicohténcatl,29041,29,41,16017,2020
+Tlaxcala,Xicohtzinco,29042,29,42,6464,2020
+Tlaxcala,Yauhquemehcan,29043,29,43,21070,2020
+Tlaxcala,Zacatelco,29044,29,44,22818,2020
+Tlaxcala,Benito Juárez,29045,29,45,2597,2020
+Tlaxcala,Emiliano Zapata,29046,29,46,2076,2020
+Tlaxcala,Lázaro Cárdenas,29047,29,47,1318,2020
+Tlaxcala,La Magdalena Tlaltelulco,29048,29,48,911,2020
+Tlaxcala,San Damián Texóloc,29049,29,49,2881,2020
+Tlaxcala,San Francisco Tetlanohcan,29050,29,50,5437,2020
+Tlaxcala,San Jerónimo Zacualpan,29051,29,51,1823,2020
+Tlaxcala,San José Teacalco,29052,29,52,2476,2020
+Tlaxcala,San Juan Huactzinco,29053,29,53,4137,2020
+Tlaxcala,San Lorenzo Axocomanitla,29054,29,54,2423,2020
+Tlaxcala,San Lucas Tecopilco,29055,29,55,1069,2020
+Tlaxcala,Santa Ana Nopalucan,29056,29,56,3574,2020
+Tlaxcala,Santa Apolonia Teacalco,29057,29,57,1856,2020
+Tlaxcala,Santa Catarina Ayometla,29058,29,58,3810,2020
+Tlaxcala,Santa Cruz Quilehtla,29059,29,59,3574,2020
+Tlaxcala,Santa Isabel Xiloxoxtla,29060,29,60,2328,2020
+Veracruz de Ignacio de la Llave,Total del estado Veracruz de Ignacio de la Llave,30000,30,0,3851221,2020
+Veracruz de Ignacio de la Llave,Acajete,30001,30,1,4559,2020
+Veracruz de Ignacio de la Llave,Acatlán,30002,30,2,1347,2020
+Veracruz de Ignacio de la Llave,Acayucan,30003,30,3,40879,2020
+Veracruz de Ignacio de la Llave,Actopan,30004,30,4,19843,2020
+Veracruz de Ignacio de la Llave,Acula,30005,30,5,2343,2020
+Veracruz de Ignacio de la Llave,Acultzingo,30006,30,6,9541,2020
+Veracruz de Ignacio de la Llave,Camarón de Tejeda,30007,30,7,3011,2020
+Veracruz de Ignacio de la Llave,Alpatláhuac,30008,30,8,4606,2020
+Veracruz de Ignacio de la Llave,Alto Lucero de Gutiérrez Barrios,30009,30,9,12751,2020
+Veracruz de Ignacio de la Llave,Altotonga,30010,30,10,33404,2020
+Veracruz de Ignacio de la Llave,Alvarado,30011,30,11,28027,2020
+Veracruz de Ignacio de la Llave,Amatitlán,30012,30,12,3685,2020
+Veracruz de Ignacio de la Llave,Naranjos Amatlán,30013,30,13,12400,2020
+Veracruz de Ignacio de la Llave,Amatlán de los Reyes,30014,30,14,21899,2020
+Veracruz de Ignacio de la Llave,Angel R. Cabada,30015,30,15,16471,2020
+Veracruz de Ignacio de la Llave,La Antigua,30016,30,16,14401,2020
+Veracruz de Ignacio de la Llave,Apazapan,30017,30,17,1937,2020
+Veracruz de Ignacio de la Llave,Aquila,30018,30,18,669,2020
+Veracruz de Ignacio de la Llave,Astacinga,30019,30,19,1716,2020
+Veracruz de Ignacio de la Llave,Atlahuilco,30020,30,20,4007,2020
+Veracruz de Ignacio de la Llave,Atoyac,30021,30,21,11145,2020
+Veracruz de Ignacio de la Llave,Atzacan,30022,30,22,10477,2020
+Veracruz de Ignacio de la Llave,Atzalan,30023,30,23,24764,2020
+Veracruz de Ignacio de la Llave,Tlaltetela,30024,30,24,7473,2020
+Veracruz de Ignacio de la Llave,Ayahualulco,30025,30,25,10194,2020
+Veracruz de Ignacio de la Llave,Banderilla,30026,30,26,12896,2020
+Veracruz de Ignacio de la Llave,Benito Juárez,30027,30,27,6426,2020
+Veracruz de Ignacio de la Llave,Boca del Río,30028,30,28,75847,2020
+Veracruz de Ignacio de la Llave,Calcahualco,30029,30,29,4479,2020
+Veracruz de Ignacio de la Llave,Camerino Z. Mendoza,30030,30,30,18592,2020
+Veracruz de Ignacio de la Llave,Carrillo Puerto,30031,30,31,8488,2020
+Veracruz de Ignacio de la Llave,Catemaco,30032,30,32,23196,2020
+Veracruz de Ignacio de la Llave,Cazones de Herrera,30033,30,33,11320,2020
+Veracruz de Ignacio de la Llave,Cerro Azul,30034,30,34,11004,2020
+Veracruz de Ignacio de la Llave,Citlaltépetl,30035,30,35,4774,2020
+Veracruz de Ignacio de la Llave,Coacoatzintla,30036,30,36,5283,2020
+Veracruz de Ignacio de la Llave,Coahuitlán,30037,30,37,2690,2020
+Veracruz de Ignacio de la Llave,Coatepec,30038,30,38,49108,2020
+Veracruz de Ignacio de la Llave,Coatzacoalcos,30039,30,39,156210,2020
+Veracruz de Ignacio de la Llave,Coatzintla,30040,30,40,27048,2020
+Veracruz de Ignacio de la Llave,Coetzala,30041,30,41,880,2020
+Veracruz de Ignacio de la Llave,Colipa,30042,30,42,2450,2020
+Veracruz de Ignacio de la Llave,Comapa,30043,30,43,8531,2020
+Veracruz de Ignacio de la Llave,Córdoba,30044,30,44,106704,2020
+Veracruz de Ignacio de la Llave,Cosamaloapan de Carpio,30045,30,45,27837,2020
+Veracruz de Ignacio de la Llave,Cosautlán de Carvajal,30046,30,46,8247,2020
+Veracruz de Ignacio de la Llave,Coscomatepec,30047,30,47,26476,2020
+Veracruz de Ignacio de la Llave,Cosoleacaque,30048,30,48,63681,2020
+Veracruz de Ignacio de la Llave,Cotaxtla,30049,30,49,11050,2020
+Veracruz de Ignacio de la Llave,Coxquihui,30050,30,50,7336,2020
+Veracruz de Ignacio de la Llave,Coyutla,30051,30,51,10035,2020
+Veracruz de Ignacio de la Llave,Cuichapa,30052,30,52,4793,2020
+Veracruz de Ignacio de la Llave,Cuitláhuac,30053,30,53,13214,2020
+Veracruz de Ignacio de la Llave,Chacaltianguis,30054,30,54,5214,2020
+Veracruz de Ignacio de la Llave,Chalma,30055,30,55,5532,2020
+Veracruz de Ignacio de la Llave,Chiconamel,30056,30,56,2482,2020
+Veracruz de Ignacio de la Llave,Chiconquiaco,30057,30,57,6592,2020
+Veracruz de Ignacio de la Llave,Chicontepec,30058,30,58,23346,2020
+Veracruz de Ignacio de la Llave,Chinameca,30059,30,59,9836,2020
+Veracruz de Ignacio de la Llave,Chinampa de Gorostiza,30060,30,60,6922,2020
+Veracruz de Ignacio de la Llave,Las Choapas,30061,30,61,36438,2020
+Veracruz de Ignacio de la Llave,Chocamán,30062,30,62,9895,2020
+Veracruz de Ignacio de la Llave,Chontla,30063,30,63,6247,2020
+Veracruz de Ignacio de la Llave,Chumatlán,30064,30,64,1168,2020
+Veracruz de Ignacio de la Llave,Emiliano Zapata,30065,30,65,44622,2020
+Veracruz de Ignacio de la Llave,Espinal,30066,30,66,12831,2020
+Veracruz de Ignacio de la Llave,Filomeno Mata,30067,30,67,6027,2020
+Veracruz de Ignacio de la Llave,Fortín,30068,30,68,34289,2020
+Veracruz de Ignacio de la Llave,Gutiérrez Zamora,30069,30,69,11803,2020
+Veracruz de Ignacio de la Llave,Hidalgotitlán,30070,30,70,8302,2020
+Veracruz de Ignacio de la Llave,Huatusco,30071,30,71,31091,2020
+Veracruz de Ignacio de la Llave,Huayacocotla,30072,30,72,9499,2020
+Veracruz de Ignacio de la Llave,Hueyapan de Ocampo,30073,30,73,18576,2020
+Veracruz de Ignacio de la Llave,Huiloapan de Cuauhtémoc,30074,30,74,3281,2020
+Veracruz de Ignacio de la Llave,Ignacio de la Llave,30075,30,75,7787,2020
+Veracruz de Ignacio de la Llave,Ilamatlán,30076,30,76,3624,2020
+Veracruz de Ignacio de la Llave,Isla,30077,30,77,21936,2020
+Veracruz de Ignacio de la Llave,Ixcatepec,30078,30,78,5496,2020
+Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,30079,30,79,5313,2020
+Veracruz de Ignacio de la Llave,Ixhuatlán del Café,30080,30,80,11592,2020
+Veracruz de Ignacio de la Llave,Ixhuatlancillo,30081,30,81,14032,2020
+Veracruz de Ignacio de la Llave,Ixhuatlán del Sureste,30082,30,82,6826,2020
+Veracruz de Ignacio de la Llave,Ixhuatlán de Madero,30083,30,83,22394,2020
+Veracruz de Ignacio de la Llave,Ixmatlahuacan,30084,30,84,2475,2020
+Veracruz de Ignacio de la Llave,Ixtaczoquitlán,30085,30,85,35083,2020
+Veracruz de Ignacio de la Llave,Jalacingo,30086,30,86,21765,2020
+Veracruz de Ignacio de la Llave,Xalapa,30087,30,87,253837,2020
+Veracruz de Ignacio de la Llave,Jalcomulco,30088,30,88,2398,2020
+Veracruz de Ignacio de la Llave,Jáltipan,30089,30,89,19533,2020
+Veracruz de Ignacio de la Llave,Jamapa,30090,30,90,5278,2020
+Veracruz de Ignacio de la Llave,Jesús Carranza,30091,30,91,14807,2020
+Veracruz de Ignacio de la Llave,Xico,30092,30,92,19355,2020
+Veracruz de Ignacio de la Llave,Jilotepec,30093,30,93,7697,2020
+Veracruz de Ignacio de la Llave,Juan Rodríguez Clara,30094,30,94,17649,2020
+Veracruz de Ignacio de la Llave,Juchique de Ferrer,30095,30,95,7006,2020
+Veracruz de Ignacio de la Llave,Landero y Coss,30096,30,96,593,2020
+Veracruz de Ignacio de la Llave,Lerdo de Tejada,30097,30,97,8649,2020
+Veracruz de Ignacio de la Llave,Magdalena,30098,30,98,1268,2020
+Veracruz de Ignacio de la Llave,Maltrata,30099,30,99,7789,2020
+Veracruz de Ignacio de la Llave,Manlio Fabio Altamirano,30100,30,100,11241,2020
+Veracruz de Ignacio de la Llave,Mariano Escobedo,30101,30,101,17229,2020
+Veracruz de Ignacio de la Llave,Martínez de la Torre,30102,30,102,54344,2020
+Veracruz de Ignacio de la Llave,Mecatlán,30103,30,103,3332,2020
+Veracruz de Ignacio de la Llave,Mecayapan,30104,30,104,7232,2020
+Veracruz de Ignacio de la Llave,Medellín de Bravo,30105,30,105,51422,2020
+Veracruz de Ignacio de la Llave,Miahuatlán,30106,30,106,1675,2020
+Veracruz de Ignacio de la Llave,Las Minas,30107,30,107,962,2020
+Veracruz de Ignacio de la Llave,Minatitlán,30108,30,108,69541,2020
+Veracruz de Ignacio de la Llave,Misantla,30109,30,109,32321,2020
+Veracruz de Ignacio de la Llave,Mixtla de Altamirano,30110,30,110,3845,2020
+Veracruz de Ignacio de la Llave,Moloacán,30111,30,111,6623,2020
+Veracruz de Ignacio de la Llave,Naolinco,30112,30,112,11296,2020
+Veracruz de Ignacio de la Llave,Naranjal,30113,30,113,1710,2020
+Veracruz de Ignacio de la Llave,Nautla,30114,30,114,4643,2020
+Veracruz de Ignacio de la Llave,Nogales,30115,30,115,17070,2020
+Veracruz de Ignacio de la Llave,Oluta,30116,30,116,8179,2020
+Veracruz de Ignacio de la Llave,Omealca,30117,30,117,10422,2020
+Veracruz de Ignacio de la Llave,Orizaba,30118,30,118,60253,2020
+Veracruz de Ignacio de la Llave,Otatitlán,30119,30,119,2684,2020
+Veracruz de Ignacio de la Llave,Oteapan,30120,30,120,4966,2020
+Veracruz de Ignacio de la Llave,Ozuluama de Mascareñas,30121,30,121,11370,2020
+Veracruz de Ignacio de la Llave,Pajapan,30122,30,122,8990,2020
+Veracruz de Ignacio de la Llave,Pánuco,30123,30,123,44791,2020
+Veracruz de Ignacio de la Llave,Papantla,30124,30,124,80886,2020
+Veracruz de Ignacio de la Llave,Paso del Macho,30125,30,125,14637,2020
+Veracruz de Ignacio de la Llave,Paso de Ovejas,30126,30,126,15246,2020
+Veracruz de Ignacio de la Llave,La Perla,30127,30,127,9552,2020
+Veracruz de Ignacio de la Llave,Perote,30128,30,128,34314,2020
+Veracruz de Ignacio de la Llave,Platón Sánchez,30129,30,129,7478,2020
+Veracruz de Ignacio de la Llave,Playa Vicente,30130,30,130,18772,2020
+Veracruz de Ignacio de la Llave,Poza Rica de Hidalgo,30131,30,131,91026,2020
+Veracruz de Ignacio de la Llave,Las Vigas de Ramírez,30132,30,132,8368,2020
+Veracruz de Ignacio de la Llave,Pueblo Viejo,30133,30,133,27928,2020
+Veracruz de Ignacio de la Llave,Puente Nacional,30134,30,134,10949,2020
+Veracruz de Ignacio de la Llave,Rafael Delgado,30135,30,135,11454,2020
+Veracruz de Ignacio de la Llave,Rafael Lucio,30136,30,136,3943,2020
+Veracruz de Ignacio de la Llave,Los Reyes,30137,30,137,2170,2020
+Veracruz de Ignacio de la Llave,Río Blanco,30138,30,138,19546,2020
+Veracruz de Ignacio de la Llave,Saltabarranca,30139,30,139,2456,2020
+Veracruz de Ignacio de la Llave,San Andrés Tenejapan,30140,30,140,1341,2020
+Veracruz de Ignacio de la Llave,San Andrés Tuxtla,30141,30,141,72293,2020
+Veracruz de Ignacio de la Llave,San Juan Evangelista,30142,30,142,14755,2020
+Veracruz de Ignacio de la Llave,Santiago Tuxtla,30143,30,143,25048,2020
+Veracruz de Ignacio de la Llave,Sayula de Alemán,30144,30,144,15151,2020
+Veracruz de Ignacio de la Llave,Soconusco,30145,30,145,8501,2020
+Veracruz de Ignacio de la Llave,Sochiapa,30146,30,146,1736,2020
+Veracruz de Ignacio de la Llave,Soledad Atzompa,30147,30,147,6756,2020
+Veracruz de Ignacio de la Llave,Soledad de Doblado,30148,30,148,13238,2020
+Veracruz de Ignacio de la Llave,Soteapan,30149,30,149,13349,2020
+Veracruz de Ignacio de la Llave,Tamalín,30150,30,150,5590,2020
+Veracruz de Ignacio de la Llave,Tamiahua,30151,30,151,10320,2020
+Veracruz de Ignacio de la Llave,Tampico Alto,30152,30,152,4867,2020
+Veracruz de Ignacio de la Llave,Tancoco,30153,30,153,2452,2020
+Veracruz de Ignacio de la Llave,Tantima,30154,30,154,5064,2020
+Veracruz de Ignacio de la Llave,Tantoyuca,30155,30,155,50240,2020
+Veracruz de Ignacio de la Llave,Tatatila,30156,30,156,2210,2020
+Veracruz de Ignacio de la Llave,Castillo de Teayo,30157,30,157,8762,2020
+Veracruz de Ignacio de la Llave,Tecolutla,30158,30,158,12270,2020
+Veracruz de Ignacio de la Llave,Tehuipango,30159,30,159,8096,2020
+Veracruz de Ignacio de la Llave,Álamo Temapache,30160,30,160,49833,2020
+Veracruz de Ignacio de la Llave,Tempoal,30161,30,161,15974,2020
+Veracruz de Ignacio de la Llave,Tenampa,30162,30,162,2972,2020
+Veracruz de Ignacio de la Llave,Tenochtitlán,30163,30,163,1869,2020
+Veracruz de Ignacio de la Llave,Teocelo,30164,30,164,8898,2020
+Veracruz de Ignacio de la Llave,Tepatlaxco,30165,30,165,4610,2020
+Veracruz de Ignacio de la Llave,Tepetlán,30166,30,166,3927,2020
+Veracruz de Ignacio de la Llave,Tepetzintla,30167,30,167,6432,2020
+Veracruz de Ignacio de la Llave,Tequila,30168,30,168,6064,2020
+Veracruz de Ignacio de la Llave,José Azueta,30169,30,169,10931,2020
+Veracruz de Ignacio de la Llave,Texcatepec,30170,30,170,2405,2020
+Veracruz de Ignacio de la Llave,Texhuacán,30171,30,171,2137,2020
+Veracruz de Ignacio de la Llave,Texistepec,30172,30,172,9258,2020
+Veracruz de Ignacio de la Llave,Tezonapa,30173,30,173,26535,2020
+Veracruz de Ignacio de la Llave,Tierra Blanca,30174,30,174,46579,2020
+Veracruz de Ignacio de la Llave,Tihuatlán,30175,30,175,44890,2020
+Veracruz de Ignacio de la Llave,Tlacojalpan,30176,30,176,2049,2020
+Veracruz de Ignacio de la Llave,Tlacolulan,30177,30,177,4952,2020
+Veracruz de Ignacio de la Llave,Tlacotalpan,30178,30,178,6572,2020
+Veracruz de Ignacio de la Llave,Tlacotepec de Mejía,30179,30,179,1911,2020
+Veracruz de Ignacio de la Llave,Tlachichilco,30180,30,180,3149,2020
+Veracruz de Ignacio de la Llave,Tlalixcoyan,30181,30,181,18828,2020
+Veracruz de Ignacio de la Llave,Tlalnelhuayocan,30182,30,182,9824,2020
+Veracruz de Ignacio de la Llave,Tlapacoyan,30183,30,183,29643,2020
+Veracruz de Ignacio de la Llave,Tlaquilpa,30184,30,184,2292,2020
+Veracruz de Ignacio de la Llave,Tlilapan,30185,30,185,2297,2020
+Veracruz de Ignacio de la Llave,Tomatlán,30186,30,186,3472,2020
+Veracruz de Ignacio de la Llave,Tonayán,30187,30,187,2107,2020
+Veracruz de Ignacio de la Llave,Totutla,30188,30,188,8401,2020
+Veracruz de Ignacio de la Llave,Tuxpan,30189,30,189,74959,2020
+Veracruz de Ignacio de la Llave,Tuxtilla,30190,30,190,684,2020
+Veracruz de Ignacio de la Llave,Ursulo Galván,30191,30,191,14326,2020
+Veracruz de Ignacio de la Llave,Vega de Alatorre,30192,30,192,9700,2020
+Veracruz de Ignacio de la Llave,Veracruz,30193,30,193,319865,2020
+Veracruz de Ignacio de la Llave,Villa Aldama,30194,30,194,5013,2020
+Veracruz de Ignacio de la Llave,Xoxocotla,30195,30,195,1748,2020
+Veracruz de Ignacio de la Llave,Yanga,30196,30,196,8373,2020
+Veracruz de Ignacio de la Llave,Yecuatla,30197,30,197,5043,2020
+Veracruz de Ignacio de la Llave,Zacualpan,30198,30,198,2776,2020
+Veracruz de Ignacio de la Llave,Zaragoza,30199,30,199,5084,2020
+Veracruz de Ignacio de la Llave,Zentla,30200,30,200,5740,2020
+Veracruz de Ignacio de la Llave,Zongolica,30201,30,201,23247,2020
+Veracruz de Ignacio de la Llave,Zontecomatlán de López y Fuentes,30202,30,202,3694,2020
+Veracruz de Ignacio de la Llave,Zozocolco de Hidalgo,30203,30,203,4796,2020
+Veracruz de Ignacio de la Llave,Agua Dulce,30204,30,204,19635,2020
+Veracruz de Ignacio de la Llave,El Higo,30205,30,205,7967,2020
+Veracruz de Ignacio de la Llave,Nanchital de Lázaro Cárdenas del Río,30206,30,206,12546,2020
+Veracruz de Ignacio de la Llave,Tres Valles,30207,30,207,21276,2020
+Veracruz de Ignacio de la Llave,Carlos A. Carrillo,30208,30,208,9947,2020
+Veracruz de Ignacio de la Llave,Tatahuicapan de Juárez,30209,30,209,6679,2020
+Veracruz de Ignacio de la Llave,Uxpanapa,30210,30,210,12928,2020
+Veracruz de Ignacio de la Llave,San Rafael,30211,30,211,15362,2020
+Veracruz de Ignacio de la Llave,Santiago Sochiapan,30212,30,212,5798,2020
+Yucatán,Total del estado Yucatán,31000,31,0,1160284,2020
+Yucatán,Abalá,31001,31,1,2809,2020
+Yucatán,Acanceh,31002,31,2,8524,2020
+Yucatán,Akil,31003,31,3,6204,2020
+Yucatán,Baca,31004,31,4,3035,2020
+Yucatán,Bokobá,31005,31,5,979,2020
+Yucatán,Buctzotz,31006,31,6,4233,2020
+Yucatán,Cacalchén,31007,31,7,3367,2020
+Yucatán,Calotmul,31008,31,8,1550,2020
+Yucatán,Cansahcab,31009,31,9,1950,2020
+Yucatán,Cantamayec,31010,31,10,1014,2020
+Yucatán,Celestún,31011,31,11,3005,2020
+Yucatán,Cenotillo,31012,31,12,1394,2020
+Yucatán,Conkal,31013,31,13,8579,2020
+Yucatán,Cuncunul,31014,31,14,640,2020
+Yucatán,Cuzamá,31015,31,15,2683,2020
+Yucatán,Chacsinkín,31016,31,16,947,2020
+Yucatán,Chankom,31017,31,17,1847,2020
+Yucatán,Chapab,31018,31,18,1308,2020
+Yucatán,Chemax,31019,31,19,17015,2020
+Yucatán,Chicxulub Pueblo,31020,31,20,1960,2020
+Yucatán,Chichimilá,31021,31,21,3763,2020
+Yucatán,Chikindzonot,31022,31,22,1725,2020
+Yucatán,Chocholá,31023,31,23,2394,2020
+Yucatán,Chumayel,31024,31,24,1422,2020
+Yucatán,Dzán,31025,31,25,2487,2020
+Yucatán,Dzemul,31026,31,26,1534,2020
+Yucatán,Dzidzantún,31027,31,27,3792,2020
+Yucatán,Dzilam de Bravo,31028,31,28,1078,2020
+Yucatán,Dzilam González,31029,31,29,2692,2020
+Yucatán,Dzitás,31030,31,30,1748,2020
+Yucatán,Dzoncauich,31031,31,31,966,2020
+Yucatán,Espita,31032,31,32,9185,2020
+Yucatán,Halachó,31033,31,33,10365,2020
+Yucatán,Hocabá,31034,31,34,3044,2020
+Yucatán,Hoctún,31035,31,35,2852,2020
+Yucatán,Homún,31036,31,36,3767,2020
+Yucatán,Huhí,31037,31,37,2613,2020
+Yucatán,Hunucmá,31038,31,38,17975,2020
+Yucatán,Ixil,31039,31,39,2039,2020
+Yucatán,Izamal,31040,31,40,13889,2020
+Yucatán,Kanasín,31041,31,41,73586,2020
+Yucatán,Kantunil,31042,31,42,2536,2020
+Yucatán,Kaua,31043,31,43,1189,2020
+Yucatán,Kinchil,31044,31,44,3558,2020
+Yucatán,Kopomá,31045,31,45,1171,2020
+Yucatán,Mama,31046,31,46,1375,2020
+Yucatán,Maní,31047,31,47,2821,2020
+Yucatán,Maxcanú,31048,31,48,11260,2020
+Yucatán,Mayapán,31049,31,49,1640,2020
+Yucatán,Mérida,31050,31,50,527424,2020
+Yucatán,Mocochá,31051,31,51,1457,2020
+Yucatán,Motul,31052,31,52,18631,2020
+Yucatán,Muna,31053,31,53,6529,2020
+Yucatán,Muxupip,31054,31,54,1275,2020
+Yucatán,Opichén,31055,31,55,3588,2020
+Yucatán,Oxkutzcab,31056,31,56,16356,2020
+Yucatán,Panabá,31057,31,57,3574,2020
+Yucatán,Peto,31058,31,58,11744,2020
+Yucatán,Progreso,31059,31,59,33636,2020
+Yucatán,Quintana Roo,31060,31,60,422,2020
+Yucatán,Río Lagartos,31061,31,61,1672,2020
+Yucatán,Sacalum,31062,31,62,2039,2020
+Yucatán,Samahil,31063,31,63,2516,2020
+Yucatán,Sanahcat,31064,31,64,650,2020
+Yucatán,San Felipe,31065,31,65,852,2020
+Yucatán,Santa Elena,31066,31,66,1723,2020
+Yucatán,Seyé,31067,31,67,4944,2020
+Yucatán,Sinanché,31068,31,68,1286,2020
+Yucatán,Sotuta,31069,31,69,4076,2020
+Yucatán,Sucilá,31070,31,70,1764,2020
+Yucatán,Sudzal,31071,31,71,871,2020
+Yucatán,Suma,31072,31,72,824,2020
+Yucatán,Tahdziú,31073,31,73,2133,2020
+Yucatán,Tahmek,31074,31,74,1625,2020
+Yucatán,Teabo,31075,31,75,3351,2020
+Yucatán,Tecoh,31076,31,76,9031,2020
+Yucatán,Tekal de Venegas,31077,31,77,1043,2020
+Yucatán,Tekantó,31078,31,78,1506,2020
+Yucatán,Tekax,31079,31,79,21310,2020
+Yucatán,Tekit,31080,31,80,5577,2020
+Yucatán,Tekom,31081,31,81,1181,2020
+Yucatán,Telchac Pueblo,31082,31,82,1543,2020
+Yucatán,Telchac Puerto,31083,31,83,910,2020
+Yucatán,Temax,31084,31,84,3013,2020
+Yucatán,Temozón,31085,31,85,8336,2020
+Yucatán,Tepakán,31086,31,86,762,2020
+Yucatán,Tetiz,31087,31,87,2590,2020
+Yucatán,Teya,31088,31,88,612,2020
+Yucatán,Ticul,31089,31,89,19964,2020
+Yucatán,Timucuy,31090,31,90,3562,2020
+Yucatán,Tinum,31091,31,91,5518,2020
+Yucatán,Tixcacalcupul,31092,31,92,3564,2020
+Yucatán,Tixkokob,31093,31,93,9469,2020
+Yucatán,Tixmehuac,31094,31,94,1822,2020
+Yucatán,Tixpéhual,31095,31,95,2816,2020
+Yucatán,Tizimín,31096,31,96,38098,2020
+Yucatán,Tunkás,31097,31,97,1554,2020
+Yucatán,Tzucacab,31098,31,98,7451,2020
+Yucatán,Uayma,31099,31,99,1804,2020
+Yucatán,Ucú,31100,31,100,2016,2020
+Yucatán,Umán,31101,31,101,36247,2020
+Yucatán,Valladolid,31102,31,102,41437,2020
+Yucatán,Xocchel,31103,31,103,1313,2020
+Yucatán,Yaxcabá,31104,31,104,7328,2020
+Yucatán,Yaxkukul,31105,31,105,1462,2020
+Yucatán,Yobaín,31106,31,106,974,2020
+Zacatecas,Total del estado Zacatecas,32000,32,0,701031,2020
+Zacatecas,Apozol,32001,32,1,2495,2020
+Zacatecas,Apulco,32002,32,2,1742,2020
+Zacatecas,Atolinga,32003,32,3,768,2020
+Zacatecas,Benito Juárez,32004,32,4,1507,2020
+Zacatecas,Calera,32005,32,5,20329,2020
+Zacatecas,Cañitas de Felipe Pescador,32006,32,6,3367,2020
+Zacatecas,Concepción del Oro,32007,32,7,4964,2020
+Zacatecas,Cuauhtémoc,32008,32,8,4878,2020
+Zacatecas,Chalchihuites,32009,32,9,3322,2020
+Zacatecas,Fresnillo,32010,32,10,106451,2020
+Zacatecas,Trinidad García de la Cadena,32011,32,11,1152,2020
+Zacatecas,Genaro Codina,32012,32,12,2883,2020
+Zacatecas,General Enrique Estrada,32013,32,13,2656,2020
+Zacatecas,General Francisco R. Murguía,32014,32,14,7298,2020
+Zacatecas,El Plateado de Joaquín Amaro,32015,32,15,571,2020
+Zacatecas,General Pánfilo Natera,32016,32,16,8717,2020
+Zacatecas,Guadalupe,32017,32,17,104530,2020
+Zacatecas,Huanusco,32018,32,18,1550,2020
+Zacatecas,Jalpa,32019,32,19,10782,2020
+Zacatecas,Jerez,32020,32,20,28452,2020
+Zacatecas,Jiménez del Teul,32021,32,21,1295,2020
+Zacatecas,Juan Aldama,32022,32,22,8640,2020
+Zacatecas,Juchipila,32023,32,23,5303,2020
+Zacatecas,Loreto,32024,32,24,22732,2020
+Zacatecas,Luis Moya,32025,32,25,4928,2020
+Zacatecas,Mazapil,32026,32,26,6529,2020
+Zacatecas,Melchor Ocampo,32027,32,27,948,2020
+Zacatecas,Mezquital del Oro,32028,32,28,648,2020
+Zacatecas,Miguel Auza,32029,32,29,9737,2020
+Zacatecas,Momax,32030,32,30,948,2020
+Zacatecas,Monte Escobedo,32031,32,31,3773,2020
+Zacatecas,Morelos,32032,32,32,5801,2020
+Zacatecas,Moyahua de Estrada,32033,32,33,1524,2020
+Zacatecas,Nochistlán de Mejía,32034,32,34,12514,2020
+Zacatecas,Noria de Ángeles,32035,32,35,5589,2020
+Zacatecas,Ojocaliente,32036,32,36,17478,2020
+Zacatecas,Pánuco,32037,32,37,6861,2020
+Zacatecas,Pinos,32038,32,38,27600,2020
+Zacatecas,Río Grande,32039,32,39,28964,2020
+Zacatecas,Sain Alto,32040,32,40,8144,2020
+Zacatecas,El Salvador,32041,32,41,929,2020
+Zacatecas,Sombrerete,32042,32,42,27409,2020
+Zacatecas,Susticacán,32043,32,43,455,2020
+Zacatecas,Tabasco,32044,32,44,6789,2020
+Zacatecas,Tepechitlán,32045,32,45,3337,2020
+Zacatecas,Tepetongo,32046,32,46,2242,2020
+Zacatecas,Teúl de González Ortega,32047,32,47,2252,2020
+Zacatecas,Tlaltenango de Sánchez Román,32048,32,48,12754,2020
+Zacatecas,Valparaíso,32049,32,49,13555,2020
+Zacatecas,Vetagrande,32050,32,50,3790,2020
+Zacatecas,Villa de Cos,32051,32,51,14398,2020
+Zacatecas,Villa García,32052,32,52,8036,2020
+Zacatecas,Villa González Ortega,32053,32,53,4598,2020
+Zacatecas,Villa Hidalgo,32054,32,54,6677,2020
+Zacatecas,Villanueva,32055,32,55,13693,2020
+Zacatecas,Zacatecas,32056,32,56,72513,2020
+Zacatecas,Trancoso,32057,32,57,8312,2020
+Zacatecas,Santa María de la Paz,32058,32,58,922,2020

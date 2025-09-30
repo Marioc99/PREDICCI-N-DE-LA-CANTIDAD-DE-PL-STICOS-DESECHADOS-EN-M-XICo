@@ -1,0 +1,2490 @@
+estado,municipio,cve_inegi,id_estado,id_municipio,pea,Año
+Estados Unidos Mexicanos,Total Nacional,0,0,0,44701044,2010
+Aguascalientes,Total del estado Aguascalientes,1000,1,0,475207,2010
+Aguascalientes,Aguascalientes,1001,1,1,336974,2010
+Aguascalientes,Asientos,1002,1,2,14319,2010
+Aguascalientes,Calvillo,1003,1,3,19310,2010
+Aguascalientes,Cosío,1004,1,4,4819,2010
+Aguascalientes,Jesús María,1005,1,5,39315,2010
+Aguascalientes,Pabellón de Arteaga,1006,1,6,14892,2010
+Aguascalientes,Rincón de Romos,1007,1,7,17249,2010
+Aguascalientes,San José de Gracia,1008,1,8,2863,2010
+Aguascalientes,Tepezalá,1009,1,9,6413,2010
+Aguascalientes,El Llano,1010,1,10,5849,2010
+Aguascalientes,San Francisco de los Romo,1011,1,11,13204,2010
+Baja California,Total del estado Baja California,2000,2,0,1387389,2010
+Baja California,Ensenada,2001,2,1,206680,2010
+Baja California,Mexicali,2002,2,2,404701,2010
+Baja California,Tecate,2003,2,3,41575,2010
+Baja California,Tijuana,2004,2,4,696907,2010
+Baja California,Playas de Rosarito,2005,2,5,37526,2010
+Baja California Sur,Total del estado Baja California Sur,3000,3,0,287735,2010
+Baja California Sur,Comondú,3001,3,1,29846,2010
+Baja California Sur,Mulegé,3002,3,2,26117,2010
+Baja California Sur,La Paz,3003,3,3,114212,2010
+Baja California Sur,Los Cabos,3008,3,8,110085,2010
+Baja California Sur,Loreto,3009,3,9,7475,2010
+Campeche,Total del estado Campeche,4000,4,0,325786,2010
+Campeche,Calkiní,4001,4,1,20515,2010
+Campeche,Campeche,4002,4,2,113662,2010
+Campeche,Carmen,4003,4,3,89324,2010
+Campeche,Champotón,4004,4,4,30810,2010
+Campeche,Hecelchakán,4005,4,5,10255,2010
+Campeche,Hopelchén,4006,4,6,12726,2010
+Campeche,Palizada,4007,4,7,3054,2010
+Campeche,Tenabo,4008,4,8,3752,2010
+Campeche,Escárcega,4009,4,9,19450,2010
+Campeche,Calakmul,4010,4,10,8219,2010
+Campeche,Candelaria,4011,4,11,14019,2010
+Coahuila de Zaragoza,Total del estado Coahuila de Zaragoza,5000,5,0,1078100,2010
+Coahuila de Zaragoza,Abasolo,5001,5,1,420,2010
+Coahuila de Zaragoza,Acuña,5002,5,2,56311,2010
+Coahuila de Zaragoza,Allende,5003,5,3,7956,2010
+Coahuila de Zaragoza,Arteaga,5004,5,4,8133,2010
+Coahuila de Zaragoza,Candela,5005,5,5,647,2010
+Coahuila de Zaragoza,Castaños,5006,5,6,8974,2010
+Coahuila de Zaragoza,Cuatro Ciénegas,5007,5,7,4670,2010
+Coahuila de Zaragoza,Escobedo,5008,5,8,986,2010
+Coahuila de Zaragoza,Francisco I. Madero,5009,5,9,20128,2010
+Coahuila de Zaragoza,Frontera,5010,5,10,28941,2010
+Coahuila de Zaragoza,General Cepeda,5011,5,11,4252,2010
+Coahuila de Zaragoza,Guerrero,5012,5,12,705,2010
+Coahuila de Zaragoza,Hidalgo,5013,5,13,580,2010
+Coahuila de Zaragoza,Jiménez,5014,5,14,3369,2010
+Coahuila de Zaragoza,Juárez,5015,5,15,558,2010
+Coahuila de Zaragoza,Lamadrid,5016,5,16,561,2010
+Coahuila de Zaragoza,Matamoros,5017,5,17,39240,2010
+Coahuila de Zaragoza,Monclova,5018,5,18,84977,2010
+Coahuila de Zaragoza,Morelos,5019,5,19,2945,2010
+Coahuila de Zaragoza,Múzquiz,5020,5,20,22729,2010
+Coahuila de Zaragoza,Nadadores,5021,5,21,2357,2010
+Coahuila de Zaragoza,Nava,5022,5,22,9621,2010
+Coahuila de Zaragoza,Ocampo,5023,5,23,3671,2010
+Coahuila de Zaragoza,Parras,5024,5,24,16740,2010
+Coahuila de Zaragoza,Piedras Negras,5025,5,25,60875,2010
+Coahuila de Zaragoza,Progreso,5026,5,26,1111,2010
+Coahuila de Zaragoza,Ramos Arizpe,5027,5,27,30385,2010
+Coahuila de Zaragoza,Sabinas,5028,5,28,23342,2010
+Coahuila de Zaragoza,Sacramento,5029,5,29,864,2010
+Coahuila de Zaragoza,Saltillo,5030,5,30,294645,2010
+Coahuila de Zaragoza,San Buenaventura,5031,5,31,8318,2010
+Coahuila de Zaragoza,San Juan de Sabinas,5032,5,32,15333,2010
+Coahuila de Zaragoza,San Pedro,5033,5,33,36150,2010
+Coahuila de Zaragoza,Sierra Mojada,5034,5,34,2147,2010
+Coahuila de Zaragoza,Torreón,5035,5,35,261805,2010
+Coahuila de Zaragoza,Viesca,5036,5,36,6989,2010
+Coahuila de Zaragoza,Villa Unión,5037,5,37,1995,2010
+Coahuila de Zaragoza,Zaragoza,5038,5,38,4670,2010
+Colima,Total del estado Colima,6000,6,0,290131,2010
+Colima,Armería,6001,6,1,12674,2010
+Colima,Colima,6002,6,2,66110,2010
+Colima,Comala,6003,6,3,9012,2010
+Colima,Coquimatlán,6004,6,4,8146,2010
+Colima,Cuauhtémoc,6005,6,5,11011,2010
+Colima,Ixtlahuacán,6006,6,6,2116,2010
+Colima,Manzanillo,6007,6,7,72290,2010
+Colima,Minatitlán,6008,6,8,2975,2010
+Colima,Tecomán,6009,6,9,49794,2010
+Colima,Villa de Álvarez,6010,6,10,56003,2010
+Chiapas,Total del estado Chiapas,7000,7,0,1645564,2010
+Chiapas,Acacoyagua,7001,7,1,5161,2010
+Chiapas,Acala,7002,7,2,10107,2010
+Chiapas,Acapetahua,7003,7,3,9891,2010
+Chiapas,Altamirano,7004,7,4,7984,2010
+Chiapas,Amatán,7005,7,5,5998,2010
+Chiapas,Amatenango de la Frontera,7006,7,6,8764,2010
+Chiapas,Amatenango del Valle,7007,7,7,3271,2010
+Chiapas,Ángel Albino Corzo,7008,7,8,8641,2010
+Chiapas,Arriaga,7009,7,9,15869,2010
+Chiapas,Bejucal de Ocampo,7010,7,10,2188,2010
+Chiapas,Bella Vista,7011,7,11,5520,2010
+Chiapas,Berriozábal,7012,7,12,15565,2010
+Chiapas,Bochil,7013,7,13,9410,2010
+Chiapas,El Bosque,7014,7,14,4717,2010
+Chiapas,Cacahoatán,7015,7,15,14232,2010
+Chiapas,Catazajá,7016,7,16,5941,2010
+Chiapas,Cintalapa,7017,7,17,28418,2010
+Chiapas,Coapilla,7018,7,18,2688,2010
+Chiapas,Comitán de Domínguez,7019,7,19,57854,2010
+Chiapas,La Concordia,7020,7,20,14637,2010
+Chiapas,Copainalá,7021,7,21,7025,2010
+Chiapas,Chalchihuitán,7022,7,22,3751,2010
+Chiapas,Chamula,7023,7,23,25029,2010
+Chiapas,Chanal,7024,7,24,2715,2010
+Chiapas,Chapultenango,7025,7,25,2099,2010
+Chiapas,Chenalhó,7026,7,26,11049,2010
+Chiapas,Chiapa de Corzo,7027,7,27,33810,2010
+Chiapas,Chiapilla,7028,7,28,2034,2010
+Chiapas,Chicoasén,7029,7,29,1675,2010
+Chiapas,Chicomuselo,7030,7,30,9597,2010
+Chiapas,Chilón,7031,7,31,26714,2010
+Chiapas,Escuintla,7032,7,32,9537,2010
+Chiapas,Francisco León,7033,7,33,1831,2010
+Chiapas,Frontera Comalapa,7034,7,34,22482,2010
+Chiapas,Frontera Hidalgo,7035,7,35,4186,2010
+Chiapas,La Grandeza,7036,7,36,1964,2010
+Chiapas,Huehuetán,7037,7,37,10876,2010
+Chiapas,Huixtán,7038,7,38,6751,2010
+Chiapas,Huitiupán,7039,7,39,6432,2010
+Chiapas,Huixtla,7040,7,40,19263,2010
+Chiapas,La Independencia,7041,7,41,13829,2010
+Chiapas,Ixhuatán,7042,7,42,3176,2010
+Chiapas,Ixtacomitán,7043,7,43,3356,2010
+Chiapas,Ixtapa,7044,7,44,7631,2010
+Chiapas,Ixtapangajoya,7045,7,45,1690,2010
+Chiapas,Jiquipilas,7046,7,46,13002,2010
+Chiapas,Jitotol,7047,7,47,5014,2010
+Chiapas,Juárez,7048,7,48,7630,2010
+Chiapas,Larráinzar,7049,7,49,5323,2010
+Chiapas,La Libertad,7050,7,50,1756,2010
+Chiapas,Mapastepec,7051,7,51,15442,2010
+Chiapas,Las Margaritas,7052,7,52,34264,2010
+Chiapas,Mazapa de Madero,7053,7,53,2307,2010
+Chiapas,Mazatán,7054,7,54,9360,2010
+Chiapas,Metapa,7055,7,55,1707,2010
+Chiapas,Mitontic,7056,7,56,1639,2010
+Chiapas,Motozintla,7057,7,57,21797,2010
+Chiapas,Nicolás Ruíz,7058,7,58,1247,2010
+Chiapas,Ocosingo,7059,7,59,50581,2010
+Chiapas,Ocotepec,7060,7,60,2685,2010
+Chiapas,Ocozocoautla de Espinosa,7061,7,61,28821,2010
+Chiapas,Ostuacán,7062,7,62,5345,2010
+Chiapas,Osumacinta,7063,7,63,1298,2010
+Chiapas,Oxchuc,7064,7,64,11605,2010
+Chiapas,Palenque,7065,7,65,36146,2010
+Chiapas,Pantelhó,7066,7,66,5161,2010
+Chiapas,Pantepec,7067,7,67,3112,2010
+Chiapas,Pichucalco,7068,7,68,11036,2010
+Chiapas,Pijijiapan,7069,7,69,17709,2010
+Chiapas,El Porvenir,7070,7,70,3600,2010
+Chiapas,Villa Comaltitlán,7071,7,71,9112,2010
+Chiapas,Pueblo Nuevo Solistahuacán,7072,7,72,9038,2010
+Chiapas,Rayón,7073,7,73,2807,2010
+Chiapas,Reforma,7074,7,74,14411,2010
+Chiapas,Las Rosas,7075,7,75,9481,2010
+Chiapas,Sabanilla,7076,7,76,6849,2010
+Chiapas,Salto de Agua,7077,7,77,15923,2010
+Chiapas,San Cristóbal de las Casas,7078,7,78,74452,2010
+Chiapas,San Fernando,7079,7,79,11797,2010
+Chiapas,Siltepec,7080,7,80,10455,2010
+Chiapas,Simojovel,7081,7,81,10968,2010
+Chiapas,Sitalá,7082,7,82,2971,2010
+Chiapas,Socoltenango,7083,7,83,6060,2010
+Chiapas,Solosuchiapa,7084,7,84,2334,2010
+Chiapas,Soyaló,7085,7,85,3151,2010
+Chiapas,Suchiapa,7086,7,86,7505,2010
+Chiapas,Suchiate,7087,7,87,12219,2010
+Chiapas,Sunuapa,7088,7,88,703,2010
+Chiapas,Tapachula,7089,7,89,126879,2010
+Chiapas,Tapalapa,7090,7,90,1195,2010
+Chiapas,Tapilula,7091,7,91,4064,2010
+Chiapas,Tecpatán,7092,7,92,12633,2010
+Chiapas,Tenejapa,7093,7,93,11616,2010
+Chiapas,Teopisca,7094,7,94,12131,2010
+Chiapas,Tila,7096,7,96,20083,2010
+Chiapas,Tonalá,7097,7,97,31296,2010
+Chiapas,Totolapa,7098,7,98,1967,2010
+Chiapas,La Trinitaria,7099,7,99,24256,2010
+Chiapas,Tumbalá,7100,7,100,8186,2010
+Chiapas,Tuxtla Gutiérrez,7101,7,101,244282,2010
+Chiapas,Tuxtla Chico,7102,7,102,13626,2010
+Chiapas,Tuzantán,7103,7,103,9597,2010
+Chiapas,Tzimol,7104,7,104,5188,2010
+Chiapas,Unión Juárez,7105,7,105,4256,2010
+Chiapas,Venustiano Carranza,7106,7,106,23005,2010
+Chiapas,Villa Corzo,7107,7,107,25290,2010
+Chiapas,Villaflores,7108,7,108,37178,2010
+Chiapas,Yajalón,7109,7,109,10534,2010
+Chiapas,San Lucas,7110,7,110,2132,2010
+Chiapas,Zinacantán,7111,7,111,10101,2010
+Chiapas,San Juan Cancuc,7112,7,112,6955,2010
+Chiapas,Aldama,7113,7,113,1071,2010
+Chiapas,Benemérito de las Américas,7114,7,114,5037,2010
+Chiapas,Maravilla Tenejapa,7115,7,115,3222,2010
+Chiapas,Marqués de Comillas,7116,7,116,2768,2010
+Chiapas,Montecristo de Guerrero,7117,7,117,1996,2010
+Chiapas,San Andrés Duraznal,7118,7,118,1160,2010
+Chiapas,Santiago el Pinar,7119,7,119,679,2010
+Chihuahua,Total del estado Chihuahua,8000,8,0,1360111,2010
+Chihuahua,Ahumada,8001,8,1,4487,2010
+Chihuahua,Aldama,8002,8,2,8653,2010
+Chihuahua,Allende,8003,8,3,3264,2010
+Chihuahua,Aquiles Serdán,8004,8,4,5283,2010
+Chihuahua,Ascensión,8005,8,5,8797,2010
+Chihuahua,Bachíniva,8006,8,6,2175,2010
+Chihuahua,Balleza,8007,8,7,5459,2010
+Chihuahua,Batopilas de Manuel Gómez Morín,8008,8,8,4552,2010
+Chihuahua,Bocoyna,8009,8,9,10446,2010
+Chihuahua,Buenaventura,8010,8,10,8572,2010
+Chihuahua,Camargo,8011,8,11,19292,2010
+Chihuahua,Carichí,8012,8,12,3008,2010
+Chihuahua,Casas Grandes,8013,8,13,3927,2010
+Chihuahua,Coronado,8014,8,14,920,2010
+Chihuahua,Coyame del Sotol,8015,8,15,685,2010
+Chihuahua,La Cruz,8016,8,16,1374,2010
+Chihuahua,Cuauhtémoc,8017,8,17,61586,2010
+Chihuahua,Cusihuiriachi,8018,8,18,2095,2010
+Chihuahua,Chihuahua,8019,8,19,351995,2010
+Chihuahua,Chínipas,8020,8,20,2549,2010
+Chihuahua,Delicias,8021,8,21,58147,2010
+Chihuahua,Dr. Belisario Domínguez,8022,8,22,903,2010
+Chihuahua,Galeana,8023,8,23,1901,2010
+Chihuahua,Santa Isabel,8024,8,24,1360,2010
+Chihuahua,Gómez Farías,8025,8,25,3159,2010
+Chihuahua,Gran Morelos,8026,8,26,1246,2010
+Chihuahua,Guachochi,8027,8,27,17753,2010
+Chihuahua,Guadalupe,8028,8,28,2102,2010
+Chihuahua,Guadalupe y Calvo,8029,8,29,16979,2010
+Chihuahua,Guazapares,8030,8,30,3149,2010
+Chihuahua,Guerrero,8031,8,31,15053,2010
+Chihuahua,Hidalgo del Parral,8032,8,32,42751,2010
+Chihuahua,Huejotitán,8033,8,33,385,2010
+Chihuahua,Ignacio Zaragoza,8034,8,34,2606,2010
+Chihuahua,Janos,8035,8,35,4272,2010
+Chihuahua,Jiménez,8036,8,36,16004,2010
+Chihuahua,Juárez,8037,8,37,530465,2010
+Chihuahua,Julimes,8038,8,38,1904,2010
+Chihuahua,López,8039,8,39,1565,2010
+Chihuahua,Madera,8040,8,40,10637,2010
+Chihuahua,Maguarichi,8041,8,41,715,2010
+Chihuahua,Manuel Benavides,8042,8,42,600,2010
+Chihuahua,Matachí,8043,8,43,1137,2010
+Chihuahua,Matamoros,8044,8,44,1553,2010
+Chihuahua,Meoqui,8045,8,45,18170,2010
+Chihuahua,Morelos,8046,8,46,2710,2010
+Chihuahua,Moris,8047,8,47,1774,2010
+Chihuahua,Namiquipa,8048,8,48,8684,2010
+Chihuahua,Nonoava,8049,8,49,939,2010
+Chihuahua,Nuevo Casas Grandes,8050,8,50,23361,2010
+Chihuahua,Ocampo,8051,8,51,2724,2010
+Chihuahua,Ojinaga,8052,8,52,9965,2010
+Chihuahua,Praxedis G. Guerrero,8053,8,53,1575,2010
+Chihuahua,Riva Palacio,8054,8,54,2840,2010
+Chihuahua,Rosales,8055,8,55,6567,2010
+Chihuahua,Rosario,8056,8,56,699,2010
+Chihuahua,San Francisco de Borja,8057,8,57,757,2010
+Chihuahua,San Francisco de Conchos,8058,8,58,1042,2010
+Chihuahua,San Francisco del Oro,8059,8,59,1642,2010
+Chihuahua,Santa Bárbara,8060,8,60,3667,2010
+Chihuahua,Satevó,8061,8,61,1311,2010
+Chihuahua,Saucillo,8062,8,62,11893,2010
+Chihuahua,Temósachic,8063,8,63,2159,2010
+Chihuahua,El Tule,8064,8,64,582,2010
+Chihuahua,Urique,8065,8,65,7064,2010
+Chihuahua,Uruachi,8066,8,66,2690,2010
+Chihuahua,Valle de Zaragoza,8067,8,67,1831,2010
+CDMX,Total del estado Distrito Federal,9000,9,0,4035075,2010
+CDMX,Azcapotzalco,9002,9,2,187402,2010
+CDMX,Coyoacán,9003,9,3,286899,2010
+CDMX,Cuajimalpa de Morelos,9004,9,4,84664,2010
+CDMX,Gustavo A. Madero,9005,9,5,526179,2010
+CDMX,Iztacalco,9006,9,6,175316,2010
+CDMX,Iztapalapa,9007,9,7,792297,2010
+CDMX,La Magdalena Contreras,9008,9,8,108000,2010
+CDMX,Milpa Alta,9009,9,9,53947,2010
+CDMX,Álvaro Obregón,9010,9,10,342414,2010
+CDMX,Tláhuac,9011,9,11,151240,2010
+CDMX,Tlalpan,9012,9,12,294694,2010
+CDMX,Xochimilco,9013,9,13,182565,2010
+CDMX,Benito Juárez,9014,9,14,199003,2010
+CDMX,Cuauhtémoc,9015,9,15,270867,2010
+CDMX,Miguel Hidalgo,9016,9,16,182105,2010
+CDMX,Venustiano Carranza,9017,9,17,197483,2010
+Durango,Total del estado Durango,10000,10,0,589777,2010
+Durango,Canatlán,10001,10,1,10836,2010
+Durango,Canelas,10002,10,2,1393,2010
+Durango,Coneto de Comonfort,10003,10,3,1068,2010
+Durango,Cuencamé,10004,10,4,11325,2010
+Durango,Durango,10005,10,5,225376,2010
+Durango,General Simón Bolívar,10006,10,6,3064,2010
+Durango,Gómez Palacio,10007,10,7,124348,2010
+Durango,Guadalupe Victoria,10008,10,8,11960,2010
+Durango,Guanaceví,10009,10,9,3512,2010
+Durango,Hidalgo,10010,10,10,1263,2010
+Durango,Indé,10011,10,11,1904,2010
+Durango,Lerdo,10012,10,12,51186,2010
+Durango,Mapimí,10013,10,13,8121,2010
+Durango,Mezquital,10014,10,14,5837,2010
+Durango,Nazas,10015,10,15,4178,2010
+Durango,Nombre de Dios,10016,10,16,6175,2010
+Durango,Ocampo,10017,10,17,3719,2010
+Durango,El Oro,10018,10,18,4533,2010
+Durango,Otáez,10019,10,19,1467,2010
+Durango,Pánuco de Coronado,10020,10,20,3908,2010
+Durango,Peñón Blanco,10021,10,21,3444,2010
+Durango,Poanas,10022,10,22,8247,2010
+Durango,Pueblo Nuevo,10023,10,23,14626,2010
+Durango,Rodeo,10024,10,24,4253,2010
+Durango,San Bernardo,10025,10,25,1263,2010
+Durango,San Dimas,10026,10,26,6232,2010
+Durango,San Juan de Guadalupe,10027,10,27,1744,2010
+Durango,San Juan del Río,10028,10,28,3741,2010
+Durango,San Luis del Cordero,10029,10,29,620,2010
+Durango,San Pedro del Gallo,10030,10,30,671,2010
+Durango,Santa Clara,10031,10,31,1943,2010
+Durango,Santiago Papasquiaro,10032,10,32,15758,2010
+Durango,Súchil,10033,10,33,1982,2010
+Durango,Tamazula,10034,10,34,8459,2010
+Durango,Tepehuanes,10035,10,35,3880,2010
+Durango,Tlahualilo,10036,10,36,7783,2010
+Durango,Topia,10037,10,37,2901,2010
+Durango,Vicente Guerrero,10038,10,38,7978,2010
+Durango,Nuevo Ideal,10039,10,39,9079,2010
+Guanajuato,Total del estado Guanajuato,11000,11,0,2114739,2010
+Guanajuato,Abasolo,11001,11,1,28915,2010
+Guanajuato,Acámbaro,11002,11,2,38938,2010
+Guanajuato,San Miguel de Allende,11003,11,3,57733,2010
+Guanajuato,Apaseo el Alto,11004,11,4,23355,2010
+Guanajuato,Apaseo el Grande,11005,11,5,31625,2010
+Guanajuato,Atarjea,11006,11,6,1595,2010
+Guanajuato,Celaya,11007,11,7,193298,2010
+Guanajuato,Manuel Doblado,11008,11,8,12614,2010
+Guanajuato,Comonfort,11009,11,9,26021,2010
+Guanajuato,Coroneo,11010,11,10,4131,2010
+Guanajuato,Cortazar,11011,11,11,33657,2010
+Guanajuato,Cuerámaro,11012,11,12,9087,2010
+Guanajuato,Doctor Mora,11013,11,13,7736,2010
+Guanajuato,Dolores Hidalgo Cuna de la Independencia Nacional,11014,11,14,50932,2010
+Guanajuato,Guanajuato,11015,11,15,67755,2010
+Guanajuato,Huanímaro,11016,11,16,6424,2010
+Guanajuato,Irapuato,11017,11,17,207107,2010
+Guanajuato,Jaral del Progreso,11018,11,18,12953,2010
+Guanajuato,Jerécuaro,11019,11,19,15700,2010
+Guanajuato,León,11020,11,20,619614,2010
+Guanajuato,Moroleón,11021,11,21,21670,2010
+Guanajuato,Ocampo,11022,11,22,7355,2010
+Guanajuato,Pénjamo,11023,11,23,49267,2010
+Guanajuato,Pueblo Nuevo,11024,11,24,3856,2010
+Guanajuato,Purísima del Rincón,11025,11,25,28711,2010
+Guanajuato,Romita,11026,11,26,19187,2010
+Guanajuato,Salamanca,11027,11,27,97896,2010
+Guanajuato,Salvatierra,11028,11,28,33978,2010
+Guanajuato,San Diego de la Unión,11029,11,29,10930,2010
+Guanajuato,San Felipe,11030,11,30,33869,2010
+Guanajuato,San Francisco del Rincón,11031,11,31,47758,2010
+Guanajuato,San José Iturbide,11032,11,32,25832,2010
+Guanajuato,San Luis de la Paz,11033,11,33,39670,2010
+Guanajuato,Santa Catarina,11034,11,34,1331,2010
+Guanajuato,Santa Cruz de Juventino Rosas,11035,11,35,28384,2010
+Guanajuato,Santiago Maravatío,11036,11,36,2148,2010
+Guanajuato,Silao de la Victoria,11037,11,37,63558,2010
+Guanajuato,Tarandacuao,11038,11,38,4131,2010
+Guanajuato,Tarimoro,11039,11,39,12129,2010
+Guanajuato,Tierra Blanca,11040,11,40,5085,2010
+Guanajuato,Uriangato,11041,11,41,25084,2010
+Guanajuato,Valle de Santiago,11042,11,42,50330,2010
+Guanajuato,Victoria,11043,11,43,5514,2010
+Guanajuato,Villagrán,11044,11,44,19676,2010
+Guanajuato,Xichú,11045,11,45,2977,2010
+Guanajuato,Yuriria,11046,11,46,25223,2010
+Guerrero,Total del estado Guerrero,12000,12,0,1221440,2010
+Guerrero,Acapulco de Juárez,12001,12,1,339195,2010
+Guerrero,Ahuacuotzingo,12002,12,2,4822,2010
+Guerrero,Ajuchitlán del Progreso,12003,12,3,11036,2010
+Guerrero,Alcozauca de Guerrero,12004,12,4,3225,2010
+Guerrero,Alpoyeca,12005,12,5,2204,2010
+Guerrero,Apaxtla,12006,12,6,3960,2010
+Guerrero,Arcelia,12007,12,7,11616,2010
+Guerrero,Atenango del Río,12008,12,8,2347,2010
+Guerrero,Atlamajalcingo del Monte,12009,12,9,1554,2010
+Guerrero,Atlixtac,12010,12,10,7118,2010
+Guerrero,Atoyac de Álvarez,12011,12,11,22351,2010
+Guerrero,Ayutla de los Libres,12012,12,12,18400,2010
+Guerrero,Azoyú,12013,12,13,4550,2010
+Guerrero,Benito Juárez,12014,12,14,6095,2010
+Guerrero,Buenavista de Cuéllar,12015,12,15,4908,2010
+Guerrero,Coahuayutla de José María Izazaga,12016,12,16,3786,2010
+Guerrero,Cocula,12017,12,17,4887,2010
+Guerrero,Copala,12018,12,18,4708,2010
+Guerrero,Copalillo,12019,12,19,3527,2010
+Guerrero,Copanatoyac,12020,12,20,4083,2010
+Guerrero,Coyuca de Benítez,12021,12,21,26602,2010
+Guerrero,Coyuca de Catalán,12022,12,22,13529,2010
+Guerrero,Cuajinicuilapa,12023,12,23,8502,2010
+Guerrero,Cualác,12024,12,24,1607,2010
+Guerrero,Cuautepec,12025,12,25,4350,2010
+Guerrero,Cuetzala del Progreso,12026,12,26,2797,2010
+Guerrero,Cutzamala de Pinzón,12027,12,27,7171,2010
+Guerrero,Chilapa de Álvarez,12028,12,28,40933,2010
+Guerrero,Chilpancingo de los Bravo,12029,12,29,97669,2010
+Guerrero,Florencio Villarreal,12030,12,30,6318,2010
+Guerrero,General Canuto A. Neri,12031,12,31,1306,2010
+Guerrero,General Heliodoro Castillo,12032,12,32,9357,2010
+Guerrero,Huamuxtitlán,12033,12,33,4666,2010
+Guerrero,Huitzuco de los Figueroa,12034,12,34,12858,2010
+Guerrero,Iguala de la Independencia,12035,12,35,58592,2010
+Guerrero,Igualapa,12036,12,36,3279,2010
+Guerrero,Ixcateopan de Cuauhtémoc,12037,12,37,1889,2010
+Guerrero,Zihuatanejo de Azueta,12038,12,38,52119,2010
+Guerrero,Juan R. Escudero,12039,12,39,8009,2010
+Guerrero,Leonardo Bravo,12040,12,40,7788,2010
+Guerrero,Malinaltepec,12041,12,41,6137,2010
+Guerrero,Mártir de Cuilapan,12042,12,42,5515,2010
+Guerrero,Metlatónoc,12043,12,43,3937,2010
+Guerrero,Mochitlán,12044,12,44,4087,2010
+Guerrero,Olinalá,12045,12,45,7345,2010
+Guerrero,Ometepec,12046,12,46,21621,2010
+Guerrero,Pedro Ascencio Alquisiras,12047,12,47,2308,2010
+Guerrero,Petatlán,12048,12,48,16643,2010
+Guerrero,Pilcaya,12049,12,49,4295,2010
+Guerrero,Pungarabato,12050,12,50,14514,2010
+Guerrero,Quechultenango,12051,12,51,10560,2010
+Guerrero,San Luis Acatlán,12052,12,52,11916,2010
+Guerrero,San Marcos,12053,12,53,15701,2010
+Guerrero,San Miguel Totolapan,12054,12,54,6977,2010
+Guerrero,Taxco de Alarcón,12055,12,55,41019,2010
+Guerrero,Tecoanapa,12056,12,56,12696,2010
+Guerrero,Técpan de Galeana,12057,12,57,23983,2010
+Guerrero,Teloloapan,12058,12,58,18673,2010
+Guerrero,Tepecoacuilco de Trujano,12059,12,59,10745,2010
+Guerrero,Tetipac,12060,12,60,4120,2010
+Guerrero,Tixtla de Guerrero,12061,12,61,14925,2010
+Guerrero,Tlacoachistlahuaca,12062,12,62,6274,2010
+Guerrero,Tlacoapa,12063,12,63,2324,2010
+Guerrero,Tlalchapa,12064,12,64,3822,2010
+Guerrero,Tlalixtaquilla de Maldonado,12065,12,65,2488,2010
+Guerrero,Tlapa de Comonfort,12066,12,66,25360,2010
+Guerrero,Tlapehuala,12067,12,67,7208,2010
+Guerrero,La Unión de Isidoro Montes de Oca,12068,12,68,8778,2010
+Guerrero,Xalpatláhuac,12069,12,69,2531,2010
+Guerrero,Xochihuehuetlán,12070,12,70,1846,2010
+Guerrero,Xochistlahuaca,12071,12,71,12362,2010
+Guerrero,Zapotitlán Tablas,12072,12,72,3259,2010
+Guerrero,Zirándaro,12073,12,73,5363,2010
+Guerrero,Zitlala,12074,12,74,6147,2010
+Guerrero,Eduardo Neri,12075,12,75,17017,2010
+Guerrero,Acatepec,12076,12,76,8226,2010
+Guerrero,Marquelia,12077,12,77,4896,2010
+Guerrero,Cochoapa el Grande,12078,12,78,3943,2010
+Guerrero,José Joaquín de Herrera,12079,12,79,4015,2010
+Guerrero,Juchitán,12080,12,80,2241,2010
+Guerrero,Iliatenco,12081,12,81,1910,2010
+Hidalgo,Total del estado Hidalgo,13000,13,0,1008815,2010
+Hidalgo,Acatlán,13001,13,1,7004,2010
+Hidalgo,Acaxochitlán,13002,13,2,13343,2010
+Hidalgo,Actopan,13003,13,3,23262,2010
+Hidalgo,Agua Blanca de Iturbide,13004,13,4,2812,2010
+Hidalgo,Ajacuba,13005,13,5,6287,2010
+Hidalgo,Alfajayucan,13006,13,6,6558,2010
+Hidalgo,Almoloya,13007,13,7,4120,2010
+Hidalgo,Apan,13008,13,8,16046,2010
+Hidalgo,El Arenal,13009,13,9,6412,2010
+Hidalgo,Atitalaquia,13010,13,10,10367,2010
+Hidalgo,Atlapexco,13011,13,11,6125,2010
+Hidalgo,Atotonilco el Grande,13012,13,12,9267,2010
+Hidalgo,Atotonilco de Tula,13013,13,13,11441,2010
+Hidalgo,Calnali,13014,13,14,5012,2010
+Hidalgo,Cardonal,13015,13,15,5728,2010
+Hidalgo,Cuautepec de Hinojosa,13016,13,16,19881,2010
+Hidalgo,Chapantongo,13017,13,17,4481,2010
+Hidalgo,Chapulhuacán,13018,13,18,7794,2010
+Hidalgo,Chilcuautla,13019,13,19,6245,2010
+Hidalgo,Eloxochitlán,13020,13,20,844,2010
+Hidalgo,Emiliano Zapata,13021,13,21,4940,2010
+Hidalgo,Epazoyucan,13022,13,22,5843,2010
+Hidalgo,Francisco I. Madero,13023,13,23,12753,2010
+Hidalgo,Huasca de Ocampo,13024,13,24,5522,2010
+Hidalgo,Huautla,13025,13,25,7440,2010
+Hidalgo,Huazalingo,13026,13,26,3947,2010
+Hidalgo,Huehuetla,13027,13,27,7103,2010
+Hidalgo,Huejutla de Reyes,13028,13,28,42767,2010
+Hidalgo,Huichapan,13029,13,29,16397,2010
+Hidalgo,Ixmiquilpan,13030,13,30,33099,2010
+Hidalgo,Jacala de Ledezma,13031,13,31,4810,2010
+Hidalgo,Jaltocán,13032,13,32,3560,2010
+Hidalgo,Juárez Hidalgo,13033,13,33,936,2010
+Hidalgo,Lolotla,13034,13,34,2955,2010
+Hidalgo,Metepec,13035,13,35,3764,2010
+Hidalgo,San Agustín Metzquititlán,13036,13,36,3488,2010
+Hidalgo,Metztitlán,13037,13,37,7552,2010
+Hidalgo,Mineral del Chico,13038,13,38,2980,2010
+Hidalgo,Mineral del Monte,13039,13,39,5806,2010
+Hidalgo,La Misión,13040,13,40,3513,2010
+Hidalgo,Mixquiahuala de Juárez,13041,13,41,17155,2010
+Hidalgo,Molango de Escamilla,13042,13,42,3944,2010
+Hidalgo,Nicolás Flores,13043,13,43,1784,2010
+Hidalgo,Nopala de Villagrán,13044,13,44,5622,2010
+Hidalgo,Omitlán de Juárez,13045,13,45,3165,2010
+Hidalgo,San Felipe Orizatlán,13046,13,46,12311,2010
+Hidalgo,Pacula,13047,13,47,1204,2010
+Hidalgo,Pachuca de Soto,13048,13,48,120029,2010
+Hidalgo,Pisaflores,13049,13,49,5349,2010
+Hidalgo,Progreso de Obregón,13050,13,50,9203,2010
+Hidalgo,Mineral de la Reforma,13051,13,51,56498,2010
+Hidalgo,San Agustín Tlaxiaca,13052,13,52,12481,2010
+Hidalgo,San Bartolo Tutotepec,13053,13,53,5958,2010
+Hidalgo,San Salvador,13054,13,54,11855,2010
+Hidalgo,Santiago de Anaya,13055,13,55,5829,2010
+Hidalgo,Santiago Tulantepec de Lugo Guerrero,13056,13,56,13377,2010
+Hidalgo,Singuilucan,13057,13,57,5347,2010
+Hidalgo,Tasquillo,13058,13,58,5247,2010
+Hidalgo,Tecozautla,13059,13,59,12775,2010
+Hidalgo,Tenango de Doria,13060,13,60,5550,2010
+Hidalgo,Tepeapulco,13061,13,61,20252,2010
+Hidalgo,Tepehuacán de Guerrero,13062,13,62,8948,2010
+Hidalgo,Tepeji del Río de Ocampo,13063,13,63,31684,2010
+Hidalgo,Tepetitlán,13064,13,64,3776,2010
+Hidalgo,Tetepango,13065,13,65,3780,2010
+Hidalgo,Villa de Tezontepec,13066,13,66,4617,2010
+Hidalgo,Tezontepec de Aldama,13067,13,67,18961,2010
+Hidalgo,Tianguistengo,13068,13,68,4530,2010
+Hidalgo,Tizayuca,13069,13,69,37575,2010
+Hidalgo,Tlahuelilpan,13070,13,70,7032,2010
+Hidalgo,Tlahuiltepa,13071,13,71,3062,2010
+Hidalgo,Tlanalapa,13072,13,72,3981,2010
+Hidalgo,Tlanchinol,13073,13,73,11104,2010
+Hidalgo,Tlaxcoapan,13074,13,74,10852,2010
+Hidalgo,Tolcayuca,13075,13,75,5475,2010
+Hidalgo,Tula de Allende,13076,13,76,41345,2010
+Hidalgo,Tulancingo de Bravo,13077,13,77,64931,2010
+Hidalgo,Xochiatipan,13078,13,78,2999,2010
+Hidalgo,Xochicoatlán,13079,13,79,2558,2010
+Hidalgo,Yahualica,13080,13,80,6603,2010
+Hidalgo,Zacualtipán de Ángeles,13081,13,81,12651,2010
+Hidalgo,Zapotlán de Juárez,13082,13,82,7612,2010
+Hidalgo,Zempoala,13083,13,83,15296,2010
+Hidalgo,Zimapán,13084,13,84,12304,2010
+Jalisco,Total del estado Jalisco,14000,14,0,3096762,2010
+Jalisco,Acatic,14001,14,1,9037,2010
+Jalisco,Acatlán de Juárez,14002,14,2,8128,2010
+Jalisco,Ahualulco de Mercado,14003,14,3,8343,2010
+Jalisco,Amacueca,14004,14,4,2287,2010
+Jalisco,Amatitán,14005,14,5,5396,2010
+Jalisco,Ameca,14006,14,6,21129,2010
+Jalisco,San Juanito de Escobedo,14007,14,7,3077,2010
+Jalisco,Arandas,14008,14,8,30287,2010
+Jalisco,El Arenal,14009,14,9,6554,2010
+Jalisco,Atemajac de Brizuela,14010,14,10,2324,2010
+Jalisco,Atengo,14011,14,11,1935,2010
+Jalisco,Atenguillo,14012,14,12,1539,2010
+Jalisco,Atotonilco el Alto,14013,14,13,22422,2010
+Jalisco,Atoyac,14014,14,14,3260,2010
+Jalisco,Autlán de Navarro,14015,14,15,24061,2010
+Jalisco,Ayotlán,14016,14,16,13945,2010
+Jalisco,Ayutla,14017,14,17,4631,2010
+Jalisco,La Barca,14018,14,18,23902,2010
+Jalisco,Bolaños,14019,14,19,1648,2010
+Jalisco,Cabo Corrientes,14020,14,20,3893,2010
+Jalisco,Casimiro Castillo,14021,14,21,7667,2010
+Jalisco,Cihuatlán,14022,14,22,16445,2010
+Jalisco,Zapotlán el Grande,14023,14,23,44220,2010
+Jalisco,Cocula,14024,14,24,9649,2010
+Jalisco,Colotlán,14025,14,25,6811,2010
+Jalisco,Concepción de Buenos Aires,14026,14,26,2433,2010
+Jalisco,Cuautitlán de García Barragán,14027,14,27,5789,2010
+Jalisco,Cuautla,14028,14,28,689,2010
+Jalisco,Cuquío,14029,14,29,5650,2010
+Jalisco,Chapala,14030,14,30,18748,2010
+Jalisco,Chimaltitán,14031,14,31,991,2010
+Jalisco,Chiquilistlán,14032,14,32,1687,2010
+Jalisco,Degollado,14033,14,33,7729,2010
+Jalisco,Ejutla,14034,14,34,715,2010
+Jalisco,Encarnación de Díaz,14035,14,35,19591,2010
+Jalisco,Etzatlán,14036,14,36,7001,2010
+Jalisco,El Grullo,14037,14,37,9910,2010
+Jalisco,Guachinango,14038,14,38,1488,2010
+Jalisco,Guadalajara,14039,14,39,686294,2010
+Jalisco,Hostotipaquillo,14040,14,40,3994,2010
+Jalisco,Huejúcar,14041,14,41,1943,2010
+Jalisco,Huejuquilla el Alto,14042,14,42,2971,2010
+Jalisco,La Huerta,14043,14,43,9087,2010
+Jalisco,Ixtlahuacán de los Membrillos,14044,14,44,16218,2010
+Jalisco,Ixtlahuacán del Río,14045,14,45,6409,2010
+Jalisco,Jalostotitlán,14046,14,46,12864,2010
+Jalisco,Jamay,14047,14,47,8516,2010
+Jalisco,Jesús María,14048,14,48,6759,2010
+Jalisco,Jilotlán de los Dolores,14049,14,49,3408,2010
+Jalisco,Jocotepec,14050,14,50,16646,2010
+Jalisco,Juanacatlán,14051,14,51,5087,2010
+Jalisco,Juchitlán,14052,14,52,1906,2010
+Jalisco,Lagos de Moreno,14053,14,53,60662,2010
+Jalisco,El Limón,14054,14,54,2056,2010
+Jalisco,Magdalena,14055,14,55,7735,2010
+Jalisco,Santa María del Oro,14056,14,56,783,2010
+Jalisco,La Manzanilla de la Paz,14057,14,57,1581,2010
+Jalisco,Mascota,14058,14,58,5346,2010
+Jalisco,Mazamitla,14059,14,59,5259,2010
+Jalisco,Mexticacán,14060,14,60,2060,2010
+Jalisco,Mezquitic,14061,14,61,4955,2010
+Jalisco,Mixtlán,14062,14,62,1270,2010
+Jalisco,Ocotlán,14063,14,63,37321,2010
+Jalisco,Ojuelos de Jalisco,14064,14,64,10038,2010
+Jalisco,Pihuamo,14065,14,65,4360,2010
+Jalisco,Poncitlán,14066,14,66,16866,2010
+Jalisco,Puerto Vallarta,14067,14,67,119107,2010
+Jalisco,Villa Purificación,14068,14,68,4186,2010
+Jalisco,Quitupan,14069,14,69,2846,2010
+Jalisco,El Salto,14070,14,70,54212,2010
+Jalisco,San Cristóbal de la Barranca,14071,14,71,1010,2010
+Jalisco,San Diego de Alejandría,14072,14,72,2516,2010
+Jalisco,San Juan de los Lagos,14073,14,73,27332,2010
+Jalisco,San Julián,14074,14,74,6377,2010
+Jalisco,San Marcos,14075,14,75,1268,2010
+Jalisco,San Martín de Bolaños,14076,14,76,844,2010
+Jalisco,San Martín Hidalgo,14077,14,77,9034,2010
+Jalisco,San Miguel el Alto,14078,14,78,13394,2010
+Jalisco,Gómez Farías,14079,14,79,5199,2010
+Jalisco,San Sebastián del Oeste,14080,14,80,2062,2010
+Jalisco,Santa María de los Ángeles,14081,14,81,941,2010
+Jalisco,Sayula,14082,14,82,13309,2010
+Jalisco,Tala,14083,14,83,25740,2010
+Jalisco,Talpa de Allende,14084,14,84,5464,2010
+Jalisco,Tamazula de Gordiano,14085,14,85,14567,2010
+Jalisco,Tapalpa,14086,14,86,6409,2010
+Jalisco,Tecalitlán,14087,14,87,6286,2010
+Jalisco,Tecolotlán,14088,14,88,6337,2010
+Jalisco,Techaluta de Montenegro,14089,14,89,1264,2010
+Jalisco,Tenamaxtlán,14090,14,90,2493,2010
+Jalisco,Teocaltiche,14091,14,91,14727,2010
+Jalisco,Teocuitatlán de Corona,14092,14,92,4026,2010
+Jalisco,Tepatitlán de Morelos,14093,14,93,58131,2010
+Jalisco,Tequila,14094,14,94,14802,2010
+Jalisco,Teuchitlán,14095,14,95,3226,2010
+Jalisco,Tizapán el Alto,14096,14,96,7492,2010
+Jalisco,Tlajomulco de Zúñiga,14097,14,97,165648,2010
+Jalisco,San Pedro Tlaquepaque,14098,14,98,260038,2010
+Jalisco,Tolimán,14099,14,99,3385,2010
+Jalisco,Tomatlán,14100,14,100,12926,2010
+Jalisco,Tonalá,14101,14,101,208604,2010
+Jalisco,Tonaya,14102,14,102,2393,2010
+Jalisco,Tonila,14103,14,103,2663,2010
+Jalisco,Totatiche,14104,14,104,1292,2010
+Jalisco,Tototlán,14105,14,105,7913,2010
+Jalisco,Tuxcacuesco,14106,14,106,1308,2010
+Jalisco,Tuxcueca,14107,14,107,2353,2010
+Jalisco,Tuxpan,14108,14,108,13200,2010
+Jalisco,Unión de San Antonio,14109,14,109,6326,2010
+Jalisco,Unión de Tula,14110,14,110,5008,2010
+Jalisco,Valle de Guadalupe,14111,14,111,2880,2010
+Jalisco,Valle de Juárez,14112,14,112,2306,2010
+Jalisco,San Gabriel,14113,14,113,6322,2010
+Jalisco,Villa Corona,14114,14,114,6061,2010
+Jalisco,Villa Guerrero,14115,14,115,1633,2010
+Jalisco,Villa Hidalgo,14116,14,116,7373,2010
+Jalisco,Cañadas de Obregón,14117,14,117,1573,2010
+Jalisco,Yahualica de González Gallo,14118,14,118,8607,2010
+Jalisco,Zacoalco de Torres,14119,14,119,10191,2010
+Jalisco,Zapopan,14120,14,120,562233,2010
+Jalisco,Zapotiltic,14121,14,121,10583,2010
+Jalisco,Zapotitlán de Vadillo,14122,14,122,2191,2010
+Jalisco,Zapotlán del Rey,14123,14,123,6284,2010
+Jalisco,Zapotlanejo,14124,14,124,26879,2010
+Jalisco,San Ignacio Cerro Gordo,14125,14,125,6583,2010
+México,Total del estado México,15000,15,0,6124813,2010
+México,Acambay de Ruíz Castañeda,15001,15,1,19427,2010
+México,Acolman,15002,15,2,51556,2010
+México,Aculco,15003,15,3,15592,2010
+México,Almoloya de Alquisiras,15004,15,4,4854,2010
+México,Almoloya de Juárez,15005,15,5,51587,2010
+México,Almoloya del Río,15006,15,6,4545,2010
+México,Amanalco,15007,15,7,7335,2010
+México,Amatepec,15008,15,8,8437,2010
+México,Amecameca,15009,15,9,18383,2010
+México,Apaxco,15010,15,10,10725,2010
+México,Atenco,15011,15,11,21731,2010
+México,Atizapán,15012,15,12,4313,2010
+México,Atizapán de Zaragoza,15013,15,13,216353,2010
+México,Atlacomulco,15014,15,14,34834,2010
+México,Atlautla,15015,15,15,10076,2010
+México,Axapusco,15016,15,16,9296,2010
+México,Ayapango,15017,15,17,3302,2010
+México,Calimaya,15018,15,18,17875,2010
+México,Capulhuac,15019,15,19,13847,2010
+México,Coacalco de Berriozábal,15020,15,20,119932,2010
+México,Coatepec Harinas,15021,15,21,12721,2010
+México,Cocotitlán,15022,15,22,4700,2010
+México,Coyotepec,15023,15,23,14146,2010
+México,Cuautitlán,15024,15,24,58806,2010
+México,Chalco,15025,15,25,120150,2010
+México,Chapa de Mota,15026,15,26,9998,2010
+México,Chapultepec,15027,15,27,3890,2010
+México,Chiautla,15028,15,28,10546,2010
+México,Chicoloapan,15029,15,29,71836,2010
+México,Chiconcuac,15030,15,30,9377,2010
+México,Chimalhuacán,15031,15,31,246100,2010
+México,Donato Guerra,15032,15,32,10498,2010
+México,Ecatepec de Morelos,15033,15,33,699245,2010
+México,Ecatzingo,15034,15,34,3230,2010
+México,Huehuetoca,15035,15,35,37331,2010
+México,Hueypoxtla,15036,15,36,14328,2010
+México,Huixquilucan,15037,15,37,102841,2010
+México,Isidro Fabela,15038,15,38,3818,2010
+México,Ixtapaluca,15039,15,39,190023,2010
+México,Ixtapan de la Sal,15040,15,40,13260,2010
+México,Ixtapan del Oro,15041,15,41,2024,2010
+México,Ixtlahuaca,15042,15,42,51676,2010
+México,Xalatlaco,15043,15,43,10351,2010
+México,Jaltenco,15044,15,44,10733,2010
+México,Jilotepec,15045,15,45,31842,2010
+México,Jilotzingo,15046,15,46,7154,2010
+México,Jiquipilco,15047,15,47,23308,2010
+México,Jocotitlán,15048,15,48,23088,2010
+México,Joquicingo,15049,15,49,4670,2010
+México,Juchitepec,15050,15,50,9228,2010
+México,Lerma,15051,15,51,51688,2010
+México,Malinalco,15052,15,52,9459,2010
+México,Melchor Ocampo,15053,15,53,19854,2010
+México,Metepec,15054,15,54,91700,2010
+México,Mexicaltzingo,15055,15,55,4710,2010
+México,Morelos,15056,15,56,9179,2010
+México,Naucalpan de Juárez,15057,15,57,357773,2010
+México,Nezahualcóyotl,15058,15,58,480547,2010
+México,Nextlalpan,15059,15,59,13847,2010
+México,Nicolás Romero,15060,15,60,149058,2010
+México,Nopaltepec,15061,15,61,3396,2010
+México,Ocoyoacac,15062,15,62,24547,2010
+México,Ocuilan,15063,15,63,11245,2010
+México,El Oro,15064,15,64,11886,2010
+México,Otumba,15065,15,65,12926,2010
+México,Otzoloapan,15066,15,66,1404,2010
+México,Otzolotepec,15067,15,67,28160,2010
+México,Ozumba,15068,15,68,10457,2010
+México,Papalotla,15069,15,69,1739,2010
+México,La Paz,15070,15,70,105236,2010
+México,Polotitlán,15071,15,71,5009,2010
+México,Rayón,15072,15,72,4750,2010
+México,San Antonio la Isla,15073,15,73,8830,2010
+México,San Felipe del Progreso,15074,15,74,38873,2010
+México,San Martín de las Pirámides,15075,15,75,9788,2010
+México,San Mateo Atenco,15076,15,76,28803,2010
+México,San Simón de Guerrero,15077,15,77,1975,2010
+México,Santo Tomás,15078,15,78,2995,2010
+México,Soyaniquilpan de Juárez,15079,15,79,4394,2010
+México,Sultepec,15080,15,80,6344,2010
+México,Tecámac,15081,15,81,148172,2010
+México,Tejupilco,15082,15,82,23835,2010
+México,Temamatla,15083,15,83,4294,2010
+México,Temascalapa,15084,15,84,13378,2010
+México,Temascalcingo,15085,15,85,20231,2010
+México,Temascaltepec,15086,15,86,10229,2010
+México,Temoaya,15087,15,87,32408,2010
+México,Tenancingo,15088,15,88,34027,2010
+México,Tenango del Aire,15089,15,89,4017,2010
+México,Tenango del Valle,15090,15,90,29408,2010
+México,Teoloyucan,15091,15,91,25162,2010
+México,Teotihuacán,15092,15,92,20020,2010
+México,Tepetlaoxtoc,15093,15,93,10925,2010
+México,Tepetlixpa,15094,15,94,6737,2010
+México,Tepotzotlán,15095,15,95,36082,2010
+México,Tequixquiac,15096,15,96,12665,2010
+México,Texcaltitlán,15097,15,97,4711,2010
+México,Texcalyacac,15098,15,98,1946,2010
+México,Texcoco,15099,15,99,94024,2010
+México,Tezoyuca,15100,15,100,13332,2010
+México,Tianguistenco,15101,15,101,27761,2010
+México,Timilpan,15102,15,102,5444,2010
+México,Tlalmanalco,15103,15,103,18053,2010
+México,Tlalnepantla de Baz,15104,15,104,283811,2010
+México,Tlatlaya,15105,15,105,9675,2010
+México,Toluca,15106,15,106,338926,2010
+México,Tonatico,15107,15,107,5068,2010
+México,Tultepec,15108,15,108,37157,2010
+México,Tultitlán,15109,15,109,219899,2010
+México,Valle de Bravo,15110,15,110,24895,2010
+México,Villa de Allende,15111,15,111,15330,2010
+México,Villa del Carbón,15112,15,112,15332,2010
+México,Villa Guerrero,15113,15,113,24860,2010
+México,Villa Victoria,15114,15,114,30600,2010
+México,Xonacatlán,15115,15,115,17848,2010
+México,Zacazonapan,15116,15,116,1350,2010
+México,Zacualpan,15117,15,117,4583,2010
+México,Zinacantepec,15118,15,118,62919,2010
+México,Zumpahuacán,15119,15,119,4923,2010
+México,Zumpango,15120,15,120,61044,2010
+México,Cuautitlán Izcalli,15121,15,121,221343,2010
+México,Valle de Chalco Solidaridad,15122,15,122,146466,2010
+México,Luvianos,15123,15,123,6043,2010
+México,San José del Rincón,15124,15,124,26257,2010
+México,Tonanitla,15125,15,125,4133,2010
+Michoacán de Ocampo,Total del estado Michoacán de Ocampo,16000,16,0,1658417,2010
+Michoacán de Ocampo,Acuitzio,16001,16,1,3734,2010
+Michoacán de Ocampo,Aguililla,16002,16,2,5825,2010
+Michoacán de Ocampo,Álvaro Obregón,16003,16,3,6708,2010
+Michoacán de Ocampo,Angamacutiro,16004,16,4,5346,2010
+Michoacán de Ocampo,Angangueo,16005,16,5,3460,2010
+Michoacán de Ocampo,Apatzingán,16006,16,6,51600,2010
+Michoacán de Ocampo,Aporo,16007,16,7,1019,2010
+Michoacán de Ocampo,Aquila,16008,16,8,7690,2010
+Michoacán de Ocampo,Ario,16009,16,9,13115,2010
+Michoacán de Ocampo,Arteaga,16010,16,10,7250,2010
+Michoacán de Ocampo,Briseñas,16011,16,11,3815,2010
+Michoacán de Ocampo,Buenavista,16012,16,12,18283,2010
+Michoacán de Ocampo,Carácuaro,16013,16,13,2957,2010
+Michoacán de Ocampo,Coahuayana,16014,16,14,5560,2010
+Michoacán de Ocampo,Coalcomán de Vázquez Pallares,16015,16,15,6158,2010
+Michoacán de Ocampo,Coeneo,16016,16,16,6555,2010
+Michoacán de Ocampo,Contepec,16017,16,17,11514,2010
+Michoacán de Ocampo,Copándaro,16018,16,18,2672,2010
+Michoacán de Ocampo,Cotija,16019,16,19,6989,2010
+Michoacán de Ocampo,Cuitzeo,16020,16,20,9697,2010
+Michoacán de Ocampo,Charapan,16021,16,21,4568,2010
+Michoacán de Ocampo,Charo,16022,16,22,7164,2010
+Michoacán de Ocampo,Chavinda,16023,16,23,3550,2010
+Michoacán de Ocampo,Cherán,16024,16,24,6395,2010
+Michoacán de Ocampo,Chilchota,16025,16,25,14235,2010
+Michoacán de Ocampo,Chinicuila,16026,16,26,1711,2010
+Michoacán de Ocampo,Chucándiro,16027,16,27,1506,2010
+Michoacán de Ocampo,Churintzio,16028,16,28,1762,2010
+Michoacán de Ocampo,Churumuco,16029,16,29,4193,2010
+Michoacán de Ocampo,Ecuandureo,16030,16,30,4242,2010
+Michoacán de Ocampo,Epitacio Huerta,16031,16,31,5533,2010
+Michoacán de Ocampo,Erongarícuaro,16032,16,32,5422,2010
+Michoacán de Ocampo,Gabriel Zamora,16033,16,33,7902,2010
+Michoacán de Ocampo,Hidalgo,16034,16,34,42832,2010
+Michoacán de Ocampo,La Huacana,16035,16,35,10703,2010
+Michoacán de Ocampo,Huandacareo,16036,16,36,4220,2010
+Michoacán de Ocampo,Huaniqueo,16037,16,37,2419,2010
+Michoacán de Ocampo,Huetamo,16038,16,38,15295,2010
+Michoacán de Ocampo,Huiramba,16039,16,39,2382,2010
+Michoacán de Ocampo,Indaparapeo,16040,16,40,5691,2010
+Michoacán de Ocampo,Irimbo,16041,16,41,5401,2010
+Michoacán de Ocampo,Ixtlán,16042,16,42,5395,2010
+Michoacán de Ocampo,Jacona,16043,16,43,26199,2010
+Michoacán de Ocampo,Jiménez,16044,16,44,4674,2010
+Michoacán de Ocampo,Jiquilpan,16045,16,45,13034,2010
+Michoacán de Ocampo,Juárez,16046,16,46,4697,2010
+Michoacán de Ocampo,Jungapeo,16047,16,47,6580,2010
+Michoacán de Ocampo,Lagunillas,16048,16,48,1875,2010
+Michoacán de Ocampo,Madero,16049,16,49,5905,2010
+Michoacán de Ocampo,Maravatío,16050,16,50,27698,2010
+Michoacán de Ocampo,Marcos Castellanos,16051,16,51,5145,2010
+Michoacán de Ocampo,Lázaro Cárdenas,16052,16,52,70850,2010
+Michoacán de Ocampo,Morelia,16053,16,53,310305,2010
+Michoacán de Ocampo,Morelos,16054,16,54,2347,2010
+Michoacán de Ocampo,Múgica,16055,16,55,17617,2010
+Michoacán de Ocampo,Nahuatzen,16056,16,56,8441,2010
+Michoacán de Ocampo,Nocupétaro,16057,16,57,2462,2010
+Michoacán de Ocampo,Nuevo Parangaricutiro,16058,16,58,7746,2010
+Michoacán de Ocampo,Nuevo Urecho,16059,16,59,2866,2010
+Michoacán de Ocampo,Numarán,16060,16,60,3251,2010
+Michoacán de Ocampo,Ocampo,16061,16,61,6920,2010
+Michoacán de Ocampo,Pajacuarán,16062,16,62,6161,2010
+Michoacán de Ocampo,Panindícuaro,16063,16,63,5448,2010
+Michoacán de Ocampo,Parácuaro,16064,16,64,9171,2010
+Michoacán de Ocampo,Paracho,16065,16,65,12551,2010
+Michoacán de Ocampo,Pátzcuaro,16066,16,66,33569,2010
+Michoacán de Ocampo,Penjamillo,16067,16,67,5301,2010
+Michoacán de Ocampo,Peribán,16068,16,68,9587,2010
+Michoacán de Ocampo,La Piedad,16069,16,69,40277,2010
+Michoacán de Ocampo,Purépero,16070,16,70,5800,2010
+Michoacán de Ocampo,Puruándiro,16071,16,71,23800,2010
+Michoacán de Ocampo,Queréndaro,16072,16,72,4781,2010
+Michoacán de Ocampo,Quiroga,16073,16,73,10956,2010
+Michoacán de Ocampo,Cojumatlán de Régules,16074,16,74,3726,2010
+Michoacán de Ocampo,Los Reyes,16075,16,75,24176,2010
+Michoacán de Ocampo,Sahuayo,16076,16,76,31638,2010
+Michoacán de Ocampo,San Lucas,16077,16,77,6674,2010
+Michoacán de Ocampo,Santa Ana Maya,16078,16,78,3753,2010
+Michoacán de Ocampo,Salvador Escalante,16079,16,79,14915,2010
+Michoacán de Ocampo,Senguio,16080,16,80,5160,2010
+Michoacán de Ocampo,Susupuato,16081,16,81,2635,2010
+Michoacán de Ocampo,Tacámbaro,16082,16,82,26409,2010
+Michoacán de Ocampo,Tancítaro,16083,16,83,10039,2010
+Michoacán de Ocampo,Tangamandapio,16084,16,84,9721,2010
+Michoacán de Ocampo,Tangancícuaro,16085,16,85,12220,2010
+Michoacán de Ocampo,Tanhuato,16086,16,86,5331,2010
+Michoacán de Ocampo,Taretan,16087,16,87,4732,2010
+Michoacán de Ocampo,Tarímbaro,16088,16,88,28051,2010
+Michoacán de Ocampo,Tepalcatepec,16089,16,89,9294,2010
+Michoacán de Ocampo,Tingambato,16090,16,90,4832,2010
+Michoacán de Ocampo,Tingüindín,16091,16,91,5206,2010
+Michoacán de Ocampo,Tiquicheo de Nicolás Romero,16092,16,92,4529,2010
+Michoacán de Ocampo,Tlalpujahua,16093,16,93,8956,2010
+Michoacán de Ocampo,Tlazazalca,16094,16,94,2413,2010
+Michoacán de Ocampo,Tocumbo,16095,16,95,4546,2010
+Michoacán de Ocampo,Tumbiscatío,16096,16,96,2428,2010
+Michoacán de Ocampo,Turicato,16097,16,97,9570,2010
+Michoacán de Ocampo,Tuxpan,16098,16,98,9445,2010
+Michoacán de Ocampo,Tuzantla,16099,16,99,5413,2010
+Michoacán de Ocampo,Tzintzuntzan,16100,16,100,5008,2010
+Michoacán de Ocampo,Tzitzio,16101,16,101,2763,2010
+Michoacán de Ocampo,Uruapan,16102,16,102,129330,2010
+Michoacán de Ocampo,Venustiano Carranza,16103,16,103,8749,2010
+Michoacán de Ocampo,Villamar,16104,16,104,5334,2010
+Michoacán de Ocampo,Vista Hermosa,16105,16,105,6575,2010
+Michoacán de Ocampo,Yurécuaro,16106,16,106,11457,2010
+Michoacán de Ocampo,Zacapu,16107,16,107,27639,2010
+Michoacán de Ocampo,Zamora,16108,16,108,79099,2010
+Michoacán de Ocampo,Zináparo,16109,16,109,1114,2010
+Michoacán de Ocampo,Zinapécuaro,16110,16,110,16164,2010
+Michoacán de Ocampo,Ziracuaretiro,16111,16,111,5488,2010
+Michoacán de Ocampo,Zitácuaro,16112,16,112,57709,2010
+Michoacán de Ocampo,José Sixto Verduzco,16113,16,113,7694,2010
+Morelos,Total del estado Morelos,17000,17,0,744599,2010
+Morelos,Amacuzac,17001,17,1,6366,2010
+Morelos,Atlatlahucan,17002,17,2,7135,2010
+Morelos,Axochiapan,17003,17,3,11934,2010
+Morelos,Ayala,17004,17,4,29687,2010
+Morelos,Coatlán del Río,17005,17,5,3442,2010
+Morelos,Cuautla,17006,17,6,75588,2010
+Morelos,Cuernavaca,17007,17,7,163342,2010
+Morelos,Emiliano Zapata,17008,17,8,34902,2010
+Morelos,Huitzilac,17009,17,9,6918,2010
+Morelos,Jantetelco,17010,17,10,5947,2010
+Morelos,Jiutepec,17011,17,11,88923,2010
+Morelos,Jojutla,17012,17,12,23654,2010
+Morelos,Jonacatepec de Leandro Valle,17013,17,13,5544,2010
+Morelos,Mazatepec,17014,17,14,3601,2010
+Morelos,Miacatlán,17015,17,15,9060,2010
+Morelos,Ocuituco,17016,17,16,6061,2010
+Morelos,Puente de Ixtla,17017,17,17,25015,2010
+Morelos,Temixco,17018,17,18,45655,2010
+Morelos,Tepalcingo,17019,17,19,9469,2010
+Morelos,Tepoztlán,17020,17,20,18283,2010
+Morelos,Tetecala,17021,17,21,3099,2010
+Morelos,Tetela del Volcán,17022,17,22,6758,2010
+Morelos,Tlalnepantla,17023,17,23,2614,2010
+Morelos,Tlaltizapán de Zapata,17024,17,24,18296,2010
+Morelos,Tlaquiltenango,17025,17,25,12247,2010
+Morelos,Tlayacapan,17026,17,26,6655,2010
+Morelos,Totolapan,17027,17,27,4267,2010
+Morelos,Xochitepec,17028,17,28,27383,2010
+Morelos,Yautepec,17029,17,29,41096,2010
+Morelos,Yecapixtla,17030,17,30,18450,2010
+Morelos,Zacatepec,17031,17,31,14559,2010
+Morelos,Zacualpan de Amilpas,17032,17,32,3191,2010
+Morelos,Temoac,17033,17,33,5458,2010
+Nayarit,Total del estado Nayarit,18000,18,0,435977,2010
+Nayarit,Acaponeta,18001,18,1,13233,2010
+Nayarit,Ahuacatlán,18002,18,2,5534,2010
+Nayarit,Amatlán de Cañas,18003,18,3,4080,2010
+Nayarit,Compostela,18004,18,4,28846,2010
+Nayarit,Huajicori,18005,18,5,3703,2010
+Nayarit,Ixtlán del Río,18006,18,6,10821,2010
+Nayarit,Jala,18007,18,7,6263,2010
+Nayarit,Xalisco,18008,18,8,19092,2010
+Nayarit,Del Nayar,18009,18,9,6400,2010
+Nayarit,Rosamorada,18010,18,10,11613,2010
+Nayarit,Ruíz,18011,18,11,8621,2010
+Nayarit,San Blas,18012,18,12,19160,2010
+Nayarit,San Pedro Lagunillas,18013,18,13,2765,2010
+Nayarit,Santa María del Oro,18014,18,14,8184,2010
+Nayarit,Santiago Ixcuintla,18015,18,15,35713,2010
+Nayarit,Tecuala,18016,18,16,14096,2010
+Nayarit,Tepic,18017,18,17,167115,2010
+Nayarit,Tuxpan,18018,18,18,12021,2010
+Nayarit,La Yesca,18019,18,19,4273,2010
+Nayarit,Bahía de Banderas,18020,18,20,54444,2010
+Nuevo León,Total del estado Nuevo León,19000,19,0,1956106,2010
+Nuevo León,Abasolo,19001,19,1,1030,2010
+Nuevo León,Agualeguas,19002,19,2,1218,2010
+Nuevo León,Los Aldamas,19003,19,3,442,2010
+Nuevo León,Allende,19004,19,4,12899,2010
+Nuevo León,Anáhuac,19005,19,5,6589,2010
+Nuevo León,Apodaca,19006,19,6,221770,2010
+Nuevo León,Aramberri,19007,19,7,5136,2010
+Nuevo León,Bustamante,19008,19,8,1331,2010
+Nuevo León,Cadereyta Jiménez,19009,19,9,33823,2010
+Nuevo León,El Carmen,19010,19,10,6188,2010
+Nuevo León,Cerralvo,19011,19,11,3122,2010
+Nuevo León,Ciénega de Flores,19012,19,12,10358,2010
+Nuevo León,China,19013,19,13,4175,2010
+Nuevo León,Doctor Arroyo,19014,19,14,11508,2010
+Nuevo León,Doctor Coss,19015,19,15,464,2010
+Nuevo León,Doctor González,19016,19,16,1268,2010
+Nuevo León,Galeana,19017,19,17,13801,2010
+Nuevo León,García,19018,19,18,57509,2010
+Nuevo León,San Pedro Garza García,19019,19,19,52078,2010
+Nuevo León,General Bravo,19020,19,20,2175,2010
+Nuevo León,General Escobedo,19021,19,21,146917,2010
+Nuevo León,General Terán,19022,19,22,5181,2010
+Nuevo León,General Treviño,19023,19,23,391,2010
+Nuevo León,General Zaragoza,19024,19,24,1894,2010
+Nuevo León,General Zuazua,19025,19,25,21993,2010
+Nuevo León,Guadalupe,19026,19,26,296452,2010
+Nuevo León,Los Herreras,19027,19,27,709,2010
+Nuevo León,Higueras,19028,19,28,653,2010
+Nuevo León,Hualahuises,19029,19,29,2412,2010
+Nuevo León,Iturbide,19030,19,30,1215,2010
+Nuevo León,Juárez,19031,19,31,101619,2010
+Nuevo León,Lampazos de Naranjo,19032,19,32,1957,2010
+Nuevo León,Linares,19033,19,33,30868,2010
+Nuevo León,Marín,19034,19,34,2136,2010
+Nuevo León,Melchor Ocampo,19035,19,35,344,2010
+Nuevo León,Mier y Noriega,19036,19,36,2072,2010
+Nuevo León,Mina,19037,19,37,1885,2010
+Nuevo León,Montemorelos,19038,19,38,23623,2010
+Nuevo León,Monterrey,19039,19,39,488181,2010
+Nuevo León,Parás,19040,19,40,315,2010
+Nuevo León,Pesquería,19041,19,41,8578,2010
+Nuevo León,Los Ramones,19042,19,42,1865,2010
+Nuevo León,Rayones,19043,19,43,915,2010
+Nuevo León,Sabinas Hidalgo,19044,19,44,13659,2010
+Nuevo León,Salinas Victoria,19045,19,45,12325,2010
+Nuevo León,San Nicolás de los Garza,19046,19,46,197873,2010
+Nuevo León,Hidalgo,19047,19,47,5712,2010
+Nuevo León,Santa Catarina,19048,19,48,119114,2010
+Nuevo León,Santiago,19049,19,49,16170,2010
+Nuevo León,Vallecillo,19050,19,50,746,2010
+Nuevo León,Villaldama,19051,19,51,1448,2010
+Oaxaca,Total del estado Oaxaca,20000,20,0,1343189,2010
+Oaxaca,Abejones,20001,20,1,174,2010
+Oaxaca,Acatlán de Pérez Figueroa,20002,20,2,14816,2010
+Oaxaca,Asunción Cacalotepec,20003,20,3,710,2010
+Oaxaca,Asunción Cuyotepeji,20004,20,4,408,2010
+Oaxaca,Asunción Ixtaltepec,20005,20,5,5270,2010
+Oaxaca,Asunción Nochixtlán,20006,20,6,6671,2010
+Oaxaca,Asunción Ocotlán,20007,20,7,962,2010
+Oaxaca,Asunción Tlacolulita,20008,20,8,279,2010
+Oaxaca,Ayotzintepec,20009,20,9,1727,2010
+Oaxaca,El Barrio de la Soledad,20010,20,10,4565,2010
+Oaxaca,Calihualá,20011,20,11,165,2010
+Oaxaca,Candelaria Loxicha,20012,20,12,2948,2010
+Oaxaca,Ciénega de Zimatlán,20013,20,13,1040,2010
+Oaxaca,Ciudad Ixtepec,20014,20,14,9463,2010
+Oaxaca,Coatecas Altas,20015,20,15,1189,2010
+Oaxaca,Coicoyán de las Flores,20016,20,16,1606,2010
+Oaxaca,La Compañía,20017,20,17,842,2010
+Oaxaca,Concepción Buenavista,20018,20,18,277,2010
+Oaxaca,Concepción Pápalo,20019,20,19,920,2010
+Oaxaca,Constancia del Rosario,20020,20,20,927,2010
+Oaxaca,Cosolapa,20021,20,21,5289,2010
+Oaxaca,Cosoltepec,20022,20,22,334,2010
+Oaxaca,Cuilápam de Guerrero,20023,20,23,6919,2010
+Oaxaca,Cuyamecalco Villa de Zaragoza,20024,20,24,1142,2010
+Oaxaca,Chahuites,20025,20,25,4276,2010
+Oaxaca,Chalcatongo de Hidalgo,20026,20,26,3124,2010
+Oaxaca,Chiquihuitlán de Benito Juárez,20027,20,27,872,2010
+Oaxaca,Heroica Ciudad de Ejutla de Crespo,20028,20,28,6563,2010
+Oaxaca,Eloxochitlán de Flores Magón,20029,20,29,1230,2010
+Oaxaca,El Espinal,20030,20,30,3401,2010
+Oaxaca,Tamazulápam del Espíritu Santo,20031,20,31,2635,2010
+Oaxaca,Fresnillo de Trujano,20032,20,32,294,2010
+Oaxaca,Guadalupe Etla,20033,20,33,1039,2010
+Oaxaca,Guadalupe de Ramírez,20034,20,34,330,2010
+Oaxaca,Guelatao de Juárez,20035,20,35,234,2010
+Oaxaca,Guevea de Humboldt,20036,20,36,1490,2010
+Oaxaca,Mesones Hidalgo,20037,20,37,1010,2010
+Oaxaca,Villa Hidalgo,20038,20,38,733,2010
+Oaxaca,Heroica Ciudad de Huajuapan de León,20039,20,39,28222,2010
+Oaxaca,Huautepec,20040,20,40,1600,2010
+Oaxaca,Huautla de Jiménez,20041,20,41,9615,2010
+Oaxaca,Ixtlán de Juárez,20042,20,42,2696,2010
+Oaxaca,Juchitán de Zaragoza,20043,20,43,36238,2010
+Oaxaca,Loma Bonita,20044,20,44,16512,2010
+Oaxaca,Magdalena Apasco,20045,20,45,3278,2010
+Oaxaca,Magdalena Jaltepec,20046,20,46,1151,2010
+Oaxaca,Santa Magdalena Jicotlán,20047,20,47,33,2010
+Oaxaca,Magdalena Mixtepec,20048,20,48,394,2010
+Oaxaca,Magdalena Ocotlán,20049,20,49,320,2010
+Oaxaca,Magdalena Peñasco,20050,20,50,736,2010
+Oaxaca,Magdalena Teitipac,20051,20,51,2034,2010
+Oaxaca,Magdalena Tequisistlán,20052,20,52,2144,2010
+Oaxaca,Magdalena Tlacotepec,20053,20,53,469,2010
+Oaxaca,Magdalena Zahuatlán,20054,20,54,83,2010
+Oaxaca,Mariscala de Juárez,20055,20,55,973,2010
+Oaxaca,Mártires de Tacubaya,20056,20,56,459,2010
+Oaxaca,Matías Romero Avendaño,20057,20,57,13875,2010
+Oaxaca,Mazatlán Villa de Flores,20058,20,58,3052,2010
+Oaxaca,Miahuatlán de Porfirio Díaz,20059,20,59,15243,2010
+Oaxaca,Mixistlán de la Reforma,20060,20,60,1133,2010
+Oaxaca,Monjas,20061,20,61,1066,2010
+Oaxaca,Natividad,20062,20,62,222,2010
+Oaxaca,Nazareno Etla,20063,20,63,1625,2010
+Oaxaca,Nejapa de Madero,20064,20,64,2719,2010
+Oaxaca,Ixpantepec Nieves,20065,20,65,209,2010
+Oaxaca,Santiago Niltepec,20066,20,66,1934,2010
+Oaxaca,Oaxaca de Juárez,20067,20,67,118738,2010
+Oaxaca,Ocotlán de Morelos,20068,20,68,8211,2010
+Oaxaca,La Pe,20069,20,69,751,2010
+Oaxaca,Pinotepa de Don Luis,20070,20,70,2397,2010
+Oaxaca,Pluma Hidalgo,20071,20,71,969,2010
+Oaxaca,San José del Progreso,20072,20,72,2142,2010
+Oaxaca,Putla Villa de Guerrero,20073,20,73,10102,2010
+Oaxaca,Santa Catarina Quioquitani,20074,20,74,63,2010
+Oaxaca,Reforma de Pineda,20075,20,75,995,2010
+Oaxaca,La Reforma,20076,20,76,770,2010
+Oaxaca,Reyes Etla,20077,20,77,1472,2010
+Oaxaca,Rojas de Cuauhtémoc,20078,20,78,510,2010
+Oaxaca,Salina Cruz,20079,20,79,32562,2010
+Oaxaca,San Agustín Amatengo,20080,20,80,320,2010
+Oaxaca,San Agustín Atenango,20081,20,81,470,2010
+Oaxaca,San Agustín Chayuco,20082,20,82,995,2010
+Oaxaca,San Agustín de las Juntas,20083,20,83,2981,2010
+Oaxaca,San Agustín Etla,20084,20,84,1661,2010
+Oaxaca,San Agustín Loxicha,20085,20,85,5503,2010
+Oaxaca,San Agustín Tlacotepec,20086,20,86,312,2010
+Oaxaca,San Agustín Yatareni,20087,20,87,1780,2010
+Oaxaca,San Andrés Cabecera Nueva,20088,20,88,823,2010
+Oaxaca,San Andrés Dinicuiti,20089,20,89,571,2010
+Oaxaca,San Andrés Huaxpaltepec,20090,20,90,2168,2010
+Oaxaca,San Andrés Huayápam,20091,20,91,2314,2010
+Oaxaca,San Andrés Ixtlahuaca,20092,20,92,548,2010
+Oaxaca,San Andrés Lagunas,20093,20,93,157,2010
+Oaxaca,San Andrés Nuxiño,20094,20,94,354,2010
+Oaxaca,San Andrés Paxtlán,20095,20,95,1341,2010
+Oaxaca,San Andrés Sinaxtla,20096,20,96,301,2010
+Oaxaca,San Andrés Solaga,20097,20,97,563,2010
+Oaxaca,San Andrés Teotilálpam,20098,20,98,1126,2010
+Oaxaca,San Andrés Tepetlapa,20099,20,99,49,2010
+Oaxaca,San Andrés Yaá,20100,20,100,193,2010
+Oaxaca,San Andrés Zabache,20101,20,101,204,2010
+Oaxaca,San Andrés Zautla,20102,20,102,1778,2010
+Oaxaca,San Antonino Castillo Velasco,20103,20,103,2441,2010
+Oaxaca,San Antonino el Alto,20104,20,104,616,2010
+Oaxaca,San Antonino Monte Verde,20105,20,105,1602,2010
+Oaxaca,San Antonio Acutla,20106,20,106,107,2010
+Oaxaca,San Antonio de la Cal,20107,20,107,9117,2010
+Oaxaca,San Antonio Huitepec,20108,20,108,846,2010
+Oaxaca,San Antonio Nanahuatípam,20109,20,109,413,2010
+Oaxaca,San Antonio Sinicahua,20110,20,110,464,2010
+Oaxaca,San Antonio Tepetlapa,20111,20,111,1150,2010
+Oaxaca,San Baltazar Chichicápam,20112,20,112,865,2010
+Oaxaca,San Baltazar Loxicha,20113,20,113,798,2010
+Oaxaca,San Baltazar Yatzachi el Bajo,20114,20,114,242,2010
+Oaxaca,San Bartolo Coyotepec,20115,20,115,3762,2010
+Oaxaca,San Bartolomé Ayautla,20116,20,116,963,2010
+Oaxaca,San Bartolomé Loxicha,20117,20,117,614,2010
+Oaxaca,San Bartolomé Quialana,20118,20,118,734,2010
+Oaxaca,San Bartolomé Yucuañe,20119,20,119,121,2010
+Oaxaca,San Bartolomé Zoogocho,20120,20,120,154,2010
+Oaxaca,San Bartolo Soyaltepec,20121,20,121,200,2010
+Oaxaca,San Bartolo Yautepec,20122,20,122,271,2010
+Oaxaca,San Bernardo Mixtepec,20123,20,123,778,2010
+Oaxaca,San Blas Atempa,20124,20,124,7602,2010
+Oaxaca,San Carlos Yautepec,20125,20,125,4077,2010
+Oaxaca,San Cristóbal Amatlán,20126,20,126,1481,2010
+Oaxaca,San Cristóbal Amoltepec,20127,20,127,276,2010
+Oaxaca,San Cristóbal Lachirioag,20128,20,128,422,2010
+Oaxaca,San Cristóbal Suchixtlahuaca,20129,20,129,148,2010
+Oaxaca,San Dionisio del Mar,20130,20,130,1739,2010
+Oaxaca,San Dionisio Ocotepec,20131,20,131,3380,2010
+Oaxaca,San Dionisio Ocotlán,20132,20,132,435,2010
+Oaxaca,San Esteban Atatlahuca,20133,20,133,1276,2010
+Oaxaca,San Felipe Jalapa de Díaz,20134,20,134,7628,2010
+Oaxaca,San Felipe Tejalápam,20135,20,135,2533,2010
+Oaxaca,San Felipe Usila,20136,20,136,3200,2010
+Oaxaca,San Francisco Cahuacuá,20137,20,137,968,2010
+Oaxaca,San Francisco Cajonos,20138,20,138,173,2010
+Oaxaca,San Francisco Chapulapa,20139,20,139,557,2010
+Oaxaca,San Francisco Chindúa,20140,20,140,297,2010
+Oaxaca,San Francisco del Mar,20141,20,141,2273,2010
+Oaxaca,San Francisco Huehuetlán,20142,20,142,356,2010
+Oaxaca,San Francisco Ixhuatán,20143,20,143,2977,2010
+Oaxaca,San Francisco Jaltepetongo,20144,20,144,456,2010
+Oaxaca,San Francisco Lachigoló,20145,20,145,1337,2010
+Oaxaca,San Francisco Logueche,20146,20,146,720,2010
+Oaxaca,San Francisco Nuxaño,20147,20,147,128,2010
+Oaxaca,San Francisco Ozolotepec,20148,20,148,598,2010
+Oaxaca,San Francisco Sola,20149,20,149,501,2010
+Oaxaca,San Francisco Telixtlahuaca,20150,20,150,4349,2010
+Oaxaca,San Francisco Teopan,20151,20,151,169,2010
+Oaxaca,San Francisco Tlapancingo,20152,20,152,332,2010
+Oaxaca,San Gabriel Mixtepec,20153,20,153,1527,2010
+Oaxaca,San Ildefonso Amatlán,20154,20,154,725,2010
+Oaxaca,San Ildefonso Sola,20155,20,155,300,2010
+Oaxaca,San Ildefonso Villa Alta,20156,20,156,1256,2010
+Oaxaca,San Jacinto Amilpas,20157,20,157,5577,2010
+Oaxaca,San Jacinto Tlacotepec,20158,20,158,472,2010
+Oaxaca,San Jerónimo Coatlán,20159,20,159,1436,2010
+Oaxaca,San Jerónimo Silacayoapilla,20160,20,160,527,2010
+Oaxaca,San Jerónimo Sosola,20161,20,161,1065,2010
+Oaxaca,San Jerónimo Taviche,20162,20,162,524,2010
+Oaxaca,San Jerónimo Tecóatl,20163,20,163,503,2010
+Oaxaca,San Jorge Nuchita,20164,20,164,707,2010
+Oaxaca,San José Ayuquila,20165,20,165,370,2010
+Oaxaca,San José Chiltepec,20166,20,166,3743,2010
+Oaxaca,San José del Peñasco,20167,20,167,825,2010
+Oaxaca,San José Estancia Grande,20168,20,168,283,2010
+Oaxaca,San José Independencia,20169,20,169,927,2010
+Oaxaca,San José Lachiguiri,20170,20,170,444,2010
+Oaxaca,San José Tenango,20171,20,171,5100,2010
+Oaxaca,San Juan Achiutla,20172,20,172,110,2010
+Oaxaca,San Juan Atepec,20173,20,173,345,2010
+Oaxaca,Ánimas Trujano,20174,20,174,1513,2010
+Oaxaca,San Juan Bautista Atatlahuca,20175,20,175,436,2010
+Oaxaca,San Juan Bautista Coixtlahuaca,20176,20,176,680,2010
+Oaxaca,San Juan Bautista Cuicatlán,20177,20,177,3312,2010
+Oaxaca,San Juan Bautista Guelache,20178,20,178,2663,2010
+Oaxaca,San Juan Bautista Jayacatlán,20179,20,179,540,2010
+Oaxaca,San Juan Bautista Lo de Soto,20180,20,180,717,2010
+Oaxaca,San Juan Bautista Suchitepec,20181,20,181,149,2010
+Oaxaca,San Juan Bautista Tlacoatzintepec,20182,20,182,464,2010
+Oaxaca,San Juan Bautista Tlachichilco,20183,20,183,267,2010
+Oaxaca,San Juan Bautista Tuxtepec,20184,20,184,62313,2010
+Oaxaca,San Juan Cacahuatepec,20185,20,185,2710,2010
+Oaxaca,San Juan Cieneguilla,20186,20,186,180,2010
+Oaxaca,San Juan Coatzóspam,20187,20,187,856,2010
+Oaxaca,San Juan Colorado,20188,20,188,2502,2010
+Oaxaca,San Juan Comaltepec,20189,20,189,580,2010
+Oaxaca,San Juan Cotzocón,20190,20,190,7700,2010
+Oaxaca,San Juan Chicomezúchil,20191,20,191,137,2010
+Oaxaca,San Juan Chilateca,20192,20,192,628,2010
+Oaxaca,San Juan del Estado,20193,20,193,800,2010
+Oaxaca,San Juan del Río,20194,20,194,535,2010
+Oaxaca,San Juan Diuxi,20195,20,195,421,2010
+Oaxaca,San Juan Evangelista Analco,20196,20,196,106,2010
+Oaxaca,San Juan Guelavía,20197,20,197,1255,2010
+Oaxaca,San Juan Guichicovi,20198,20,198,9949,2010
+Oaxaca,San Juan Ihualtepec,20199,20,199,178,2010
+Oaxaca,San Juan Juquila Mixes,20200,20,200,1052,2010
+Oaxaca,San Juan Juquila Vijanos,20201,20,201,488,2010
+Oaxaca,San Juan Lachao,20202,20,202,1269,2010
+Oaxaca,San Juan Lachigalla,20203,20,203,864,2010
+Oaxaca,San Juan Lajarcia,20204,20,204,329,2010
+Oaxaca,San Juan Lalana,20205,20,205,4863,2010
+Oaxaca,San Juan de los Cués,20206,20,206,860,2010
+Oaxaca,San Juan Mazatlán,20207,20,207,4877,2010
+Oaxaca,San Juan Mixtepec,20208,20,208,2550,2010
+Oaxaca,San Juan Mixtepec.,20209,20,209,243,2010
+Oaxaca,San Juan Ñumí,20210,20,210,1895,2010
+Oaxaca,San Juan Ozolotepec,20211,20,211,875,2010
+Oaxaca,San Juan Petlapa,20212,20,212,699,2010
+Oaxaca,San Juan Quiahije,20213,20,213,860,2010
+Oaxaca,San Juan Quiotepec,20214,20,214,628,2010
+Oaxaca,San Juan Sayultepec,20215,20,215,315,2010
+Oaxaca,San Juan Tabaá,20216,20,216,426,2010
+Oaxaca,San Juan Tamazola,20217,20,217,815,2010
+Oaxaca,San Juan Teita,20218,20,218,180,2010
+Oaxaca,San Juan Teitipac,20219,20,219,1054,2010
+Oaxaca,San Juan Tepeuxila,20220,20,220,894,2010
+Oaxaca,San Juan Teposcolula,20221,20,221,463,2010
+Oaxaca,San Juan Yaeé,20222,20,222,552,2010
+Oaxaca,San Juan Yatzona,20223,20,223,129,2010
+Oaxaca,San Juan Yucuita,20224,20,224,252,2010
+Oaxaca,San Lorenzo,20225,20,225,1888,2010
+Oaxaca,San Lorenzo Albarradas,20226,20,226,1064,2010
+Oaxaca,San Lorenzo Cacaotepec,20227,20,227,5542,2010
+Oaxaca,San Lorenzo Cuaunecuiltitla,20228,20,228,191,2010
+Oaxaca,San Lorenzo Texmelúcan,20229,20,229,1214,2010
+Oaxaca,San Lorenzo Victoria,20230,20,230,239,2010
+Oaxaca,San Lucas Camotlán,20231,20,231,673,2010
+Oaxaca,San Lucas Ojitlán,20232,20,232,7551,2010
+Oaxaca,San Lucas Quiaviní,20233,20,233,496,2010
+Oaxaca,San Lucas Zoquiápam,20234,20,234,2224,2010
+Oaxaca,San Luis Amatlán,20235,20,235,1535,2010
+Oaxaca,San Marcial Ozolotepec,20236,20,236,363,2010
+Oaxaca,San Marcos Arteaga,20237,20,237,480,2010
+Oaxaca,San Martín de los Cansecos,20238,20,238,265,2010
+Oaxaca,San Martín Huamelúlpam,20239,20,239,421,2010
+Oaxaca,San Martín Itunyoso,20240,20,240,570,2010
+Oaxaca,San Martín Lachilá,20241,20,241,222,2010
+Oaxaca,San Martín Peras,20242,20,242,2264,2010
+Oaxaca,San Martín Tilcajete,20243,20,243,578,2010
+Oaxaca,San Martín Toxpalan,20244,20,244,1144,2010
+Oaxaca,San Martín Zacatepec,20245,20,245,305,2010
+Oaxaca,San Mateo Cajonos,20246,20,246,203,2010
+Oaxaca,Capulálpam de Méndez,20247,20,247,509,2010
+Oaxaca,San Mateo del Mar,20248,20,248,4343,2010
+Oaxaca,San Mateo Yoloxochitlán,20249,20,249,936,2010
+Oaxaca,San Mateo Etlatongo,20250,20,250,442,2010
+Oaxaca,San Mateo Nejápam,20251,20,251,340,2010
+Oaxaca,San Mateo Peñasco,20252,20,252,482,2010
+Oaxaca,San Mateo Piñas,20253,20,253,748,2010
+Oaxaca,San Mateo Río Hondo,20254,20,254,1148,2010
+Oaxaca,San Mateo Sindihui,20255,20,255,266,2010
+Oaxaca,San Mateo Tlapiltepec,20256,20,256,65,2010
+Oaxaca,San Melchor Betaza,20257,20,257,300,2010
+Oaxaca,San Miguel Achiutla,20258,20,258,84,2010
+Oaxaca,San Miguel Ahuehuetitlán,20259,20,259,501,2010
+Oaxaca,San Miguel Aloápam,20260,20,260,673,2010
+Oaxaca,San Miguel Amatitlán,20261,20,261,1901,2010
+Oaxaca,San Miguel Amatlán,20262,20,262,410,2010
+Oaxaca,San Miguel Coatlán,20263,20,263,1125,2010
+Oaxaca,San Miguel Chicahua,20264,20,264,367,2010
+Oaxaca,San Miguel Chimalapa,20265,20,265,2083,2010
+Oaxaca,San Miguel del Puerto,20266,20,266,2716,2010
+Oaxaca,San Miguel del Río,20267,20,267,55,2010
+Oaxaca,San Miguel Ejutla,20268,20,268,322,2010
+Oaxaca,San Miguel el Grande,20269,20,269,1376,2010
+Oaxaca,San Miguel Huautla,20270,20,270,612,2010
+Oaxaca,San Miguel Mixtepec,20271,20,271,849,2010
+Oaxaca,San Miguel Panixtlahuaca,20272,20,272,1280,2010
+Oaxaca,San Miguel Peras,20273,20,273,883,2010
+Oaxaca,San Miguel Piedras,20274,20,274,318,2010
+Oaxaca,San Miguel Quetzaltepec,20275,20,275,2200,2010
+Oaxaca,San Miguel Santa Flor,20276,20,276,211,2010
+Oaxaca,Villa Sola de Vega,20277,20,277,3903,2010
+Oaxaca,San Miguel Soyaltepec,20278,20,278,11075,2010
+Oaxaca,San Miguel Suchixtepec,20279,20,279,1010,2010
+Oaxaca,Villa Talea de Castro,20280,20,280,829,2010
+Oaxaca,San Miguel Tecomatlán,20281,20,281,111,2010
+Oaxaca,San Miguel Tenango,20282,20,282,282,2010
+Oaxaca,San Miguel Tequixtepec,20283,20,283,407,2010
+Oaxaca,San Miguel Tilquiápam,20284,20,284,816,2010
+Oaxaca,San Miguel Tlacamama,20285,20,285,1218,2010
+Oaxaca,San Miguel Tlacotepec,20286,20,286,1195,2010
+Oaxaca,San Miguel Tulancingo,20287,20,287,110,2010
+Oaxaca,San Miguel Yotao,20288,20,288,145,2010
+Oaxaca,San Nicolás,20289,20,289,330,2010
+Oaxaca,San Nicolás Hidalgo,20290,20,290,263,2010
+Oaxaca,San Pablo Coatlán,20291,20,291,1144,2010
+Oaxaca,San Pablo Cuatro Venados,20292,20,292,282,2010
+Oaxaca,San Pablo Etla,20293,20,293,6995,2010
+Oaxaca,San Pablo Huitzo,20294,20,294,2534,2010
+Oaxaca,San Pablo Huixtepec,20295,20,295,3523,2010
+Oaxaca,San Pablo Macuiltianguis,20296,20,296,258,2010
+Oaxaca,San Pablo Tijaltepec,20297,20,297,604,2010
+Oaxaca,San Pablo Villa de Mitla,20298,20,298,5338,2010
+Oaxaca,San Pablo Yaganiza,20299,20,299,544,2010
+Oaxaca,San Pedro Amuzgos,20300,20,300,1825,2010
+Oaxaca,San Pedro Apóstol,20301,20,301,551,2010
+Oaxaca,San Pedro Atoyac,20302,20,302,1078,2010
+Oaxaca,San Pedro Cajonos,20303,20,303,440,2010
+Oaxaca,San Pedro Coxcaltepec Cántaros,20304,20,304,307,2010
+Oaxaca,San Pedro Comitancillo,20305,20,305,1511,2010
+Oaxaca,San Pedro el Alto,20306,20,306,1020,2010
+Oaxaca,San Pedro Huamelula,20307,20,307,3084,2010
+Oaxaca,San Pedro Huilotepec,20308,20,308,821,2010
+Oaxaca,San Pedro Ixcatlán,20309,20,309,2992,2010
+Oaxaca,San Pedro Ixtlahuaca,20310,20,310,2616,2010
+Oaxaca,San Pedro Jaltepetongo,20311,20,311,92,2010
+Oaxaca,San Pedro Jicayán,20312,20,312,3156,2010
+Oaxaca,San Pedro Jocotipac,20313,20,313,250,2010
+Oaxaca,San Pedro Juchatengo,20314,20,314,707,2010
+Oaxaca,San Pedro Mártir,20315,20,315,558,2010
+Oaxaca,San Pedro Mártir Quiechapa,20316,20,316,103,2010
+Oaxaca,San Pedro Mártir Yucuxaco,20317,20,317,374,2010
+Oaxaca,San Pedro Mixtepec,20318,20,318,18139,2010
+Oaxaca,San Pedro Mixtepec,20319,20,319,351,2010
+Oaxaca,San Pedro Molinos,20320,20,320,120,2010
+Oaxaca,San Pedro Nopala,20321,20,321,307,2010
+Oaxaca,San Pedro Ocopetatillo,20322,20,322,273,2010
+Oaxaca,San Pedro Ocotepec,20323,20,323,365,2010
+Oaxaca,San Pedro Pochutla,20324,20,324,16486,2010
+Oaxaca,San Pedro Quiatoni,20325,20,325,3626,2010
+Oaxaca,San Pedro Sochiápam,20326,20,326,1172,2010
+Oaxaca,San Pedro Tapanatepec,20327,20,327,5269,2010
+Oaxaca,San Pedro Taviche,20328,20,328,426,2010
+Oaxaca,San Pedro Teozacoalco,20329,20,329,411,2010
+Oaxaca,San Pedro Teutila,20330,20,330,1197,2010
+Oaxaca,San Pedro Tidaá,20331,20,331,457,2010
+Oaxaca,San Pedro Topiltepec,20332,20,332,117,2010
+Oaxaca,San Pedro Totolápam,20333,20,333,916,2010
+Oaxaca,Villa de Tututepec,20334,20,334,17235,2010
+Oaxaca,San Pedro Yaneri,20335,20,335,274,2010
+Oaxaca,San Pedro Yólox,20336,20,336,646,2010
+Oaxaca,San Pedro y San Pablo Ayutla,20337,20,337,2054,2010
+Oaxaca,Villa de Etla,20338,20,338,4325,2010
+Oaxaca,San Pedro y San Pablo Teposcolula,20339,20,339,1577,2010
+Oaxaca,San Pedro y San Pablo Tequixtepec,20340,20,340,583,2010
+Oaxaca,San Pedro Yucunama,20341,20,341,57,2010
+Oaxaca,San Raymundo Jalpan,20342,20,342,769,2010
+Oaxaca,San Sebastián Abasolo,20343,20,343,711,2010
+Oaxaca,San Sebastián Coatlán,20344,20,344,835,2010
+Oaxaca,San Sebastián Ixcapa,20345,20,345,1193,2010
+Oaxaca,San Sebastián Nicananduta,20346,20,346,240,2010
+Oaxaca,San Sebastián Río Hondo,20347,20,347,1094,2010
+Oaxaca,San Sebastián Tecomaxtlahuaca,20348,20,348,2824,2010
+Oaxaca,San Sebastián Teitipac,20349,20,349,386,2010
+Oaxaca,San Sebastián Tutla,20350,20,350,7906,2010
+Oaxaca,San Simón Almolongas,20351,20,351,910,2010
+Oaxaca,San Simón Zahuatlán,20352,20,352,391,2010
+Oaxaca,Santa Ana,20353,20,353,351,2010
+Oaxaca,Santa Ana Ateixtlahuaca,20354,20,354,147,2010
+Oaxaca,Santa Ana Cuauhtémoc,20355,20,355,233,2010
+Oaxaca,Santa Ana del Valle,20356,20,356,602,2010
+Oaxaca,Santa Ana Tavela,20357,20,357,317,2010
+Oaxaca,Santa Ana Tlapacoyan,20358,20,358,765,2010
+Oaxaca,Santa Ana Yareni,20359,20,359,73,2010
+Oaxaca,Santa Ana Zegache,20360,20,360,1083,2010
+Oaxaca,Santa Catalina Quierí,20361,20,361,122,2010
+Oaxaca,Santa Catarina Cuixtla,20362,20,362,560,2010
+Oaxaca,Santa Catarina Ixtepeji,20363,20,363,1137,2010
+Oaxaca,Santa Catarina Juquila,20364,20,364,5203,2010
+Oaxaca,Santa Catarina Lachatao,20365,20,365,520,2010
+Oaxaca,Santa Catarina Loxicha,20366,20,366,988,2010
+Oaxaca,Santa Catarina Mechoacán,20367,20,367,1524,2010
+Oaxaca,Santa Catarina Minas,20368,20,368,617,2010
+Oaxaca,Santa Catarina Quiané,20369,20,369,632,2010
+Oaxaca,Santa Catarina Tayata,20370,20,370,268,2010
+Oaxaca,Santa Catarina Ticuá,20371,20,371,373,2010
+Oaxaca,Santa Catarina Yosonotú,20372,20,372,692,2010
+Oaxaca,Santa Catarina Zapoquila,20373,20,373,193,2010
+Oaxaca,Santa Cruz Acatepec,20374,20,374,392,2010
+Oaxaca,Santa Cruz Amilpas,20375,20,375,4420,2010
+Oaxaca,Santa Cruz de Bravo,20376,20,376,86,2010
+Oaxaca,Santa Cruz Itundujia,20377,20,377,2906,2010
+Oaxaca,Santa Cruz Mixtepec,20378,20,378,1275,2010
+Oaxaca,Santa Cruz Nundaco,20379,20,379,902,2010
+Oaxaca,Santa Cruz Papalutla,20380,20,380,786,2010
+Oaxaca,Santa Cruz Tacache de Mina,20381,20,381,650,2010
+Oaxaca,Santa Cruz Tacahua,20382,20,382,267,2010
+Oaxaca,Santa Cruz Tayata,20383,20,383,193,2010
+Oaxaca,Santa Cruz Xitla,20384,20,384,1508,2010
+Oaxaca,Santa Cruz Xoxocotlán,20385,20,385,32968,2010
+Oaxaca,Santa Cruz Zenzontepec,20386,20,386,3175,2010
+Oaxaca,Santa Gertrudis,20387,20,387,960,2010
+Oaxaca,Santa Inés del Monte,20388,20,388,703,2010
+Oaxaca,Santa Inés Yatzeche,20389,20,389,340,2010
+Oaxaca,Santa Lucía del Camino,20390,20,390,22192,2010
+Oaxaca,Santa Lucía Miahuatlán,20391,20,391,1300,2010
+Oaxaca,Santa Lucía Monteverde,20392,20,392,1462,2010
+Oaxaca,Santa Lucía Ocotlán,20393,20,393,884,2010
+Oaxaca,Santa María Alotepec,20394,20,394,728,2010
+Oaxaca,Santa María Apazco,20395,20,395,747,2010
+Oaxaca,Santa María la Asunción,20396,20,396,880,2010
+Oaxaca,Heroica Ciudad de Tlaxiaco,20397,20,397,14045,2010
+Oaxaca,Ayoquezco de Aldama,20398,20,398,1658,2010
+Oaxaca,Santa María Atzompa,20399,20,399,12058,2010
+Oaxaca,Santa María Camotlán,20400,20,400,670,2010
+Oaxaca,Santa María Colotepec,20401,20,401,8250,2010
+Oaxaca,Santa María Cortijo,20402,20,402,319,2010
+Oaxaca,Santa María Coyotepec,20403,20,403,1115,2010
+Oaxaca,Santa María Chachoápam,20404,20,404,278,2010
+Oaxaca,Villa de Chilapa de Díaz,20405,20,405,577,2010
+Oaxaca,Santa María Chilchotla,20406,20,406,5809,2010
+Oaxaca,Santa María Chimalapa,20407,20,407,2188,2010
+Oaxaca,Santa María del Rosario,20408,20,408,218,2010
+Oaxaca,Santa María del Tule,20409,20,409,3843,2010
+Oaxaca,Santa María Ecatepec,20410,20,410,1022,2010
+Oaxaca,Santa María Guelacé,20411,20,411,361,2010
+Oaxaca,Santa María Guienagati,20412,20,412,881,2010
+Oaxaca,Santa María Huatulco,20413,20,413,16144,2010
+Oaxaca,Santa María Huazolotitlán,20414,20,414,4501,2010
+Oaxaca,Santa María Ipalapa,20415,20,415,1169,2010
+Oaxaca,Santa María Ixcatlán,20416,20,416,261,2010
+Oaxaca,Santa María Jacatepec,20417,20,417,2705,2010
+Oaxaca,Santa María Jalapa del Marqués,20418,20,418,4401,2010
+Oaxaca,Santa María Jaltianguis,20419,20,419,221,2010
+Oaxaca,Santa María Lachixío,20420,20,420,716,2010
+Oaxaca,Santa María Mixtequilla,20421,20,421,1543,2010
+Oaxaca,Santa María Nativitas,20422,20,422,194,2010
+Oaxaca,Santa María Nduayaco,20423,20,423,224,2010
+Oaxaca,Santa María Ozolotepec,20424,20,424,1024,2010
+Oaxaca,Santa María Pápalo,20425,20,425,480,2010
+Oaxaca,Santa María Peñoles,20426,20,426,1117,2010
+Oaxaca,Santa María Petapa,20427,20,427,5797,2010
+Oaxaca,Santa María Quiegolani,20428,20,428,535,2010
+Oaxaca,Santa María Sola,20429,20,429,357,2010
+Oaxaca,Santa María Tataltepec,20430,20,430,96,2010
+Oaxaca,Santa María Tecomavaca,20431,20,431,529,2010
+Oaxaca,Santa María Temaxcalapa,20432,20,432,394,2010
+Oaxaca,Santa María Temaxcaltepec,20433,20,433,605,2010
+Oaxaca,Santa María Teopoxco,20434,20,434,1043,2010
+Oaxaca,Santa María Tepantlali,20435,20,435,1278,2010
+Oaxaca,Santa María Texcatitlán,20436,20,436,434,2010
+Oaxaca,Santa María Tlahuitoltepec,20437,20,437,3549,2010
+Oaxaca,Santa María Tlalixtac,20438,20,438,523,2010
+Oaxaca,Santa María Tonameca,20439,20,439,7397,2010
+Oaxaca,Santa María Totolapilla,20440,20,440,250,2010
+Oaxaca,Santa María Xadani,20441,20,441,3214,2010
+Oaxaca,Santa María Yalina,20442,20,442,115,2010
+Oaxaca,Santa María Yavesía,20443,20,443,200,2010
+Oaxaca,Santa María Yolotepec,20444,20,444,82,2010
+Oaxaca,Santa María Yosoyúa,20445,20,445,72,2010
+Oaxaca,Santa María Yucuhiti,20446,20,446,1902,2010
+Oaxaca,Santa María Zacatepec,20447,20,447,4292,2010
+Oaxaca,Santa María Zaniza,20448,20,448,448,2010
+Oaxaca,Santa María Zoquitlán,20449,20,449,1090,2010
+Oaxaca,Santiago Amoltepec,20450,20,450,2785,2010
+Oaxaca,Santiago Apoala,20451,20,451,415,2010
+Oaxaca,Santiago Apóstol,20452,20,452,1617,2010
+Oaxaca,Santiago Astata,20453,20,453,1284,2010
+Oaxaca,Santiago Atitlán,20454,20,454,831,2010
+Oaxaca,Santiago Ayuquililla,20455,20,455,661,2010
+Oaxaca,Santiago Cacaloxtepec,20456,20,456,515,2010
+Oaxaca,Santiago Camotlán,20457,20,457,928,2010
+Oaxaca,Santiago Comaltepec,20458,20,458,310,2010
+Oaxaca,Villa de Santiago Chazumba,20459,20,459,1533,2010
+Oaxaca,Santiago Choápam,20460,20,460,1578,2010
+Oaxaca,Santiago del Río,20461,20,461,250,2010
+Oaxaca,Santiago Huajolotitlán,20462,20,462,1856,2010
+Oaxaca,Santiago Huauclilla,20463,20,463,222,2010
+Oaxaca,Santiago Ihuitlán Plumas,20464,20,464,169,2010
+Oaxaca,Santiago Ixcuintepec,20465,20,465,400,2010
+Oaxaca,Santiago Ixtayutla,20466,20,466,2881,2010
+Oaxaca,Santiago Jamiltepec,20467,20,467,6253,2010
+Oaxaca,Santiago Jocotepec,20468,20,468,3402,2010
+Oaxaca,Santiago Juxtlahuaca,20469,20,469,9655,2010
+Oaxaca,Santiago Lachiguiri,20470,20,470,1633,2010
+Oaxaca,Santiago Lalopa,20471,20,471,154,2010
+Oaxaca,Santiago Laollaga,20472,20,472,1232,2010
+Oaxaca,Santiago Laxopa,20473,20,473,631,2010
+Oaxaca,Santiago Llano Grande,20474,20,474,1119,2010
+Oaxaca,Santiago Matatlán,20475,20,475,2799,2010
+Oaxaca,Santiago Miltepec,20476,20,476,170,2010
+Oaxaca,Santiago Minas,20477,20,477,380,2010
+Oaxaca,Santiago Nacaltepec,20478,20,478,604,2010
+Oaxaca,Santiago Nejapilla,20479,20,479,93,2010
+Oaxaca,Santiago Nundiche,20480,20,480,414,2010
+Oaxaca,Santiago Nuyoó,20481,20,481,572,2010
+Oaxaca,Santiago Pinotepa Nacional,20482,20,482,19356,2010
+Oaxaca,Santiago Suchilquitongo,20483,20,483,3624,2010
+Oaxaca,Santiago Tamazola,20484,20,484,898,2010
+Oaxaca,Santiago Tapextla,20485,20,485,834,2010
+Oaxaca,Villa Tejúpam de la Unión,20486,20,486,890,2010
+Oaxaca,Santiago Tenango,20487,20,487,747,2010
+Oaxaca,Santiago Tepetlapa,20488,20,488,46,2010
+Oaxaca,Santiago Tetepec,20489,20,489,1307,2010
+Oaxaca,Santiago Texcalcingo,20490,20,490,798,2010
+Oaxaca,Santiago Textitlán,20491,20,491,973,2010
+Oaxaca,Santiago Tilantongo,20492,20,492,971,2010
+Oaxaca,Santiago Tillo,20493,20,493,210,2010
+Oaxaca,Santiago Tlazoyaltepec,20494,20,494,1185,2010
+Oaxaca,Santiago Xanica,20495,20,495,821,2010
+Oaxaca,Santiago Xiacuí,20496,20,496,750,2010
+Oaxaca,Santiago Yaitepec,20497,20,497,1040,2010
+Oaxaca,Santiago Yaveo,20498,20,498,2167,2010
+Oaxaca,Santiago Yolomécatl,20499,20,499,784,2010
+Oaxaca,Santiago Yosondúa,20500,20,500,2641,2010
+Oaxaca,Santiago Yucuyachi,20501,20,501,234,2010
+Oaxaca,Santiago Zacatepec,20502,20,502,1518,2010
+Oaxaca,Santiago Zoochila,20503,20,503,104,2010
+Oaxaca,Nuevo Zoquiápam,20504,20,504,600,2010
+Oaxaca,Santo Domingo Ingenio,20505,20,505,2807,2010
+Oaxaca,Santo Domingo Albarradas,20506,20,506,224,2010
+Oaxaca,Santo Domingo Armenta,20507,20,507,874,2010
+Oaxaca,Santo Domingo Chihuitán,20508,20,508,601,2010
+Oaxaca,Santo Domingo de Morelos,20509,20,509,2393,2010
+Oaxaca,Santo Domingo Ixcatlán,20510,20,510,247,2010
+Oaxaca,Santo Domingo Nuxaá,20511,20,511,651,2010
+Oaxaca,Santo Domingo Ozolotepec,20512,20,512,223,2010
+Oaxaca,Santo Domingo Petapa,20513,20,513,2752,2010
+Oaxaca,Santo Domingo Roayaga,20514,20,514,292,2010
+Oaxaca,Santo Domingo Tehuantepec,20515,20,515,23681,2010
+Oaxaca,Santo Domingo Teojomulco,20516,20,516,1090,2010
+Oaxaca,Santo Domingo Tepuxtepec,20517,20,517,1318,2010
+Oaxaca,Santo Domingo Tlatayápam,20518,20,518,42,2010
+Oaxaca,Santo Domingo Tomaltepec,20519,20,519,1251,2010
+Oaxaca,Santo Domingo Tonalá,20520,20,520,2305,2010
+Oaxaca,Santo Domingo Tonaltepec,20521,20,521,161,2010
+Oaxaca,Santo Domingo Xagacía,20522,20,522,418,2010
+Oaxaca,Santo Domingo Yanhuitlán,20523,20,523,687,2010
+Oaxaca,Santo Domingo Yodohino,20524,20,524,189,2010
+Oaxaca,Santo Domingo Zanatepec,20525,20,525,4019,2010
+Oaxaca,Santos Reyes Nopala,20526,20,526,4854,2010
+Oaxaca,Santos Reyes Pápalo,20527,20,527,702,2010
+Oaxaca,Santos Reyes Tepejillo,20528,20,528,376,2010
+Oaxaca,Santos Reyes Yucuná,20529,20,529,152,2010
+Oaxaca,Santo Tomás Jalieza,20530,20,530,1357,2010
+Oaxaca,Santo Tomás Mazaltepec,20531,20,531,894,2010
+Oaxaca,Santo Tomás Ocotepec,20532,20,532,1415,2010
+Oaxaca,Santo Tomás Tamazulapan,20533,20,533,772,2010
+Oaxaca,San Vicente Coatlán,20534,20,534,1608,2010
+Oaxaca,San Vicente Lachixío,20535,20,535,944,2010
+Oaxaca,San Vicente Nuñú,20536,20,536,196,2010
+Oaxaca,Silacayoápam,20537,20,537,2189,2010
+Oaxaca,Sitio de Xitlapehua,20538,20,538,166,2010
+Oaxaca,Soledad Etla,20539,20,539,2225,2010
+Oaxaca,Villa de Tamazulápam del Progreso,20540,20,540,2798,2010
+Oaxaca,Tanetze de Zaragoza,20541,20,541,557,2010
+Oaxaca,Taniche,20542,20,542,221,2010
+Oaxaca,Tataltepec de Valdés,20543,20,543,1538,2010
+Oaxaca,Teococuilco de Marcos Pérez,20544,20,544,276,2010
+Oaxaca,Teotitlán de Flores Magón,20545,20,545,3122,2010
+Oaxaca,Teotitlán del Valle,20546,20,546,2195,2010
+Oaxaca,Teotongo,20547,20,547,395,2010
+Oaxaca,Tepelmeme Villa de Morelos,20548,20,548,692,2010
+Oaxaca,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de ",20549,20,549,3558,2010
+Oaxaca,San Jerónimo Tlacochahuaya,20550,20,550,1950,2010
+Oaxaca,Tlacolula de Matamoros,20551,20,551,8467,2010
+Oaxaca,Tlacotepec Plumas,20552,20,552,132,2010
+Oaxaca,Tlalixtac de Cabrera,20553,20,553,4025,2010
+Oaxaca,Totontepec Villa de Morelos,20554,20,554,1478,2010
+Oaxaca,Trinidad Zaachila,20555,20,555,900,2010
+Oaxaca,La Trinidad Vista Hermosa,20556,20,556,91,2010
+Oaxaca,Unión Hidalgo,20557,20,557,4588,2010
+Oaxaca,Valerio Trujano,20558,20,558,480,2010
+Oaxaca,San Juan Bautista Valle Nacional,20559,20,559,7429,2010
+Oaxaca,Villa Díaz Ordaz,20560,20,560,2080,2010
+Oaxaca,Yaxe,20561,20,561,818,2010
+Oaxaca,Magdalena Yodocono de Porfirio Díaz,20562,20,562,538,2010
+Oaxaca,Yogana,20563,20,563,362,2010
+Oaxaca,Yutanduchi de Guerrero,20564,20,564,530,2010
+Oaxaca,Villa de Zaachila,20565,20,565,13701,2010
+Oaxaca,San Mateo Yucutindoo,20566,20,566,821,2010
+Oaxaca,Zapotitlán Lagunas,20567,20,567,815,2010
+Oaxaca,Zapotitlán Palmas,20568,20,568,626,2010
+Oaxaca,Santa Inés de Zaragoza,20569,20,569,749,2010
+Oaxaca,Zimatlán de Álvarez,20570,20,570,7462,2010
+Puebla,Total del estado Puebla,21000,21,0,2178686,2010
+Puebla,Acajete,21001,21,1,20279,2010
+Puebla,Acateno,21002,21,2,3216,2010
+Puebla,Acatlán,21003,21,3,12356,2010
+Puebla,Acatzingo,21004,21,4,17926,2010
+Puebla,Acteopan,21005,21,5,1471,2010
+Puebla,Ahuacatlán,21006,21,6,4764,2010
+Puebla,Ahuatlán,21007,21,7,996,2010
+Puebla,Ahuazotepec,21008,21,8,3564,2010
+Puebla,Ahuehuetitla,21009,21,9,477,2010
+Puebla,Ajalpan,21010,21,10,20708,2010
+Puebla,Albino Zertuche,21011,21,11,415,2010
+Puebla,Aljojuca,21012,21,12,2087,2010
+Puebla,Altepexi,21013,21,13,7831,2010
+Puebla,Amixtlán,21014,21,14,1397,2010
+Puebla,Amozoc,21015,21,15,37652,2010
+Puebla,Aquixtla,21016,21,16,2955,2010
+Puebla,Atempan,21017,21,17,8585,2010
+Puebla,Atexcal,21018,21,18,1281,2010
+Puebla,Atlixco,21019,21,19,50616,2010
+Puebla,Atoyatempan,21020,21,20,2229,2010
+Puebla,Atzala,21021,21,21,368,2010
+Puebla,Atzitzihuacán,21022,21,22,3709,2010
+Puebla,Atzitzintla,21023,21,23,2587,2010
+Puebla,Axutla,21024,21,24,276,2010
+Puebla,Ayotoxco de Guerrero,21025,21,25,2845,2010
+Puebla,Calpan,21026,21,26,4516,2010
+Puebla,Caltepec,21027,21,27,1358,2010
+Puebla,Camocuautla,21028,21,28,599,2010
+Puebla,Caxhuacan,21029,21,29,1241,2010
+Puebla,Coatepec,21030,21,30,152,2010
+Puebla,Coatzingo,21031,21,31,889,2010
+Puebla,Cohetzala,21032,21,32,391,2010
+Puebla,Cohuecan,21033,21,33,1673,2010
+Puebla,Coronango,21034,21,34,12279,2010
+Puebla,Coxcatlán,21035,21,35,6492,2010
+Puebla,Coyomeapan,21036,21,36,3778,2010
+Puebla,Coyotepec,21037,21,37,814,2010
+Puebla,Cuapiaxtla de Madero,21038,21,38,3153,2010
+Puebla,Cuautempan,21039,21,39,2998,2010
+Puebla,Cuautinchán,21040,21,40,3288,2010
+Puebla,Cuautlancingo,21041,21,41,32225,2010
+Puebla,Cuayuca de Andrade,21042,21,42,583,2010
+Puebla,Cuetzalan del Progreso,21043,21,43,16623,2010
+Puebla,Cuyoaco,21044,21,44,4907,2010
+Puebla,Chalchicomula de Sesma,21045,21,45,15908,2010
+Puebla,Chapulco,21046,21,46,2585,2010
+Puebla,Chiautla,21047,21,47,6542,2010
+Puebla,Chiautzingo,21048,21,48,7168,2010
+Puebla,Chiconcuautla,21049,21,49,5381,2010
+Puebla,Chichiquila,21050,21,50,6628,2010
+Puebla,Chietla,21051,21,51,11451,2010
+Puebla,Chigmecatitlán,21052,21,52,488,2010
+Puebla,Chignahuapan,21053,21,53,21160,2010
+Puebla,Chignautla,21054,21,54,11301,2010
+Puebla,Chila,21055,21,55,1302,2010
+Puebla,Chila de la Sal,21056,21,56,378,2010
+Puebla,Honey,21057,21,57,2442,2010
+Puebla,Chilchotla,21058,21,58,5623,2010
+Puebla,Chinantla,21059,21,59,803,2010
+Puebla,Domingo Arenas,21060,21,60,2278,2010
+Puebla,Eloxochitlán,21061,21,61,3331,2010
+Puebla,Epatlán,21062,21,62,1590,2010
+Puebla,Esperanza,21063,21,63,4683,2010
+Puebla,Francisco Z. Mena,21064,21,64,5236,2010
+Puebla,General Felipe Ángeles,21065,21,65,6862,2010
+Puebla,Guadalupe,21066,21,66,1702,2010
+Puebla,Guadalupe Victoria,21067,21,67,5600,2010
+Puebla,Hermenegildo Galeana,21068,21,68,2159,2010
+Puebla,Huaquechula,21069,21,69,8811,2010
+Puebla,Huatlatlauca,21070,21,70,2302,2010
+Puebla,Huauchinango,21071,21,71,35890,2010
+Puebla,Huehuetla,21072,21,72,4459,2010
+Puebla,Huehuetlán el Chico,21073,21,73,2872,2010
+Puebla,Huejotzingo,21074,21,74,24261,2010
+Puebla,Hueyapan,21075,21,75,3792,2010
+Puebla,Hueytamalco,21076,21,76,9515,2010
+Puebla,Hueytlalpan,21077,21,77,1706,2010
+Puebla,Huitzilan de Serdán,21078,21,78,4203,2010
+Puebla,Huitziltepec,21079,21,79,1736,2010
+Puebla,Atlequizayan,21080,21,80,730,2010
+Puebla,Ixcamilpa de Guerrero,21081,21,81,949,2010
+Puebla,Ixcaquixtla,21082,21,82,3006,2010
+Puebla,Ixtacamaxtitlán,21083,21,83,8302,2010
+Puebla,Ixtepec,21084,21,84,2096,2010
+Puebla,Izúcar de Matamoros,21085,21,85,27094,2010
+Puebla,Jalpan,21086,21,86,3969,2010
+Puebla,Jolalpan,21087,21,87,3786,2010
+Puebla,Jonotla,21088,21,88,1481,2010
+Puebla,Jopala,21089,21,89,3856,2010
+Puebla,Juan C. Bonilla,21090,21,90,6484,2010
+Puebla,Juan Galindo,21091,21,91,3502,2010
+Puebla,Juan N. Méndez,21092,21,92,1594,2010
+Puebla,Lafragua,21093,21,93,2399,2010
+Puebla,Libres,21094,21,94,10898,2010
+Puebla,La Magdalena Tlatlauquitepec,21095,21,95,131,2010
+Puebla,Mazapiltepec de Juárez,21096,21,96,770,2010
+Puebla,Mixtla,21097,21,97,761,2010
+Puebla,Molcaxac,21098,21,98,1975,2010
+Puebla,Cañada Morelos,21099,21,99,5772,2010
+Puebla,Naupan,21100,21,100,3308,2010
+Puebla,Nauzontla,21101,21,101,1233,2010
+Puebla,Nealtican,21102,21,102,4034,2010
+Puebla,Nicolás Bravo,21103,21,103,2200,2010
+Puebla,Nopalucan,21104,21,104,9205,2010
+Puebla,Ocotepec,21105,21,105,1579,2010
+Puebla,Ocoyucan,21106,21,106,8226,2010
+Puebla,Olintla,21107,21,107,3202,2010
+Puebla,Oriental,21108,21,108,5790,2010
+Puebla,Pahuatlán,21109,21,109,7275,2010
+Puebla,Palmar de Bravo,21110,21,110,14979,2010
+Puebla,Pantepec,21111,21,111,6230,2010
+Puebla,Petlalcingo,21112,21,112,2746,2010
+Puebla,Piaxtla,21113,21,113,1584,2010
+Puebla,Puebla,21114,21,114,652756,2010
+Puebla,Quecholac,21115,21,115,16043,2010
+Puebla,Quimixtlán,21116,21,116,6106,2010
+Puebla,Rafael Lara Grajales,21117,21,117,5114,2010
+Puebla,Los Reyes de Juárez,21118,21,118,9242,2010
+Puebla,San Andrés Cholula,21119,21,119,41829,2010
+Puebla,San Antonio Cañada,21120,21,120,1479,2010
+Puebla,San Diego la Mesa Tochimiltzingo,21121,21,121,332,2010
+Puebla,San Felipe Teotlalcingo,21122,21,122,3623,2010
+Puebla,San Felipe Tepatlán,21123,21,123,1198,2010
+Puebla,San Gabriel Chilac,21124,21,124,5676,2010
+Puebla,San Gregorio Atzompa,21125,21,125,3089,2010
+Puebla,San Jerónimo Tecuanipan,21126,21,126,2418,2010
+Puebla,San Jerónimo Xayacatlán,21127,21,127,1123,2010
+Puebla,San José Chiapa,21128,21,128,2809,2010
+Puebla,San José Miahuatlán,21129,21,129,4076,2010
+Puebla,San Juan Atenco,21130,21,130,1189,2010
+Puebla,San Juan Atzompa,21131,21,131,249,2010
+Puebla,San Martín Texmelucan,21132,21,132,57068,2010
+Puebla,San Martín Totoltepec,21133,21,133,203,2010
+Puebla,San Matías Tlalancaleca,21134,21,134,7658,2010
+Puebla,San Miguel Ixitlán,21135,21,135,204,2010
+Puebla,San Miguel Xoxtla,21136,21,136,4531,2010
+Puebla,San Nicolás Buenos Aires,21137,21,137,3077,2010
+Puebla,San Nicolás de los Ranchos,21138,21,138,3709,2010
+Puebla,San Pablo Anicano,21139,21,139,856,2010
+Puebla,San Pedro Cholula,21140,21,140,49383,2010
+Puebla,San Pedro Yeloixtlahuaca,21141,21,141,802,2010
+Puebla,San Salvador el Seco,21142,21,142,9848,2010
+Puebla,San Salvador el Verde,21143,21,143,10393,2010
+Puebla,San Salvador Huixcolotla,21144,21,144,5265,2010
+Puebla,San Sebastián Tlacotepec,21145,21,145,3909,2010
+Puebla,Santa Catarina Tlaltempan,21146,21,146,333,2010
+Puebla,Santa Inés Ahuatempan,21147,21,147,2015,2010
+Puebla,Santa Isabel Cholula,21148,21,148,3094,2010
+Puebla,Santiago Miahuatlán,21149,21,149,8820,2010
+Puebla,Huehuetlán el Grande,21150,21,150,2561,2010
+Puebla,Santo Tomás Hueyotlipan,21151,21,151,2844,2010
+Puebla,Soltepec,21152,21,152,3667,2010
+Puebla,Tecali de Herrera,21153,21,153,7500,2010
+Puebla,Tecamachalco,21154,21,154,25276,2010
+Puebla,Tecomatlán,21155,21,155,1765,2010
+Puebla,Tehuacán,21156,21,156,117434,2010
+Puebla,Tehuitzingo,21157,21,157,3169,2010
+Puebla,Tenampulco,21158,21,158,2245,2010
+Puebla,Teopantlán,21159,21,159,1331,2010
+Puebla,Teotlalco,21160,21,160,932,2010
+Puebla,Tepanco de López,21161,21,161,6542,2010
+Puebla,Tepango de Rodríguez,21162,21,162,1313,2010
+Puebla,Tepatlaxco de Hidalgo,21163,21,163,5727,2010
+Puebla,Tepeaca,21164,21,164,26884,2010
+Puebla,Tepemaxalco,21165,21,165,228,2010
+Puebla,Tepeojuma,21166,21,166,2616,2010
+Puebla,Tepetzintla,21167,21,167,3364,2010
+Puebla,Tepexco,21168,21,168,1927,2010
+Puebla,Tepexi de Rodríguez,21169,21,169,7444,2010
+Puebla,Tepeyahualco,21170,21,170,5193,2010
+Puebla,Tepeyahualco de Cuauhtémoc,21171,21,171,1268,2010
+Puebla,Tetela de Ocampo,21172,21,172,9178,2010
+Puebla,Teteles de Ávila Castillo,21173,21,173,2339,2010
+Puebla,Teziutlán,21174,21,174,38495,2010
+Puebla,Tianguismanalco,21175,21,175,3586,2010
+Puebla,Tilapa,21176,21,176,2611,2010
+Puebla,Tlacotepec de Benito Juárez,21177,21,177,15856,2010
+Puebla,Tlacuilotepec,21178,21,178,5315,2010
+Puebla,Tlachichuca,21179,21,179,9226,2010
+Puebla,Tlahuapan,21180,21,180,12976,2010
+Puebla,Tlaltenango,21181,21,181,2147,2010
+Puebla,Tlanepantla,21182,21,182,1712,2010
+Puebla,Tlaola,21183,21,183,6696,2010
+Puebla,Tlapacoya,21184,21,184,1961,2010
+Puebla,Tlapanalá,21185,21,185,2736,2010
+Puebla,Tlatlauquitepec,21186,21,186,17624,2010
+Puebla,Tlaxco,21187,21,187,1800,2010
+Puebla,Tochimilco,21188,21,188,5710,2010
+Puebla,Tochtepec,21189,21,189,6878,2010
+Puebla,Totoltepec de Guerrero,21190,21,190,353,2010
+Puebla,Tulcingo,21191,21,191,3103,2010
+Puebla,Tuzamapan de Galeana,21192,21,192,2158,2010
+Puebla,Tzicatlacoyan,21193,21,193,2062,2010
+Puebla,Venustiano Carranza,21194,21,194,9540,2010
+Puebla,Vicente Guerrero,21195,21,195,7159,2010
+Puebla,Xayacatlán de Bravo,21196,21,196,572,2010
+Puebla,Xicotepec,21197,21,197,28505,2010
+Puebla,Xicotlán,21198,21,198,288,2010
+Puebla,Xiutetelco,21199,21,199,13696,2010
+Puebla,Xochiapulco,21200,21,200,1069,2010
+Puebla,Xochiltepec,21201,21,201,814,2010
+Puebla,Xochitlán de Vicente Suárez,21202,21,202,3982,2010
+Puebla,Xochitlán Todos Santos,21203,21,203,1968,2010
+Puebla,Yaonáhuac,21204,21,204,2679,2010
+Puebla,Yehualtepec,21205,21,205,6816,2010
+Puebla,Zacapala,21206,21,206,1489,2010
+Puebla,Zacapoaxtla,21207,21,207,18863,2010
+Puebla,Zacatlán,21208,21,208,28589,2010
+Puebla,Zapotitlán,21209,21,209,2976,2010
+Puebla,Zapotitlán de Méndez,21210,21,210,1873,2010
+Puebla,Zaragoza,21211,21,211,5835,2010
+Puebla,Zautla,21212,21,212,6544,2010
+Puebla,Zihuateutla,21213,21,213,4041,2010
+Puebla,Zinacatepec,21214,21,214,6203,2010
+Puebla,Zongozotla,21215,21,215,1462,2010
+Puebla,Zoquiapan,21216,21,216,854,2010
+Puebla,Zoquitlán,21217,21,217,5755,2010
+Querétaro,Total del estado Querétaro,22000,22,0,755956,2010
+Querétaro,Amealco de Bonfil,22001,22,1,20467,2010
+Querétaro,Pinal de Amoles,22002,22,2,6201,2010
+Querétaro,Arroyo Seco,22003,22,3,3541,2010
+Querétaro,Cadereyta de Montes,22004,22,4,22033,2010
+Querétaro,Colón,22005,22,5,20946,2010
+Querétaro,Corregidora,22006,22,6,63790,2010
+Querétaro,Ezequiel Montes,22007,22,7,14664,2010
+Querétaro,Huimilpan,22008,22,8,11883,2010
+Querétaro,Jalpan de Serra,22009,22,9,8666,2010
+Querétaro,Landa de Matamoros,22010,22,10,5831,2010
+Querétaro,El Marqués,22011,22,11,46311,2010
+Querétaro,Pedro Escobedo,22012,22,12,24860,2010
+Querétaro,Peñamiller,22013,22,13,5746,2010
+Querétaro,Querétaro,22014,22,14,362595,2010
+Querétaro,San Joaquín,22015,22,15,2580,2010
+Querétaro,San Juan del Río,22016,22,16,101289,2010
+Querétaro,Tequisquiapan,22017,22,17,25872,2010
+Querétaro,Tolimán,22018,22,18,8681,2010
+Quintana Roo,Total del estado Quintana Roo,23000,23,0,593121,2010
+Quintana Roo,Cozumel,23001,23,1,36993,2010
+Quintana Roo,Felipe Carrillo Puerto,23002,23,2,24832,2010
+Quintana Roo,Isla Mujeres,23003,23,3,7640,2010
+Quintana Roo,Othón P. Blanco,23004,23,4,101425,2010
+Quintana Roo,Benito Juárez,23005,23,5,307649,2010
+Quintana Roo,José María Morelos,23006,23,6,12019,2010
+Quintana Roo,Lázaro Cárdenas,23007,23,7,8764,2010
+Quintana Roo,Solidaridad,23008,23,8,81832,2010
+Quintana Roo,Tulum,23009,23,9,11967,2010
+San Luis Potosí,Total del estado San Luis Potosí,24000,24,0,971734,2010
+San Luis Potosí,Ahualulco,24001,24,1,5329,2010
+San Luis Potosí,Alaquines,24002,24,2,2596,2010
+San Luis Potosí,Aquismón,24003,24,3,14780,2010
+San Luis Potosí,Armadillo de los Infante,24004,24,4,1410,2010
+San Luis Potosí,Cárdenas,24005,24,5,6806,2010
+San Luis Potosí,Catorce,24006,24,6,3401,2010
+San Luis Potosí,Cedral,24007,24,7,6546,2010
+San Luis Potosí,Cerritos,24008,24,8,7708,2010
+San Luis Potosí,Cerro de San Pedro,24009,24,9,1476,2010
+San Luis Potosí,Ciudad del Maíz,24010,24,10,10530,2010
+San Luis Potosí,Ciudad Fernández,24011,24,11,16257,2010
+San Luis Potosí,Tancanhuitz,24012,24,12,6878,2010
+San Luis Potosí,Ciudad Valles,24013,24,13,64621,2010
+San Luis Potosí,Coxcatlán,24014,24,14,5576,2010
+San Luis Potosí,Charcas,24015,24,15,7519,2010
+San Luis Potosí,Ebano,24016,24,16,14864,2010
+San Luis Potosí,Guadalcázar,24017,24,17,8763,2010
+San Luis Potosí,Huehuetlán,24018,24,18,5465,2010
+San Luis Potosí,Lagunillas,24019,24,19,1754,2010
+San Luis Potosí,Matehuala,24020,24,20,35894,2010
+San Luis Potosí,Mexquitic de Carmona,24021,24,21,17463,2010
+San Luis Potosí,Moctezuma,24022,24,22,6326,2010
+San Luis Potosí,Rayón,24023,24,23,5372,2010
+San Luis Potosí,Rioverde,24024,24,24,34496,2010
+San Luis Potosí,Salinas,24025,24,25,9765,2010
+San Luis Potosí,San Antonio,24026,24,26,2880,2010
+San Luis Potosí,San Ciro de Acosta,24027,24,27,3577,2010
+San Luis Potosí,San Luis Potosí,24028,24,28,329039,2010
+San Luis Potosí,San Martín Chalchicuautla,24029,24,29,6943,2010
+San Luis Potosí,San Nicolás Tolentino,24030,24,30,1509,2010
+San Luis Potosí,Santa Catarina,24031,24,31,2943,2010
+San Luis Potosí,Santa María del Río,24032,24,32,13556,2010
+San Luis Potosí,Santo Domingo,24033,24,33,3537,2010
+San Luis Potosí,San Vicente Tancuayalab,24034,24,34,5034,2010
+San Luis Potosí,Soledad de Graciano Sánchez,24035,24,35,110994,2010
+San Luis Potosí,Tamasopo,24036,24,36,9752,2010
+San Luis Potosí,Tamazunchale,24037,24,37,32736,2010
+San Luis Potosí,Tampacán,24038,24,38,5049,2010
+San Luis Potosí,Tampamolón Corona,24039,24,39,4520,2010
+San Luis Potosí,Tamuín,24040,24,40,13773,2010
+San Luis Potosí,Tanlajás,24041,24,41,5857,2010
+San Luis Potosí,Tanquián de Escobedo,24042,24,42,5263,2010
+San Luis Potosí,Tierra Nueva,24043,24,43,2762,2010
+San Luis Potosí,Vanegas,24044,24,44,2670,2010
+San Luis Potosí,Venado,24045,24,45,5028,2010
+San Luis Potosí,Villa de Arriaga,24046,24,46,5687,2010
+San Luis Potosí,Villa de Guadalupe,24047,24,47,3203,2010
+San Luis Potosí,Villa de la Paz,24048,24,48,1949,2010
+San Luis Potosí,Villa de Ramos,24049,24,49,11384,2010
+San Luis Potosí,Villa de Reyes,24050,24,50,15567,2010
+San Luis Potosí,Villa Hidalgo,24051,24,51,5010,2010
+San Luis Potosí,Villa Juárez,24052,24,52,3205,2010
+San Luis Potosí,Axtla de Terrazas,24053,24,53,11265,2010
+San Luis Potosí,Xilitla,24054,24,54,15764,2010
+San Luis Potosí,Zaragoza,24055,24,55,7855,2010
+San Luis Potosí,Villa de Arista,24056,24,56,5384,2010
+San Luis Potosí,Matlapa,24057,24,57,9007,2010
+San Luis Potosí,El Naranjo,24058,24,58,7437,2010
+Sinaloa,Total del estado Sinaloa,25000,25,0,1107112,2010
+Sinaloa,Ahome,25001,25,1,166814,2010
+Sinaloa,Angostura,25002,25,2,15127,2010
+Sinaloa,Badiraguato,25003,25,3,10027,2010
+Sinaloa,Concordia,25004,25,4,10921,2010
+Sinaloa,Cosalá,25005,25,5,5146,2010
+Sinaloa,Culiacán,25006,25,6,363899,2010
+Sinaloa,Choix,25007,25,7,11017,2010
+Sinaloa,Elota,25008,25,8,16306,2010
+Sinaloa,Escuinapa,25009,25,9,20716,2010
+Sinaloa,El Fuerte,25010,25,10,34838,2010
+Sinaloa,Guasave,25011,25,11,105246,2010
+Sinaloa,Mazatlán,25012,25,12,191436,2010
+Sinaloa,Mocorito,25013,25,13,16106,2010
+Sinaloa,Rosario,25014,25,14,19132,2010
+Sinaloa,Salvador Alvarado,25015,25,15,30924,2010
+Sinaloa,San Ignacio,25016,25,16,8301,2010
+Sinaloa,Sinaloa,25017,25,17,28837,2010
+Sinaloa,Navolato,25018,25,18,52319,2010
+Sonora,Total del estado Sonora,26000,26,0,1104922,2010
+Sonora,Aconchi,26001,26,1,967,2010
+Sonora,Agua Prieta,26002,26,2,33086,2010
+Sonora,Alamos,26003,26,3,9466,2010
+Sonora,Altar,26004,26,4,3276,2010
+Sonora,Arivechi,26005,26,5,436,2010
+Sonora,Arizpe,26006,26,6,1141,2010
+Sonora,Atil,26007,26,7,197,2010
+Sonora,Bacadéhuachi,26008,26,8,459,2010
+Sonora,Bacanora,26009,26,9,249,2010
+Sonora,Bacerac,26010,26,10,558,2010
+Sonora,Bacoachi,26011,26,11,599,2010
+Sonora,Bácum,26012,26,12,8542,2010
+Sonora,Banámichi,26013,26,13,571,2010
+Sonora,Baviácora,26014,26,14,1265,2010
+Sonora,Bavispe,26015,26,15,466,2010
+Sonora,Benjamín Hill,26016,26,16,1956,2010
+Sonora,Caborca,26017,26,17,35026,2010
+Sonora,Cajeme,26018,26,18,172560,2010
+Sonora,Cananea,26019,26,19,11780,2010
+Sonora,Carbó,26020,26,20,2275,2010
+Sonora,La Colorada,26021,26,21,668,2010
+Sonora,Cucurpe,26022,26,22,400,2010
+Sonora,Cumpas,26023,26,23,2285,2010
+Sonora,Divisaderos,26024,26,24,236,2010
+Sonora,Empalme,26025,26,25,21548,2010
+Sonora,Etchojoa,26026,26,26,21770,2010
+Sonora,Fronteras,26027,26,27,2935,2010
+Sonora,Granados,26028,26,28,445,2010
+Sonora,Guaymas,26029,26,29,61978,2010
+Sonora,Hermosillo,26030,26,30,345709,2010
+Sonora,Huachinera,26031,26,31,506,2010
+Sonora,Huásabas,26032,26,32,349,2010
+Sonora,Huatabampo,26033,26,33,28840,2010
+Sonora,Huépac,26034,26,34,361,2010
+Sonora,Imuris,26035,26,35,4580,2010
+Sonora,Magdalena,26036,26,36,11245,2010
+Sonora,Mazatán,26037,26,37,534,2010
+Sonora,Moctezuma,26038,26,38,1770,2010
+Sonora,Naco,26039,26,39,2361,2010
+Sonora,Nácori Chico,26040,26,40,685,2010
+Sonora,Nacozari de García,26041,26,41,4787,2010
+Sonora,Navojoa,26042,26,42,61605,2010
+Sonora,Nogales,26043,26,43,94822,2010
+Sonora,Ónavas,26044,26,44,180,2010
+Sonora,Opodepe,26045,26,45,1145,2010
+Sonora,Oquitoa,26046,26,46,168,2010
+Sonora,Pitiquito,26047,26,47,3616,2010
+Sonora,Puerto Peñasco,26048,26,48,24286,2010
+Sonora,Quiriego,26049,26,49,1177,2010
+Sonora,Rayón,26050,26,50,675,2010
+Sonora,Rosario,26051,26,51,1940,2010
+Sonora,Sahuaripa,26052,26,52,2341,2010
+Sonora,San Felipe de Jesús,26053,26,53,129,2010
+Sonora,San Javier,26054,26,54,224,2010
+Sonora,San Luis Río Colorado,26055,26,55,72983,2010
+Sonora,San Miguel de Horcasitas,26056,26,56,3922,2010
+Sonora,San Pedro de la Cueva,26057,26,57,513,2010
+Sonora,Santa Ana,26058,26,58,6389,2010
+Sonora,Santa Cruz,26059,26,59,760,2010
+Sonora,Sáric,26060,26,60,933,2010
+Sonora,Soyopa,26061,26,61,457,2010
+Sonora,Suaqui Grande,26062,26,62,412,2010
+Sonora,Tepache,26063,26,63,438,2010
+Sonora,Trincheras,26064,26,64,627,2010
+Sonora,Tubutama,26065,26,65,627,2010
+Sonora,Ures,26066,26,66,3525,2010
+Sonora,Villa Hidalgo,26067,26,67,476,2010
+Sonora,Villa Pesqueira,26068,26,68,498,2010
+Sonora,Yécora,26069,26,69,2085,2010
+Sonora,General Plutarco Elías Calles,26070,26,70,5930,2010
+Sonora,Benito Juárez,26071,26,71,7862,2010
+Sonora,San Ignacio Río Muerto,26072,26,72,5310,2010
+Tabasco,Total del estado Tabasco,27000,27,0,816385,2010
+Tabasco,Balancán,27001,27,1,19352,2010
+Tabasco,Cárdenas,27002,27,2,84545,2010
+Tabasco,Centla,27003,27,3,32567,2010
+Tabasco,Centro,27004,27,4,268106,2010
+Tabasco,Comalcalco,27005,27,5,65015,2010
+Tabasco,Cunduacán,27006,27,6,43501,2010
+Tabasco,Emiliano Zapata,27007,27,7,11547,2010
+Tabasco,Huimanguillo,27008,27,8,58098,2010
+Tabasco,Jalapa,27009,27,9,13004,2010
+Tabasco,Jalpa de Méndez,27010,27,10,28198,2010
+Tabasco,Jonuta,27011,27,11,9702,2010
+Tabasco,Macuspana,27012,27,12,52158,2010
+Tabasco,Nacajuca,27013,27,13,44313,2010
+Tabasco,Paraíso,27014,27,14,29816,2010
+Tabasco,Tacotalpa,27015,27,15,14732,2010
+Tabasco,Teapa,27016,27,16,21123,2010
+Tabasco,Tenosique,27017,27,17,20608,2010
+Tamaulipas,Total del estado Tamaulipas,28000,28,0,1305151,2010
+Tamaulipas,Abasolo,28001,28,1,3698,2010
+Tamaulipas,Aldama,28002,28,2,10739,2010
+Tamaulipas,Altamira,28003,28,3,85553,2010
+Tamaulipas,Antiguo Morelos,28004,28,4,2866,2010
+Tamaulipas,Burgos,28005,28,5,1586,2010
+Tamaulipas,Bustamante,28006,28,6,2527,2010
+Tamaulipas,Camargo,28007,28,7,5639,2010
+Tamaulipas,Casas,28008,28,8,1375,2010
+Tamaulipas,Ciudad Madero,28009,28,9,80369,2010
+Tamaulipas,Cruillas,28010,28,10,659,2010
+Tamaulipas,Gómez Farías,28011,28,11,2931,2010
+Tamaulipas,González,28012,28,12,15415,2010
+Tamaulipas,Güémez,28013,28,13,5832,2010
+Tamaulipas,Guerrero,28014,28,14,1680,2010
+Tamaulipas,Gustavo Díaz Ordaz,28015,28,15,5961,2010
+Tamaulipas,Hidalgo,28016,28,16,8842,2010
+Tamaulipas,Jaumave,28017,28,17,5382,2010
+Tamaulipas,Jiménez,28018,28,18,2801,2010
+Tamaulipas,Llera,28019,28,19,5917,2010
+Tamaulipas,Mainero,28020,28,20,796,2010
+Tamaulipas,El Mante,28021,28,21,44556,2010
+Tamaulipas,Matamoros,28022,28,22,202185,2010
+Tamaulipas,Méndez,28023,28,23,1723,2010
+Tamaulipas,Mier,28024,28,24,1832,2010
+Tamaulipas,Miguel Alemán,28025,28,25,11029,2010
+Tamaulipas,Miquihuana,28026,28,26,1022,2010
+Tamaulipas,Nuevo Laredo,28027,28,27,145220,2010
+Tamaulipas,Nuevo Morelos,28028,28,28,1157,2010
+Tamaulipas,Ocampo,28029,28,29,4333,2010
+Tamaulipas,Padilla,28030,28,30,5219,2010
+Tamaulipas,Palmillas,28031,28,31,513,2010
+Tamaulipas,Reynosa,28032,28,32,245529,2010
+Tamaulipas,Río Bravo,28033,28,33,47430,2010
+Tamaulipas,San Carlos,28034,28,34,3259,2010
+Tamaulipas,San Fernando,28035,28,35,20517,2010
+Tamaulipas,San Nicolás,28036,28,36,247,2010
+Tamaulipas,Soto la Marina,28037,28,37,9037,2010
+Tamaulipas,Tampico,28038,28,38,127520,2010
+Tamaulipas,Tula,28039,28,39,9269,2010
+Tamaulipas,Valle Hermoso,28040,28,40,24965,2010
+Tamaulipas,Victoria,28041,28,41,137981,2010
+Tamaulipas,Villagrán,28042,28,42,2166,2010
+Tamaulipas,Xicoténcatl,28043,28,43,7874,2010
+Tlaxcala,Total del estado Tlaxcala,29000,29,0,457049,2010
+Tlaxcala,Amaxac de Guerrero,29001,29,1,4022,2010
+Tlaxcala,Apetatitlán de Antonio Carvajal,29002,29,2,5720,2010
+Tlaxcala,Atlangatepec,29003,29,3,2084,2010
+Tlaxcala,Atltzayanca,29004,29,4,6016,2010
+Tlaxcala,Apizaco,29005,29,5,32358,2010
+Tlaxcala,Calpulalpan,29006,29,6,18134,2010
+Tlaxcala,El Carmen Tequexquitla,29007,29,7,5548,2010
+Tlaxcala,Cuapiaxtla,29008,29,8,5000,2010
+Tlaxcala,Cuaxomulco,29009,29,9,1995,2010
+Tlaxcala,Chiautempan,29010,29,10,27156,2010
+Tlaxcala,Muñoz de Domingo Arenas,29011,29,11,1470,2010
+Tlaxcala,Españita,29012,29,12,2835,2010
+Tlaxcala,Huamantla,29013,29,13,32697,2010
+Tlaxcala,Hueyotlipan,29014,29,14,4962,2010
+Tlaxcala,Ixtacuixtla de Mariano Matamoros,29015,29,15,13316,2010
+Tlaxcala,Ixtenco,29016,29,16,3099,2010
+Tlaxcala,Mazatecochco de José María Morelos,29017,29,17,4027,2010
+Tlaxcala,Contla de Juan Cuamatzi,29018,29,18,14521,2010
+Tlaxcala,Tepetitla de Lardizábal,29019,29,19,7450,2010
+Tlaxcala,Sanctórum de Lázaro Cárdenas,29020,29,20,2968,2010
+Tlaxcala,Nanacamilpa de Mariano Arista,29021,29,21,6698,2010
+Tlaxcala,Acuamanala de Miguel Hidalgo,29022,29,22,2181,2010
+Tlaxcala,Natívitas,29023,29,23,8681,2010
+Tlaxcala,Panotla,29024,29,24,9921,2010
+Tlaxcala,San Pablo del Monte,29025,29,25,27041,2010
+Tlaxcala,Santa Cruz Tlaxcala,29026,29,26,7054,2010
+Tlaxcala,Tenancingo,29027,29,27,4055,2010
+Tlaxcala,Teolocholco,29028,29,28,7953,2010
+Tlaxcala,Tepeyanco,29029,29,29,4109,2010
+Tlaxcala,Terrenate,29030,29,30,4299,2010
+Tlaxcala,Tetla de la Solidaridad,29031,29,31,11037,2010
+Tlaxcala,Tetlatlahuca,29032,29,32,4868,2010
+Tlaxcala,Tlaxcala,29033,29,33,39470,2010
+Tlaxcala,Tlaxco,29034,29,34,14360,2010
+Tlaxcala,Tocatlán,29035,29,35,2135,2010
+Tlaxcala,Totolac,29036,29,36,8757,2010
+Tlaxcala,Ziltlaltépec de Trinidad Sánchez Santos,29037,29,37,2942,2010
+Tlaxcala,Tzompantepec,29038,29,38,5604,2010
+Tlaxcala,Xaloztoc,29039,29,39,7633,2010
+Tlaxcala,Xaltocan,29040,29,40,3512,2010
+Tlaxcala,Papalotla de Xicohténcatl,29041,29,41,9835,2010
+Tlaxcala,Xicohtzinco,29042,29,42,4661,2010
+Tlaxcala,Yauhquemehcan,29043,29,43,12879,2010
+Tlaxcala,Zacatelco,29044,29,44,14901,2010
+Tlaxcala,Benito Juárez,29045,29,45,2074,2010
+Tlaxcala,Emiliano Zapata,29046,29,46,1662,2010
+Tlaxcala,Lázaro Cárdenas,29047,29,47,815,2010
+Tlaxcala,La Magdalena Tlaltelulco,29048,29,48,5947,2010
+Tlaxcala,San Damián Texóloc,29049,29,49,2035,2010
+Tlaxcala,San Francisco Tetlanohcan,29050,29,50,3670,2010
+Tlaxcala,San Jerónimo Zacualpan,29051,29,51,1444,2010
+Tlaxcala,San José Teacalco,29052,29,52,2079,2010
+Tlaxcala,San Juan Huactzinco,29053,29,53,2855,2010
+Tlaxcala,San Lorenzo Axocomanitla,29054,29,54,2140,2010
+Tlaxcala,San Lucas Tecopilco,29055,29,55,816,2010
+Tlaxcala,Santa Ana Nopalucan,29056,29,56,2832,2010
+Tlaxcala,Santa Apolonia Teacalco,29057,29,57,1914,2010
+Tlaxcala,Santa Catarina Ayometla,29058,29,58,2759,2010
+Tlaxcala,Santa Cruz Quilehtla,29059,29,59,2345,2010
+Tlaxcala,Santa Isabel Xiloxoxtla,29060,29,60,1698,2010
+Veracruz de Ignacio de la Llave,Total del estado Veracruz de Ignacio de la Llave,30000,30,0,2905273,2010
+Veracruz de Ignacio de la Llave,Acajete,30001,30,1,3154,2010
+Veracruz de Ignacio de la Llave,Acatlán,30002,30,2,972,2010
+Veracruz de Ignacio de la Llave,Acayucan,30003,30,3,31655,2010
+Veracruz de Ignacio de la Llave,Actopan,30004,30,4,14997,2010
+Veracruz de Ignacio de la Llave,Acula,30005,30,5,1735,2010
+Veracruz de Ignacio de la Llave,Acultzingo,30006,30,6,6924,2010
+Veracruz de Ignacio de la Llave,Camarón de Tejeda,30007,30,7,2260,2010
+Veracruz de Ignacio de la Llave,Alpatláhuac,30008,30,8,2891,2010
+Veracruz de Ignacio de la Llave,Alto Lucero de Gutiérrez Barrios,30009,30,9,10345,2010
+Veracruz de Ignacio de la Llave,Altotonga,30010,30,10,20872,2010
+Veracruz de Ignacio de la Llave,Alvarado,30011,30,11,20631,2010
+Veracruz de Ignacio de la Llave,Amatitlán,30012,30,12,2634,2010
+Veracruz de Ignacio de la Llave,Naranjos Amatlán,30013,30,13,10748,2010
+Veracruz de Ignacio de la Llave,Amatlán de los Reyes,30014,30,14,16574,2010
+Veracruz de Ignacio de la Llave,Angel R. Cabada,30015,30,15,11499,2010
+Veracruz de Ignacio de la Llave,La Antigua,30016,30,16,10268,2010
+Veracruz de Ignacio de la Llave,Apazapan,30017,30,17,1318,2010
+Veracruz de Ignacio de la Llave,Aquila,30018,30,18,700,2010
+Veracruz de Ignacio de la Llave,Astacinga,30019,30,19,1134,2010
+Veracruz de Ignacio de la Llave,Atlahuilco,30020,30,20,2824,2010
+Veracruz de Ignacio de la Llave,Atoyac,30021,30,21,8240,2010
+Veracruz de Ignacio de la Llave,Atzacan,30022,30,22,7099,2010
+Veracruz de Ignacio de la Llave,Atzalan,30023,30,23,16201,2010
+Veracruz de Ignacio de la Llave,Tlaltetela,30024,30,24,5297,2010
+Veracruz de Ignacio de la Llave,Ayahualulco,30025,30,25,7657,2010
+Veracruz de Ignacio de la Llave,Banderilla,30026,30,26,9074,2010
+Veracruz de Ignacio de la Llave,Benito Juárez,30027,30,27,4761,2010
+Veracruz de Ignacio de la Llave,Boca del Río,30028,30,28,59195,2010
+Veracruz de Ignacio de la Llave,Calcahualco,30029,30,29,3583,2010
+Veracruz de Ignacio de la Llave,Camerino Z. Mendoza,30030,30,30,15513,2010
+Veracruz de Ignacio de la Llave,Carrillo Puerto,30031,30,31,5223,2010
+Veracruz de Ignacio de la Llave,Catemaco,30032,30,32,17898,2010
+Veracruz de Ignacio de la Llave,Cazones de Herrera,30033,30,33,7910,2010
+Veracruz de Ignacio de la Llave,Cerro Azul,30034,30,34,9912,2010
+Veracruz de Ignacio de la Llave,Citlaltépetl,30035,30,35,3633,2010
+Veracruz de Ignacio de la Llave,Coacoatzintla,30036,30,36,3296,2010
+Veracruz de Ignacio de la Llave,Coahuitlán,30037,30,37,2175,2010
+Veracruz de Ignacio de la Llave,Coatepec,30038,30,38,37594,2010
+Veracruz de Ignacio de la Llave,Coatzacoalcos,30039,30,39,134791,2010
+Veracruz de Ignacio de la Llave,Coatzintla,30040,30,40,18674,2010
+Veracruz de Ignacio de la Llave,Coetzala,30041,30,41,703,2010
+Veracruz de Ignacio de la Llave,Colipa,30042,30,42,1809,2010
+Veracruz de Ignacio de la Llave,Comapa,30043,30,43,6604,2010
+Veracruz de Ignacio de la Llave,Córdoba,30044,30,44,85004,2010
+Veracruz de Ignacio de la Llave,Cosamaloapan de Carpio,30045,30,45,23254,2010
+Veracruz de Ignacio de la Llave,Cosautlán de Carvajal,30046,30,46,5626,2010
+Veracruz de Ignacio de la Llave,Coscomatepec,30047,30,47,17618,2010
+Veracruz de Ignacio de la Llave,Cosoleacaque,30048,30,48,47744,2010
+Veracruz de Ignacio de la Llave,Cotaxtla,30049,30,49,6889,2010
+Veracruz de Ignacio de la Llave,Coxquihui,30050,30,50,4834,2010
+Veracruz de Ignacio de la Llave,Coyutla,30051,30,51,6932,2010
+Veracruz de Ignacio de la Llave,Cuichapa,30052,30,52,3904,2010
+Veracruz de Ignacio de la Llave,Cuitláhuac,30053,30,53,10190,2010
+Veracruz de Ignacio de la Llave,Chacaltianguis,30054,30,54,3929,2010
+Veracruz de Ignacio de la Llave,Chalma,30055,30,55,4231,2010
+Veracruz de Ignacio de la Llave,Chiconamel,30056,30,56,1981,2010
+Veracruz de Ignacio de la Llave,Chiconquiaco,30057,30,57,4527,2010
+Veracruz de Ignacio de la Llave,Chicontepec,30058,30,58,17757,2010
+Veracruz de Ignacio de la Llave,Chinameca,30059,30,59,6049,2010
+Veracruz de Ignacio de la Llave,Chinampa de Gorostiza,30060,30,60,5413,2010
+Veracruz de Ignacio de la Llave,Las Choapas,30061,30,61,25827,2010
+Veracruz de Ignacio de la Llave,Chocamán,30062,30,62,7148,2010
+Veracruz de Ignacio de la Llave,Chontla,30063,30,63,5052,2010
+Veracruz de Ignacio de la Llave,Chumatlán,30064,30,64,1201,2010
+Veracruz de Ignacio de la Llave,Emiliano Zapata,30065,30,65,25596,2010
+Veracruz de Ignacio de la Llave,Espinal,30066,30,66,8474,2010
+Veracruz de Ignacio de la Llave,Filomeno Mata,30067,30,67,3805,2010
+Veracruz de Ignacio de la Llave,Fortín,30068,30,68,24342,2010
+Veracruz de Ignacio de la Llave,Gutiérrez Zamora,30069,30,69,9869,2010
+Veracruz de Ignacio de la Llave,Hidalgotitlán,30070,30,70,6054,2010
+Veracruz de Ignacio de la Llave,Huatusco,30071,30,71,21591,2010
+Veracruz de Ignacio de la Llave,Huayacocotla,30072,30,72,6899,2010
+Veracruz de Ignacio de la Llave,Hueyapan de Ocampo,30073,30,73,12707,2010
+Veracruz de Ignacio de la Llave,Huiloapan de Cuauhtémoc,30074,30,74,2557,2010
+Veracruz de Ignacio de la Llave,Ignacio de la Llave,30075,30,75,5819,2010
+Veracruz de Ignacio de la Llave,Ilamatlán,30076,30,76,3584,2010
+Veracruz de Ignacio de la Llave,Isla,30077,30,77,16794,2010
+Veracruz de Ignacio de la Llave,Ixcatepec,30078,30,78,4298,2010
+Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,30079,30,79,3859,2010
+Veracruz de Ignacio de la Llave,Ixhuatlán del Café,30080,30,80,7391,2010
+Veracruz de Ignacio de la Llave,Ixhuatlancillo,30081,30,81,8517,2010
+Veracruz de Ignacio de la Llave,Ixhuatlán del Sureste,30082,30,82,5276,2010
+Veracruz de Ignacio de la Llave,Ixhuatlán de Madero,30083,30,83,16198,2010
+Veracruz de Ignacio de la Llave,Ixmatlahuacan,30084,30,84,2114,2010
+Veracruz de Ignacio de la Llave,Ixtaczoquitlán,30085,30,85,24879,2010
+Veracruz de Ignacio de la Llave,Jalacingo,30086,30,86,14208,2010
+Veracruz de Ignacio de la Llave,Xalapa,30087,30,87,198673,2010
+Veracruz de Ignacio de la Llave,Jalcomulco,30088,30,88,2061,2010
+Veracruz de Ignacio de la Llave,Jáltipan,30089,30,89,15877,2010
+Veracruz de Ignacio de la Llave,Jamapa,30090,30,90,4094,2010
+Veracruz de Ignacio de la Llave,Jesús Carranza,30091,30,91,9090,2010
+Veracruz de Ignacio de la Llave,Xico,30092,30,92,13796,2010
+Veracruz de Ignacio de la Llave,Jilotepec,30093,30,93,5591,2010
+Veracruz de Ignacio de la Llave,Juan Rodríguez Clara,30094,30,94,13790,2010
+Veracruz de Ignacio de la Llave,Juchique de Ferrer,30095,30,95,5354,2010
+Veracruz de Ignacio de la Llave,Landero y Coss,30096,30,96,485,2010
+Veracruz de Ignacio de la Llave,Lerdo de Tejada,30097,30,97,7232,2010
+Veracruz de Ignacio de la Llave,Magdalena,30098,30,98,898,2010
+Veracruz de Ignacio de la Llave,Maltrata,30099,30,99,5430,2010
+Veracruz de Ignacio de la Llave,Manlio Fabio Altamirano,30100,30,100,8465,2010
+Veracruz de Ignacio de la Llave,Mariano Escobedo,30101,30,101,12231,2010
+Veracruz de Ignacio de la Llave,Martínez de la Torre,30102,30,102,40868,2010
+Veracruz de Ignacio de la Llave,Mecatlán,30103,30,103,2379,2010
+Veracruz de Ignacio de la Llave,Mecayapan,30104,30,104,4966,2010
+Veracruz de Ignacio de la Llave,Medellín de Bravo,30105,30,105,25812,2010
+Veracruz de Ignacio de la Llave,Miahuatlán,30106,30,106,1365,2010
+Veracruz de Ignacio de la Llave,Las Minas,30107,30,107,737,2010
+Veracruz de Ignacio de la Llave,Minatitlán,30108,30,108,62202,2010
+Veracruz de Ignacio de la Llave,Misantla,30109,30,109,23771,2010
+Veracruz de Ignacio de la Llave,Mixtla de Altamirano,30110,30,110,2874,2010
+Veracruz de Ignacio de la Llave,Moloacán,30111,30,111,5263,2010
+Veracruz de Ignacio de la Llave,Naolinco,30112,30,112,8415,2010
+Veracruz de Ignacio de la Llave,Naranjal,30113,30,113,1494,2010
+Veracruz de Ignacio de la Llave,Nautla,30114,30,114,3576,2010
+Veracruz de Ignacio de la Llave,Nogales,30115,30,115,13326,2010
+Veracruz de Ignacio de la Llave,Oluta,30116,30,116,5839,2010
+Veracruz de Ignacio de la Llave,Omealca,30117,30,117,7383,2010
+Veracruz de Ignacio de la Llave,Orizaba,30118,30,118,51013,2010
+Veracruz de Ignacio de la Llave,Otatitlán,30119,30,119,1999,2010
+Veracruz de Ignacio de la Llave,Oteapan,30120,30,120,5613,2010
+Veracruz de Ignacio de la Llave,Ozuluama de Mascareñas,30121,30,121,8608,2010
+Veracruz de Ignacio de la Llave,Pajapan,30122,30,122,5674,2010
+Veracruz de Ignacio de la Llave,Pánuco,30123,30,123,35932,2010
+Veracruz de Ignacio de la Llave,Papantla,30124,30,124,59765,2010
+Veracruz de Ignacio de la Llave,Paso del Macho,30125,30,125,11209,2010
+Veracruz de Ignacio de la Llave,Paso de Ovejas,30126,30,126,12187,2010
+Veracruz de Ignacio de la Llave,La Perla,30127,30,127,6733,2010
+Veracruz de Ignacio de la Llave,Perote,30128,30,128,23571,2010
+Veracruz de Ignacio de la Llave,Platón Sánchez,30129,30,129,6099,2010
+Veracruz de Ignacio de la Llave,Playa Vicente,30130,30,130,14136,2010
+Veracruz de Ignacio de la Llave,Poza Rica de Hidalgo,30131,30,131,80179,2010
+Veracruz de Ignacio de la Llave,Las Vigas de Ramírez,30132,30,132,6265,2010
+Veracruz de Ignacio de la Llave,Pueblo Viejo,30133,30,133,22106,2010
+Veracruz de Ignacio de la Llave,Puente Nacional,30134,30,134,8528,2010
+Veracruz de Ignacio de la Llave,Rafael Delgado,30135,30,135,7665,2010
+Veracruz de Ignacio de la Llave,Rafael Lucio,30136,30,136,2760,2010
+Veracruz de Ignacio de la Llave,Los Reyes,30137,30,137,1588,2010
+Veracruz de Ignacio de la Llave,Río Blanco,30138,30,138,16466,2010
+Veracruz de Ignacio de la Llave,Saltabarranca,30139,30,139,1963,2010
+Veracruz de Ignacio de la Llave,San Andrés Tenejapan,30140,30,140,896,2010
+Veracruz de Ignacio de la Llave,San Andrés Tuxtla,30141,30,141,54813,2010
+Veracruz de Ignacio de la Llave,San Juan Evangelista,30142,30,142,11061,2010
+Veracruz de Ignacio de la Llave,Santiago Tuxtla,30143,30,143,18881,2010
+Veracruz de Ignacio de la Llave,Sayula de Alemán,30144,30,144,11136,2010
+Veracruz de Ignacio de la Llave,Soconusco,30145,30,145,5806,2010
+Veracruz de Ignacio de la Llave,Sochiapa,30146,30,146,1147,2010
+Veracruz de Ignacio de la Llave,Soledad Atzompa,30147,30,147,4823,2010
+Veracruz de Ignacio de la Llave,Soledad de Doblado,30148,30,148,10321,2010
+Veracruz de Ignacio de la Llave,Soteapan,30149,30,149,9212,2010
+Veracruz de Ignacio de la Llave,Tamalín,30150,30,150,4115,2010
+Veracruz de Ignacio de la Llave,Tamiahua,30151,30,151,8189,2010
+Veracruz de Ignacio de la Llave,Tampico Alto,30152,30,152,4654,2010
+Veracruz de Ignacio de la Llave,Tancoco,30153,30,153,2150,2010
+Veracruz de Ignacio de la Llave,Tantima,30154,30,154,4312,2010
+Veracruz de Ignacio de la Llave,Tantoyuca,30155,30,155,34072,2010
+Veracruz de Ignacio de la Llave,Tatatila,30156,30,156,1693,2010
+Veracruz de Ignacio de la Llave,Castillo de Teayo,30157,30,157,6395,2010
+Veracruz de Ignacio de la Llave,Tecolutla,30158,30,158,9738,2010
+Veracruz de Ignacio de la Llave,Tehuipango,30159,30,159,5195,2010
+Veracruz de Ignacio de la Llave,Álamo Temapache,30160,30,160,37562,2010
+Veracruz de Ignacio de la Llave,Tempoal,30161,30,161,11961,2010
+Veracruz de Ignacio de la Llave,Tenampa,30162,30,162,2209,2010
+Veracruz de Ignacio de la Llave,Tenochtitlán,30163,30,163,1323,2010
+Veracruz de Ignacio de la Llave,Teocelo,30164,30,164,6952,2010
+Veracruz de Ignacio de la Llave,Tepatlaxco,30165,30,165,2884,2010
+Veracruz de Ignacio de la Llave,Tepetlán,30166,30,166,3115,2010
+Veracruz de Ignacio de la Llave,Tepetzintla,30167,30,167,4942,2010
+Veracruz de Ignacio de la Llave,Tequila,30168,30,168,4149,2010
+Veracruz de Ignacio de la Llave,José Azueta,30169,30,169,8428,2010
+Veracruz de Ignacio de la Llave,Texcatepec,30170,30,170,2531,2010
+Veracruz de Ignacio de la Llave,Texhuacán,30171,30,171,1515,2010
+Veracruz de Ignacio de la Llave,Texistepec,30172,30,172,7116,2010
+Veracruz de Ignacio de la Llave,Tezonapa,30173,30,173,17316,2010
+Veracruz de Ignacio de la Llave,Tierra Blanca,30174,30,174,35987,2010
+Veracruz de Ignacio de la Llave,Tihuatlán,30175,30,175,33262,2010
+Veracruz de Ignacio de la Llave,Tlacojalpan,30176,30,176,1604,2010
+Veracruz de Ignacio de la Llave,Tlacolulan,30177,30,177,3542,2010
+Veracruz de Ignacio de la Llave,Tlacotalpan,30178,30,178,5393,2010
+Veracruz de Ignacio de la Llave,Tlacotepec de Mejía,30179,30,179,1380,2010
+Veracruz de Ignacio de la Llave,Tlachichilco,30180,30,180,3434,2010
+Veracruz de Ignacio de la Llave,Tlalixcoyan,30181,30,181,14516,2010
+Veracruz de Ignacio de la Llave,Tlalnelhuayocan,30182,30,182,6951,2010
+Veracruz de Ignacio de la Llave,Tlapacoyan,30183,30,183,23363,2010
+Veracruz de Ignacio de la Llave,Tlaquilpa,30184,30,184,1846,2010
+Veracruz de Ignacio de la Llave,Tlilapan,30185,30,185,1792,2010
+Veracruz de Ignacio de la Llave,Tomatlán,30186,30,186,2848,2010
+Veracruz de Ignacio de la Llave,Tonayán,30187,30,187,1783,2010
+Veracruz de Ignacio de la Llave,Totutla,30188,30,188,6013,2010
+Veracruz de Ignacio de la Llave,Tuxpan,30189,30,189,58479,2010
+Veracruz de Ignacio de la Llave,Tuxtilla,30190,30,190,731,2010
+Veracruz de Ignacio de la Llave,Ursulo Galván,30191,30,191,10861,2010
+Veracruz de Ignacio de la Llave,Vega de Alatorre,30192,30,192,7945,2010
+Veracruz de Ignacio de la Llave,Veracruz,30193,30,193,236884,2010
+Veracruz de Ignacio de la Llave,Villa Aldama,30194,30,194,3254,2010
+Veracruz de Ignacio de la Llave,Xoxocotla,30195,30,195,1212,2010
+Veracruz de Ignacio de la Llave,Yanga,30196,30,196,6279,2010
+Veracruz de Ignacio de la Llave,Yecuatla,30197,30,197,3887,2010
+Veracruz de Ignacio de la Llave,Zacualpan,30198,30,198,2221,2010
+Veracruz de Ignacio de la Llave,Zaragoza,30199,30,199,3515,2010
+Veracruz de Ignacio de la Llave,Zentla,30200,30,200,4647,2010
+Veracruz de Ignacio de la Llave,Zongolica,30201,30,201,14203,2010
+Veracruz de Ignacio de la Llave,Zontecomatlán de López y Fuentes,30202,30,202,3706,2010
+Veracruz de Ignacio de la Llave,Zozocolco de Hidalgo,30203,30,203,4092,2010
+Veracruz de Ignacio de la Llave,Agua Dulce,30204,30,204,16086,2010
+Veracruz de Ignacio de la Llave,El Higo,30205,30,205,6303,2010
+Veracruz de Ignacio de la Llave,Nanchital de Lázaro Cárdenas del Río,30206,30,206,10217,2010
+Veracruz de Ignacio de la Llave,Tres Valles,30207,30,207,16466,2010
+Veracruz de Ignacio de la Llave,Carlos A. Carrillo,30208,30,208,7835,2010
+Veracruz de Ignacio de la Llave,Tatahuicapan de Juárez,30209,30,209,4186,2010
+Veracruz de Ignacio de la Llave,Uxpanapa,30210,30,210,8774,2010
+Veracruz de Ignacio de la Llave,San Rafael,30211,30,211,11354,2010
+Veracruz de Ignacio de la Llave,Santiago Sochiapan,30212,30,212,3496,2010
+Yucatán,Total del estado Yucatán,31000,31,0,796386,2010
+Yucatán,Abalá,31001,31,1,2440,2010
+Yucatán,Acanceh,31002,31,2,6438,2010
+Yucatán,Akil,31003,31,3,3842,2010
+Yucatán,Baca,31004,31,4,2329,2010
+Yucatán,Bokobá,31005,31,5,813,2010
+Yucatán,Buctzotz,31006,31,6,3317,2010
+Yucatán,Cacalchén,31007,31,7,2490,2010
+Yucatán,Calotmul,31008,31,8,1595,2010
+Yucatán,Cansahcab,31009,31,9,1810,2010
+Yucatán,Cantamayec,31010,31,10,859,2010
+Yucatán,Celestún,31011,31,11,2660,2010
+Yucatán,Cenotillo,31012,31,12,1247,2010
+Yucatán,Conkal,31013,31,13,3755,2010
+Yucatán,Cuncunul,31014,31,14,630,2010
+Yucatán,Cuzamá,31015,31,15,1747,2010
+Yucatán,Chacsinkín,31016,31,16,1150,2010
+Yucatán,Chankom,31017,31,17,1619,2010
+Yucatán,Chapab,31018,31,18,1086,2010
+Yucatán,Chemax,31019,31,19,9592,2010
+Yucatán,Chicxulub Pueblo,31020,31,20,1677,2010
+Yucatán,Chichimilá,31021,31,21,2467,2010
+Yucatán,Chikindzonot,31022,31,22,1518,2010
+Yucatán,Chocholá,31023,31,23,1886,2010
+Yucatán,Chumayel,31024,31,24,1260,2010
+Yucatán,Dzán,31025,31,25,1958,2010
+Yucatán,Dzemul,31026,31,26,1338,2010
+Yucatán,Dzidzantún,31027,31,27,3314,2010
+Yucatán,Dzilam de Bravo,31028,31,28,880,2010
+Yucatán,Dzilam González,31029,31,29,2284,2010
+Yucatán,Dzitás,31030,31,30,1021,2010
+Yucatán,Dzoncauich,31031,31,31,866,2010
+Yucatán,Espita,31032,31,32,5395,2010
+Yucatán,Halachó,31033,31,33,6923,2010
+Yucatán,Hocabá,31034,31,34,2264,2010
+Yucatán,Hoctún,31035,31,35,1998,2010
+Yucatán,Homún,31036,31,36,2884,2010
+Yucatán,Huhí,31037,31,37,2012,2010
+Yucatán,Hunucmá,31038,31,38,12266,2010
+Yucatán,Ixil,31039,31,39,1704,2010
+Yucatán,Izamal,31040,31,40,9640,2010
+Yucatán,Kanasín,31041,31,41,33529,2010
+Yucatán,Kantunil,31042,31,42,1717,2010
+Yucatán,Kaua,31043,31,43,891,2010
+Yucatán,Kinchil,31044,31,44,2457,2010
+Yucatán,Kopomá,31045,31,45,1015,2010
+Yucatán,Mama,31046,31,46,1081,2010
+Yucatán,Maní,31047,31,47,2189,2010
+Yucatán,Maxcanú,31048,31,48,8041,2010
+Yucatán,Mayapán,31049,31,49,1386,2010
+Yucatán,Mérida,31050,31,50,366166,2010
+Yucatán,Mocochá,31051,31,51,1241,2010
+Yucatán,Motul,31052,31,52,13769,2010
+Yucatán,Muna,31053,31,53,4887,2010
+Yucatán,Muxupip,31054,31,54,1058,2010
+Yucatán,Opichén,31055,31,55,2440,2010
+Yucatán,Oxkutzcab,31056,31,56,10618,2010
+Yucatán,Panabá,31057,31,57,2707,2010
+Yucatán,Peto,31058,31,58,8054,2010
+Yucatán,Progreso,31059,31,59,22707,2010
+Yucatán,Quintana Roo,31060,31,60,282,2010
+Yucatán,Río Lagartos,31061,31,61,1312,2010
+Yucatán,Sacalum,31062,31,62,1907,2010
+Yucatán,Samahil,31063,31,63,1786,2010
+Yucatán,Sanahcat,31064,31,64,573,2010
+Yucatán,San Felipe,31065,31,65,727,2010
+Yucatán,Santa Elena,31066,31,66,1299,2010
+Yucatán,Seyé,31067,31,67,3807,2010
+Yucatán,Sinanché,31068,31,68,1135,2010
+Yucatán,Sotuta,31069,31,69,3143,2010
+Yucatán,Sucilá,31070,31,70,1550,2010
+Yucatán,Sudzal,31071,31,71,528,2010
+Yucatán,Suma,31072,31,72,663,2010
+Yucatán,Tahdziú,31073,31,73,1483,2010
+Yucatán,Tahmek,31074,31,74,1456,2010
+Yucatán,Teabo,31075,31,75,2627,2010
+Yucatán,Tecoh,31076,31,76,6263,2010
+Yucatán,Tekal de Venegas,31077,31,77,934,2010
+Yucatán,Tekantó,31078,31,78,1461,2010
+Yucatán,Tekax,31079,31,79,15533,2010
+Yucatán,Tekit,31080,31,80,4058,2010
+Yucatán,Tekom,31081,31,81,943,2010
+Yucatán,Telchac Pueblo,31082,31,82,1437,2010
+Yucatán,Telchac Puerto,31083,31,83,712,2010
+Yucatán,Temax,31084,31,84,2348,2010
+Yucatán,Temozón,31085,31,85,5796,2010
+Yucatán,Tepakán,31086,31,86,787,2010
+Yucatán,Tetiz,31087,31,87,1734,2010
+Yucatán,Teya,31088,31,88,559,2010
+Yucatán,Ticul,31089,31,89,15435,2010
+Yucatán,Timucuy,31090,31,90,2674,2010
+Yucatán,Tinum,31091,31,91,4342,2010
+Yucatán,Tixcacalcupul,31092,31,92,2107,2010
+Yucatán,Tixkokob,31093,31,93,7205,2010
+Yucatán,Tixmehuac,31094,31,94,2053,2010
+Yucatán,Tixpéhual,31095,31,95,2210,2010
+Yucatán,Tizimín,31096,31,96,26559,2010
+Yucatán,Tunkás,31097,31,97,1170,2010
+Yucatán,Tzucacab,31098,31,98,4831,2010
+Yucatán,Uayma,31099,31,99,1232,2010
+Yucatán,Ucú,31100,31,100,1351,2010
+Yucatán,Umán,31101,31,101,21160,2010
+Yucatán,Valladolid,31102,31,102,28247,2010
+Yucatán,Xocchel,31103,31,103,1169,2010
+Yucatán,Yaxcabá,31104,31,104,5018,2010
+Yucatán,Yaxkukul,31105,31,105,1070,2010
+Yucatán,Yobaín,31106,31,106,783,2010
+Zacatecas,Total del estado Zacatecas,32000,32,0,529537,2010
+Zacatecas,Apozol,32001,32,1,2191,2010
+Zacatecas,Apulco,32002,32,2,1282,2010
+Zacatecas,Atolinga,32003,32,3,892,2010
+Zacatecas,Benito Juárez,32004,32,4,1550,2010
+Zacatecas,Calera,32005,32,5,15021,2010
+Zacatecas,Cañitas de Felipe Pescador,32006,32,6,2519,2010
+Zacatecas,Concepción del Oro,32007,32,7,4680,2010
+Zacatecas,Cuauhtémoc,32008,32,8,3683,2010
+Zacatecas,Chalchihuites,32009,32,9,3372,2010
+Zacatecas,Fresnillo,32010,32,10,77688,2010
+Zacatecas,Trinidad García de la Cadena,32011,32,11,960,2010
+Zacatecas,Genaro Codina,32012,32,12,2351,2010
+Zacatecas,General Enrique Estrada,32013,32,13,2039,2010
+Zacatecas,General Francisco R. Murguía,32014,32,14,6809,2010
+Zacatecas,El Plateado de Joaquín Amaro,32015,32,15,449,2010
+Zacatecas,General Pánfilo Natera,32016,32,16,6721,2010
+Zacatecas,Guadalupe,32017,32,17,65601,2010
+Zacatecas,Huanusco,32018,32,18,1458,2010
+Zacatecas,Jalpa,32019,32,19,7998,2010
+Zacatecas,Jerez,32020,32,20,21705,2010
+Zacatecas,Jiménez del Teul,32021,32,21,1297,2010
+Zacatecas,Juan Aldama,32022,32,22,7396,2010
+Zacatecas,Juchipila,32023,32,23,4815,2010
+Zacatecas,Loreto,32024,32,24,16754,2010
+Zacatecas,Luis Moya,32025,32,25,4147,2010
+Zacatecas,Mazapil,32026,32,26,6014,2010
+Zacatecas,Melchor Ocampo,32027,32,27,896,2010
+Zacatecas,Mezquital del Oro,32028,32,28,714,2010
+Zacatecas,Miguel Auza,32029,32,29,7729,2010
+Zacatecas,Momax,32030,32,30,865,2010
+Zacatecas,Monte Escobedo,32031,32,31,2959,2010
+Zacatecas,Morelos,32032,32,32,4153,2010
+Zacatecas,Moyahua de Estrada,32033,32,33,1583,2010
+Zacatecas,Nochistlán de Mejía,32034,32,34,9516,2010
+Zacatecas,Noria de Ángeles,32035,32,35,4549,2010
+Zacatecas,Ojocaliente,32036,32,36,13069,2010
+Zacatecas,Pánuco,32037,32,37,5805,2010
+Zacatecas,Pinos,32038,32,38,20815,2010
+Zacatecas,Río Grande,32039,32,39,21207,2010
+Zacatecas,Sain Alto,32040,32,40,6544,2010
+Zacatecas,El Salvador,32041,32,41,785,2010
+Zacatecas,Sombrerete,32042,32,42,21113,2010
+Zacatecas,Susticacán,32043,32,43,427,2010
+Zacatecas,Tabasco,32044,32,44,5508,2010
+Zacatecas,Tepechitlán,32045,32,45,2912,2010
+Zacatecas,Tepetongo,32046,32,46,2072,2010
+Zacatecas,Teúl de González Ortega,32047,32,47,2027,2010
+Zacatecas,Tlaltenango de Sánchez Román,32048,32,48,9948,2010
+Zacatecas,Valparaíso,32049,32,49,10687,2010
+Zacatecas,Vetagrande,32050,32,50,3192,2010
+Zacatecas,Villa de Cos,32051,32,51,11897,2010
+Zacatecas,Villa García,32052,32,52,6159,2010
+Zacatecas,Villa González Ortega,32053,32,53,3598,2010
+Zacatecas,Villa Hidalgo,32054,32,54,5200,2010
+Zacatecas,Villanueva,32055,32,55,10065,2010
+Zacatecas,Zacatecas,32056,32,56,57621,2010
+Zacatecas,Trancoso,32057,32,57,5730,2010
+Zacatecas,Santa María de la Paz,32058,32,58,800,2010
